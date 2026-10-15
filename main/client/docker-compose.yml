@@ -1,0 +1,14 @@
+# Сборка клиента в docker. Каталог main/ монтируется в контейнер,
+# результат сборки сохраняется на хосте в main/server/www.
+#   docker compose run --rm build        — установка зависимостей, тесты и сборка
+#   docker compose run --rm build sh -c "npm run watch"  — пересборка при изменениях
+services:
+  build:
+    image: node:22
+    working_dir: /work/client
+    user: "${HOST_UID:-1000}:${HOST_GID:-1000}"
+    environment:
+      - HOME=/tmp
+    volumes:
+      - ..:/work
+    command: sh -c "npm install --no-audit --no-fund && npm test && npm run build"

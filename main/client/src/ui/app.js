@@ -4,12 +4,37 @@ import { WHITE, BLACK } from '../chess/board.js';
 import { sameMove } from '../chess/position.js';
 import { Game, HEADER_KEYS, FILE_EXTENSION, loadGame, serializeGame } from '../chess/game.js';
 import { BoardView } from './board-view.js';
-import { choose, confirmDialog, promptText, notify } from './dialogs.js';
+import { choose, confirmDialog, promptText, notify, messageArea, settingsDialog } from './dialogs.js';
 import { pieceImage } from './pieces.js';
 
 const HEADER_LABELS = { White: 'Белые', Black: 'Черные', Place: 'Место', Date: 'Дата', Note: 'Описание' };
 const SIDE_LABELS = { W: 'за белых', B: 'за черных', both: 'за обе стороны' };
 const AUTO_DELAY = 700;
+const SETTINGS_KEY = 'chesser.settings';
+const SETTINGS = [
+  { key: 'showInfo', label: 'Показывать информацию об игре' },
+  { key: 'showComments', label: 'Показывать комментарии к ходам' },
+  { key: 'showMoves', label: 'Показывать сыгранные ходы' },
+];
+
+function loadSettings() {
+  const values = { showInfo: true, showComments: true, showMoves: true };
+  try {
+    const saved = JSON.parse(localStorage.getItem(SETTINGS_KEY) || '{}');
+    for (const { key } of SETTINGS) if (typeof saved[key] === 'boolean') values[key] = saved[key];
+  } catch (e) {
+    // настройки по умолчанию
+  }
+  return values;
+}
+
+function saveSettings(values) {
+  try {
+    localStorage.setItem(SETTINGS_KEY, JSON.stringify(values));
+  } catch (e) {
+    // хранилище недоступно — настройки действуют до перезагрузки страницы
+  }
+}
 
 function icon(name) {
   return el(`i.bi.bi-${name}`, { 'aria-hidden': 'true' });
@@ -42,6 +67,7 @@ export class App {
     this.dirty = false;
     this.timer = null;
     this.fileName = '';
+    this.settings = loadSettings();
 
     this.board = new BoardView((sq) => this.onSquare(sq));
     this.fileInput = el('input.d-none', { type: 'file', accept: `${FILE_EXTENSION},text/plain` });
@@ -55,7 +81,8 @@ export class App {
         button('btn-outline-light.btn-sm', 'file-earmark-plus', 'Новая', () => this.newGame(), 'Новая партия'),
         button('btn-outline-light.btn-sm', 'folder2-open', 'Открыть', () => this.open(), 'Открыть партию'),
         this.saveButton,
-        this.editButton));
+        this.editButton,
+        button('btn-outline-light.btn-sm', 'gear', 'Настройки', () => this.openSettings())));
 
     this.toolbar = el('div.toolbar.d-flex.flex-wrap.justify-content-center.gap-1.mt-2');
     this.status = el('div.status.alert.py-2.mb-2');
@@ -66,7 +93,7 @@ export class App {
       el('div.container-fluid.py-2',
         el('div.row.g-3',
           el('div.col-12.col-lg-7.col-xl-6.offset-xl-1',
-            el('div.board-wrap', this.board),
+            el('div.board-wrap', messageArea(), this.board),
             this.toolbar),
           el('div.col-12.col-lg-5.col-xl-4',
             this.status,
@@ -119,13 +146,13 @@ export class App {
 
   buildPlayPanel() {
     this.playInfo = el('div.small');
+    this.infoCard = el('div.card.mb-2', el('div.card-body.p-2', this.playInfo));
     this.comment = el('div.comment');
     this.commentTitle = el('div.card-header.py-1.small.fw-semibold');
     this.playMoves = el('div.moves');
-    this.playPanel = el('div',
-      el('div.card.mb-2', el('div.card-body.p-2', this.playInfo)),
-      el('div.card.mb-2.comment-card', this.commentTitle, el('div.card-body.p-2', this.comment)),
-      el('div.card', el('div.card-header.py-1.small.fw-semibold', 'Сыгранные ходы'), el('div.card-body.p-2', this.playMoves)));
+    this.commentCard = el('div.card.mb-2.comment-card', this.commentTitle, el('div.card-body.p-2', this.comment));
+    this.movesCard = el('div.card', el('div.card-header.py-1.small.fw-semibold', 'Сыгранные ходы'), el('div.card-body.p-2', this.playMoves));
+    this.playPanel = el('div', this.infoCard, this.commentCard, this.movesCard);
   }
 
   // ---------- Состояние ----------
@@ -175,6 +202,9 @@ export class App {
       if (this.noteInput.value !== note) this.noteInput.value = note;
     } else {
       setChildren(this.panel, [this.playPanel]);
+      this.infoCard.classList.toggle('d-none', !this.settings.showInfo);
+      this.commentCard.classList.toggle('d-none', !this.settings.showComments);
+      this.movesCard.classList.toggle('d-none', !this.settings.showMoves);
       this.renderPlayInfo();
       this.renderComment();
     }
@@ -303,6 +333,14 @@ export class App {
     }
     setChildren(this.comment, items);
     this.comment.scrollTop = this.comment.scrollHeight;
+  }
+
+  openSettings() {
+    settingsDialog(SETTINGS, this.settings, (key, value) => {
+      this.settings[key] = value;
+      saveSettings(this.settings);
+      this.render();
+    });
   }
 
   // ---------- Ходы ----------

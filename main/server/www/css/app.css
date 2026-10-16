@@ -19,7 +19,7 @@ body {
 
 .board-wrap {
   width: 100%;
-  max-width: min(100%, calc(100vh - 140px), calc(100dvh - 140px));
+  max-width: min(100%, calc(100vh - 146px - 3.2rem), calc(100dvh - 146px - 3.2rem));
   min-width: min(100%, 280px);
   margin: 0 auto;
 }
@@ -181,22 +181,22 @@ body {
   height: 52px;
 }
 
-.toast-area {
-  position: fixed;
-  bottom: 12px;
-  left: 50%;
-  transform: translateX(-50%);
-  z-index: 1090;
-  width: min(92vw, 460px);
-  pointer-events: none;
+/* Фиксированное поле подсказок над доской: высота не меняется, доска не сдвигается. */
+.message-bar {
+  height: 3.2rem;
+  margin-bottom: 6px;
+  overflow: hidden;
 }
 
-.toast-area .alert {
-  transition: opacity 0.4s;
-}
-
-.toast-area .fade-out {
-  opacity: 0;
+.message-bar .message {
+  height: 100%;
+  margin: 0;
+  padding: 0.25rem 0.6rem;
+  display: flex;
+  align-items: center;
+  font-size: 0.9rem;
+  line-height: 1.25;
+  overflow: hidden;
 }
 
 @media (max-width: 575.98px) {

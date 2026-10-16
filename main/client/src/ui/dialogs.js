@@ -93,17 +93,27 @@ export function promptText(title, label, value = '') {
   });
 }
 
-let toasts = null;
+// Подсказки и сообщения выводятся в фиксированное поле над доской (одно сообщение за раз).
+const messageBar = el('div.message-bar', { role: 'status', 'aria-live': 'polite' });
+let messageTimer = null;
+
+export function messageArea() {
+  return messageBar;
+}
 
 export function notify(text, type = 'info', timeout = 3500) {
-  if (!toasts) {
-    toasts = el('div.toast-area');
-    document.body.appendChild(toasts);
-  }
-  const item = el(`div.alert.alert-${type}.shadow-sm.mb-2`, { role: type === 'danger' ? 'alert' : 'status' }, text);
-  toasts.appendChild(item);
-  setTimeout(() => {
-    item.classList.add('fade-out');
-    setTimeout(() => item.remove(), 400);
-  }, timeout);
+  clearTimeout(messageTimer);
+  setChildren(messageBar, [el(`div.message.alert.alert-${type}`, { role: type === 'danger' ? 'alert' : null }, text)]);
+  messageTimer = setTimeout(() => setChildren(messageBar, []), timeout);
+}
+
+// Окно настроек: options — [{ key, label }], values — текущие значения; onChange(key, value) вызывается сразу.
+export function settingsDialog(options, values, onChange) {
+  const body = el('div', options.map(({ key, label }) => {
+    const input = el('input.form-check-input', { type: 'checkbox', id: `opt-${key}` });
+    input.checked = Boolean(values[key]);
+    input.addEventListener('change', () => onChange(key, input.checked));
+    return el('div.form-check.form-switch.mb-2', input, el('label.form-check-label', { for: `opt-${key}` }, label));
+  }));
+  return choose('Настройки', body, [{ label: 'Закрыть', value: null, cls: 'btn-primary' }]);
 }

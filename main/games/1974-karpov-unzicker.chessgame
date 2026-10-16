@@ -1,0 +1,103 @@
+# White: Карпов
+# Black: Унцикер
+# Place: Ницца (олимпиада)
+# Date: 18.06.1974
+# Note: Позиционная игра: Захват пространства и медленное удушение позиции в испанской партии. Испанская партия: Позиционное удушение: захват пространства и игра на ферзевом фланге.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Карпов — Унцикер
+Nice Olympiad Final-A, Nice FRA, 1974.06.18, тур 4. Результат: 1-0.
+Этап — 3. Позиционная игра. Чему учит: Захват пространства и медленное удушение позиции в испанской партии.
+Дебют — Испанская партия. Что смотреть: Позиционное удушение: захват пространства и игра на ферзевом фланге.
+]
+89ABSDEF25160734mnopqrstwzv{u}xy W e4
+89ABSDEF25160734mnoparstwzv{u}xy B e5
+89ABSDEF251L0734mnoparstwzv{u}xy W Nf3
+89ABSDEF251L0734mnoparstwzg{u}xy B Nc6
+89ABSDEF2X1L0734mnoparstwzg{u}xy W Bb5
+89ABSDEF2X1L0734enoparstwzg{u}xy B a6
+89ABSDEF2O1L0734enoparstwzg{u}xy W Ba4
+89ABSDEF2O1L0734enoparstwzgju}xy B Nf6
+89ABSDEF2O1L0536enoparstwzgju}xy W O-O
+89ABSDEF2O1L0536enoparstwqgju}xy B Be7
+89ABSDEF2O1L0436enoparstwqgju}xy W Re1
+89ABSDEF2O1L0436eXoparstwqgju}xy B b5
+89ABSDEF2H1L0436eXoparstwqgju}xy W Bb3
+89ABSDEF2H1L0436eXoharstwqgju}xy B d6
+89IBSDEF2H1L0436eXoharstwqgju}xy W c3
+89IBSDEF2H1L0436eXoharstwqgjuzx{ B O-O
+89IBSDEN2H1L0436eXoharstwqgjuzx{ W h3
+89IBSDEN2H1L0436eXoharstwqWjuzx{ B Na5
+89IBSDEN2A1L0436eXoharstwqWjuzx{ W Bc2
+89IBSDEN2A1L0436eXYharstwqWjuzx{ B c5
+89IRSDEN2A1L0436eXYharstwqWjuzx{ W d4
+89IRSDEN2A1L0436eXYharstwqWjuzo{ B Qc7
+89IRSDEN2ABL0436eXYharstwqWjuzo{ W Nbd2
+89IRSDEN2ABL0436eXYharstwqgjuzo{ B Nc6
+89IZSDEN2ABL0436eXYharstwqgjuzo{ W d5
+89IZSDEN2ABL0436eXYharstwqxjuzo{ B Nd8
+O9IZSDEN2ABL0436eXYharstwqxjuzo{ W a4
+O9IZSDEN2ABL0436eXYharstwqxjvzo{ B Rb8
+X9IZSDEN2ABL0436e Yharstwqxjvzo{ W axb5
+ 9IZSDEN2ABL0436X Yharstwqxjvzo{ B axb5
+ PIZSDEN2ABL0436X Yharstwqxjvzo{ W b4
+ PIZSDEN2ABL0436X Yharstwqnjvzo{ B Nb7
+ PIZSDEN2A5L0436X Yharstwqnjvzo{ W Nf1
+ PIZSDEN2A5L0436X Yharstpqnjvzo{ B Bd7
+ PIZSDENKA5L0436X Yharstpqnjvzo{ W Be3
+ PIZSDENKA5L0436X Yharstpqnjuzo{ B Ra8
+ PIZSDENKA5L04B6X Yharstpqnjuzo{ W Qd2
+ PIZSDENKA5L04B6X Yharstpqnjuwo{ B Rfc8
+ PIZSDENKJ5L04B6X Yharstpqnjuwo{ W Bd3
+ PIZSDENKJ5L04B6X Yharktpqnjuwo{ B g6
+ PIZSDENKJML04B6X Yharktpqnjuwo{ W Ng3
+ PIZSDENKJML04B6X Yharktpznjuwo{ B Bf8
+ PIZSDENKJML84B6X Yharktpznjuwo{ W Ra2
+ PIZSDENKJML84B6X Qharktpznjuwo{ B c4
+ PIZSDENK1ML84B6X Qharktpznjuwo{ W Bb1
+ PIZSDENK1ML84B6X Qharktpznjuwx{ B Qd8
+ PIZSDENm1ML84B6X Qharktpznjuwx{ W Ba7
+ PIZSDENm1ML84B6X Qharktpznyuwx{ B Ne8
+ PIZSDENmAML84B6X Qharktpznyuwx{ W Bc2
+ PIZSDENmAML84B6X Qharktpznouwx{ B Nc7
+ PIZSDENmAML80B6X Qharktpznouwx{ W Rea1
+ PIZSDENmAML80B6X Qharktpznouwq{ B Qe7
+ PIZSDENm1ML80B6X Qharktpznouwq{ W Bb1
+ PIZSDENm1ML80B6X Qharktyznouwq{ B Be8
+ PIZSDENm1CL80B6X Qharktyznouwq{ W Ne2
+ PIZSDENm1CL80B6X Qharktyzxouwq{ B Nd8
+ PIZSDENm1CF80B6X Qharktyzxouwq{ W Nh2
+ PIZSDENm1CF80B6X Qharktysxouwq{ B Bg7
+ PIZSTENm1CF80B6X Qharktysxouwq{ W f4
+ PIZSTENm1CF80B6X Qhajktysxouwq{ B f6
+ PIZSbENm1CF80B6X Qhajktysxouwq{ W f5
+ PIZSbENm1CF80B6X Qhajctysxouwq{ B g5
+ PIZSbENmACF80B6X Qhajctysxouwq{ W Bc2
+ PIZSbENmACF80B6X Qhajctrsxouwq{ B Bf7
+ PIZSbENmAMF80B6X Qhajctrsxouwq{ W Ng3
+ PIZSbENmAMF80B6X Qhajctrsnouwq{ B Nb7
+ PIZSbENm3MF80B6X Qhajctrsnouwq{ W Bd1
+ PIZSbENm3MF80B6X Qhajclrsnouwq{ B h6
+ PIZSbENmdMF80B6X Qhajclrsnouwq{ W Bh5
+ PIZSbENmdMF80B6X Qhajclrsnouwy{ B Qe8
+ PIZSbENmdMF8036X Qhajclrsnouwy{ W Qd1
+ PIZSbENmdMF8036X Qhajclrsxouwy{ B Nd8
+ PIZSbENmdMFG036X Qhajclrsxouwy{ W Ra3
+ PIZSbENmdMFG036X Qhajclrsxouwyz B Kf8
+ PIZSbENmdMFG836X Qhajclrsxouwyz W R1a2
+ PIZSbENmdMFG836X Qhajclrsxouwy{ B Kg8
+ PIZSbENmdMUG836X Qhajclrsxouwy{ W Ng4
+ PIZSbENmdMUG836X Qhajclrsxouwyz B Kf8
+ PIZSbENmdMKG836X Qhajclrsxouwyz W Ne3
+ PIZSbENmdMKG836X Qhajclrsxouwy{ B Kg8
+ PIZSbENmrMKG836X Qhajcl sxouwy{ W Bxf7+
+ PIZSbENm MKG836X Qhajcl srouwy{ B Nxf7
+ PIZSbENm MKG8d6X Qhajcl srouwy{ W Qh5
+ PIZSbENm MKG8d6X Qhajcl sxouwy{ B Nd8
+ PIZSbENm MKG8k6X Qhajcl sxouwy{ W Qg6
+ PIZSbENm MKG8k6X Qhajcl sxouwyz B Kf8
+ PIZSbENm dKG8k6X Qhajcl sxouwyz W Nh5
+[
+Результат партии: 1-0.
+]

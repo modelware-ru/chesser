@@ -1,0 +1,100 @@
+# White: Д. Бирн
+# Black: Фишер
+# Place: Нью-Йорк
+# Date: 17.10.1956
+# Note: «Партия века». Комбинации и жертвы: Атакующая игра 13-летнего Фишера и знаменитая жертва ферзя. Жертва ферзя ради атаки: После жертвы ферзя фигуры чёрных уничтожают позицию белых. Защита Грюнфельда: Чёрные контратакуют центр фигурами.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Д. Бирн — Фишер («Партия века»)
+Third Rosenwald Trophy, New York, NY USA, 1956.10.17, тур 8. Результат: 0-1.
+Этап — 2. Комбинации и жертвы. Чему учит: Атакующая игра 13-летнего Фишера и знаменитая жертва ферзя.
+Приём — Жертва ферзя ради атаки. Что смотреть: После жертвы ферзя фигуры чёрных уничтожают позицию белых.
+Дебют — Защита Грюнфельда. Что смотреть: Чёрные контратакуют центр фигурами.
+]
+89ABCDEF251L0734mnopqrstwzv{u}xy W Nf3
+89ABCDEF251L0734mnopqrstwzvju}xy B Nf6
+89QBCDEF251L0734mnopqrstwzvju}xy W c4
+89QBCDEF251L0734mnopqrktwzvju}xy B g6
+89QBCDEF25IL0734mnopqrktwzvju}xy W Nc3
+89QBCDEF25IL0734mnopqrktwsvju}xy B Bg7
+89QRCDEF25IL0734mnopqrktwsvju}xy W d4
+89QRCDEF25IL0734mnopqrktwsvjuzx{ B O-O
+89QRCDEFT5IL0734mnopqrktwsvjuzx{ W Bf4
+89QRCDEFT5IL0734mnoZqrktwsvjuzx{ B d5
+89QRCDEFT5IL07H4mnoZqrktwsvjuzx{ W Qb3
+89 RCDEFT5IL07H4mnoQqrktwsvjuzx{ B dxc4
+89 RCDEFT5IL07Q4mno qrktwsvjuzx{ W Qxc4
+89 RCDEFT5IL07Q4mng qrktwsvjuzx{ B c6
+89 RSDEFT5IL07Q4mng qrktwsvjuzx{ W e4
+89 RSDEFT5IL07Q4mng qrktwspjuzx{ B Nbd7
+89 RSDEFT5IL37Q4mng qrktwspjuzx{ W Rd1
+89 RSDEFT5IL37Q4mng qrktwsfjuzx{ B Nb6
+89 RSDEFT5IL37Y4mng qrktwsfjuzx{ W Qc5
+89 RSDEFT5IL37Y4mng qrktUsfjuzx{ B Bg4
+89 RSDEFc5IL37Y4mng qrktUsfjuzx{ W Bg5
+89 RSDEFc5IL37Y4mng qrktUsOjuzx{ B Na4
+89 RSDEFc5IL37G4mng qrktUsOjuzx{ W Qa3
+89 RSDEFc5 L37G4mng qrktUsIjuzx{ B Nxc3
+8I RSDEFc5 L37G4mng qrktUs juzx{ W bxc3
+8I R DEFc5 L37G4mng qrktUs Suzx{ B Nxe4
+8I R DEFq5 L37G4mng  rktUs Suzx{ W Bxe7
+8I R DEFq5 L37G4mng  rktUs Suzf{ B Qb6
+8I R DEFqQ L37G4mng  rktUs Suzf{ W Bc4
+8  R DEFqQ L37G4mng  rktUs Iuzf{ B Nxc3
+8  R DEFYQ L37G4mng  rktUs Iuzf{ W Bc5
+8  R DEFYQ L37G4mng  rktUs Iuyf{ B Rfe8+
+8  R DEFYQ L37G5mng  rktUs Iuyf{ W Kf1
+8  R DEFYQ L37G5mng  rktis Iuyf{ B Be6
+8  R DEFfQ L37G5mng  rktis Iuy { W Bxb6
+8  R DEFf  L37G5mng  rktQs Iuy { B Bxc4+
+8  R DEFf  L37G6mng  rktQs Iuy { W Kg1
+8  R DEFf  L37G6mng  rktQs Cuy { B Ne2+
+8  R DEFf  L37G5mng  rktQs Cuy { W Kf1
+8    DEFf  L37G5mng  rktQs Ruy { B Nxd4+
+8    DEFf  L37G6mng  rktQs Ruy { W Kg1
+8    DEFf  L37G6mng  rktQs Cuy { B Ne2+
+8    DEFf  L37G5mng  rktQs Cuy { W Kf1
+8    DEFf  L37G5mng  rktQs Iuy { B Nc3+
+8    DEFf  L37G6mng  rktQs Iuy { W Kg1
+8    DEF   L37G6fng  rktQs Iuy { B axb6
+8    DEF   L37P6fng  rktQs Iuy { W Qb4
+8    DEF   L37P6fng  rktQs IOy { B Ra4
+8    DEF   L37f6 ng  rktQs IOy { W Qxb6
+8    DEF   L 7f6 ng  rktQs 3Oy { B Nxd1
+8    DEN   L 7f6 ng  rktQs 3Oy { W h3
+     DEN   L 7f6 ng  rktQs 38y { B Rxa2
+     DEN   L 7fF ng  rktQs 38y { W Kh2
+      EN   L 7fF ng  rktQs D8y { B Nxf2
+      EN   L 4fF ng  rktQs D8y { W Re1
+      EN   L  fF ng  rktQs D84 { B Rxe1
+      EN   L  xF ng  rktQs D84 { W Qd8+
+      EN   L  xF ng  rktQz D84 { B Bf8
+      EN   4  xF ng  rktQz D8  { W Nxe1
+      EN   4  xF ng  rktZz D8  { B Bd5
+      EN   L  xF ng  rktZz D8  { W Nf3
+      EN   L  xF ng  rktZz S8  { B Ne4
+      EN   L  vF ng  rktZz S8  { W Qb8
+      EN   L  vF Xg  rktZz S8  { B b5
+      EV   L  vF Xg  rktZz S8  { W h4
+      EV   L  vF Xg  rkdZz S8  { B h5
+      EV   a  vF Xg  rkdZz S8  { W Ne5
+      EV   a  vF Xg  rkdZz S8  s B Kg7
+      EV   a  v6 Xg  rkdZz S8  s W Kg1
+      EV   a  v6 Xg  rkdZY S8  s B Bc5+
+      EV   a  v5 Xg  rkdZY S8  s W Kf1
+      EV   a  v5 Xg  rkdZY M8  s B Ng3+
+      EV   a  v4 Xg  rkdZY M8  s W Ke1
+      EV   a  v4 Xg  rkdZP M8  s B Bb4+
+      EV   a  v3 Xg  rkdZP M8  s W Kd1
+      EV   a  v3 Xg  rkdHP M8  s B Bb3+
+      EV   a  v2 Xg  rkdHP M8  s W Kc1
+      EV   a  v2 Xg  rkdHP C8  s B Ne2+
+      EV   a  v1 Xg  rkdHP C8  s W Kb1
+      EV   a  v1 Xg  rkdHP I8  s B Nc3+
+      EV   a  v2 Xg  rkdHP I8  s W Kc1
+      EV   a  v2 Xg  rkdHP IA  s B Rc2#
+[
+Мат.
+Результат партии: 0-1.
+]

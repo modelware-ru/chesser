@@ -1,0 +1,66 @@
+# White: Стейниц
+# Black: Барделебен
+# Place: Гастингс
+# Date: 17.08.1895
+# Note: Комбинации и жертвы: Атака в центре и красивая серия шахов. Перекрытие, атака на короля: Ладья на 7-й горизонтали, которую нельзя взять. Итальянская партия: Классическое Джуоко пиано и прорыв d4–d5 в центре.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Стейниц — Барделебен
+Hastings, Hastings ENG, 1895.08.17, тур 10. Результат: 1-0.
+Этап — 2. Комбинации и жертвы. Чему учит: Атака в центре и красивая серия шахов.
+Приём — Перекрытие, атака на короля. Что смотреть: Ладья на 7-й горизонтали, которую нельзя взять.
+Дебют — Итальянская партия. Что смотреть: Классическое Джуоко пиано и прорыв d4–d5 в центре.
+]
+89ABSDEF25160734mnopqrstwzv{u}xy W e4
+89ABSDEF25160734mnoparstwzv{u}xy B e5
+89ABSDEF251L0734mnoparstwzv{u}xy W Nf3
+89ABSDEF251L0734mnoparstwzg{u}xy B Nc6
+89ABSDEF2Q1L0734mnoparstwzg{u}xy W Bc4
+89ABSDEF2Q1L0734mnoparstwYg{u}xy B Bc5
+89IBSDEF2Q1L0734mnoparstwYg{u}xy W c3
+89IBSDEF2Q1L0734mnoparstwYgju}xy B Nf6
+89IRSDEF2Q1L0734mnoparstwYgju}xy W d4
+89I SDEF2Q1L0734mnopRrstwYgju}xy B exd4
+89R SDEF2Q1L0734mnop rstwYgju}xy W cxd4
+89R SDEF2Q1L0734mnop rstwPgju}xy B Bb4+
+89R SDEF2QIL0734mnop rstwPgju}xy W Nc3
+89R SDEF2QIL0734mnoZ rstwPgju}xy B d5
+89R ZDEF2QIL0734mno  rstwPgju}xy W exd5
+89R  DEF2QIL0734mno  rstwPgZu}xy B Nxd5
+89R  DEF2QIL0536mno  rstwPgZu}xy W O-O
+89R  DEF2QIL0536mno  rstiPgZu}xy B Be6
+89R  DEFcQIL0536mno  rstiPgZu}xy W Bg5
+89R  DEFcQIL0536mno  rstiqgZu}xy B Be7
+89R  DEFcZIL0536mno  rstiqg u}xy W Bxd5
+89R  DEFc IL0536mno  rstZqg u}xy B Bxd5
+89R  DEFc ZL0536mno  rst qg u}xy W Nxd5
+89R  DEFc  L0536mno  rst qg u}Zy B Qxd5
+89R  DEFq  L0536mno  rst  g u}Zy W Bxe7
+89R  DEF   L0536mno  rst  q u}Zy B Nxe7
+89R  DEF   L0436mno  rst  q u}Zy W Re1
+89R  DEF   L0436mno  jst  q u}Zy B f6
+89R  DEF   L04C6mno  jst  q u}Zy W Qe2
+89R  DEF   L04C6mno  jst  q u}py B Qd7
+89R  DEF   L24C6mno  jst  q u}py W Rac1
+89R  DEF   L24C6mng  jst  q u}py B c6
+89Z  DEF   L24C6mng  jst  q u}py W d5
+89   DEF   L24C6mnZ  jst  q u}py B cxd5
+89   DEF   R24C6mnZ  jst  q u}py W Nd4
+89   DEF   R24C6mnZ  jst  q u}pr B Kf7
+89   DEF   i24C6mnZ  jst  q u}pr W Ne6
+89   DEF   i24C6mnZ  jst  q uwpr B Rhc8
+89   DEF   i24U6mnZ  jst  q uwpr W Qg4
+89   DEF   i24U6mnZ  jkt  q uwpr B g6
+89   DEF   c24U6mnZ  jkt  q uwpr W Ng5+
+89   DEF   c24U6mnZ  jkt  q uwpy B Ke8
+89   DEF   c2qU6mnZ  jkt    uwpy W Rxe7+
+89   DEF   c2qU6mnZ  jkt    uwpz B Kf8
+89   DEF   c2rU6mnZ  jkt    uwpz W Rf7+
+89   DEF   c2rU6mnZ  jkt    uwp{ B Kg8
+89   DEF   c2sU6mnZ  jkt    uwp{ W Rg7+
+89   DEF   c2sU6mnZ  jkt    uwp} B Kh8
+89   DEF   c2tU6mnZ  jk     uwp} W Rxh7+
+[
+Результат партии: 1-0.
+]

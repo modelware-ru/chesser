@@ -1,0 +1,74 @@
+# White: Бернштейн
+# Black: Капабланка
+# Place: Москва
+# Date: 04.02.1914
+# Note: Отвлечение, мат на последней горизонтали: Капабланка играет Фb2!! и пользуется слабостью последней горизонтали белых.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Бернштейн — Капабланка
+Capablanca-Bernstein Match, Moscow RUE, 1914.02.04, тур 1. Результат: 0-1.
+Приём — Отвлечение, мат на последней горизонтали. Что смотреть: Капабланка играет Фb2!! и пользуется слабостью последней горизонтали белых.
+]
+89ARCDEF25160734mnopqrstwzv{u}xy W d4
+89ARCDEF25160734mnoZqrstwzv{u}xy B d5
+89QRCDEF25160734mnoZqrstwzv{u}xy W c4
+89QRCDEF25160734mnoZirstwzv{u}xy B e6
+89QRCDEF25I60734mnoZirstwzv{u}xy W Nc3
+89QRCDEF25I60734mnoZirstwzvju}xy B Nf6
+89QRCDEF25IL0734mnoZirstwzvju}xy W Nf3
+89QRCDEF25IL0734mnoZirstwqvju}xy B Be7
+89QRCDEFc5IL0734mnoZirstwqvju}xy W Bg5
+89QRCDEFc5IL0734mnoZirstwqvjuzx{ B O-O
+89QRKDEFc5IL0734mnoZirstwqvjuzx{ W e3
+89QRKDEFc5IL0734mnoZirstwqpjuzx{ B Nbd7
+89QRKDEFc5IL2734mnoZirstwqpjuzx{ W Rc1
+89QRKDEFc5IL2734mfoZirstwqpjuzx{ B b6
+89ZRKDEFc5IL2734mfo irstwqpjuzx{ W cxd5
+89 RKDEFc5IL2734mfo Zrstwqpjuzx{ B exd5
+89 RKDEFc5IL27O4mfo Zrstwqpjuzx{ W Qa4
+89 RKDEFc5IL27O4mfo Zrstnqpjuzx{ B Bb7
+89 RKDEFceIL27O4mfo Zrstnqpjuzx{ W Ba6
+89 RKDEFc IL27O4mfo Zrsteqpjuzx{ B Bxa6
+89 RKDEFc IL27e4mfo Zrst qpjuzx{ W Qxa6
+89 RKDEFc IL27e4mfY Zrst qpjuzx{ B c5
+89 RKDEFj IL27e4mfY Zrst qp uzx{ W Bxf6
+89 RKDEF  IL27e4mfY Zrst qj uzx{ B Nxf6
+89 YKDEF  IL27e4mf  Zrst qj uzx{ W dxc5
+89  KDEF  IL27e4mY  Zrst qj uzx{ B bxc5
+89  KDEF  IL25e6mY  Zrst qj uzx{ W O-O
+89  KDEF  IL25e6mY  Zrst qj uzf{ B Qb6
+89  KDEF  IL25C6mY  Zrst qj uzf{ W Qe2
+89  KDEF  IL25C6mQ  Zrst qj uzf{ B c4
+89  KDEF  IL23C6mQ  Zrst qj uzf{ W Rfd1
+89  KDEF  IL23C6mQ  Zrst qj uxf{ B Rfd8
+89  KDEF  IR23C6mQ  Zrst qj uxf{ W Nd4
+89  KDEF  IR23C6mQ  Zrst Pj uxf{ B Bb4
+8H  KDEF  IR23C6mQ  Zrst Pj uxf{ W b3
+8H  KDEF  IR23C6mQ  Zrst Pj wxf{ B Rac8
+8Q  KDEF  IR23C6m   Zrst Pj wxf{ W bxc4
+8   KDEF  IR23C6m   Qrst Pj wxf{ B dxc4
+8   KDEF  IRA3C6m   Qrst Pj wxf{ W Rc2
+8   KDEF   RA3C6m   Qrst Ij wxf{ B Bxc3
+8   KDEF   RI3C6m   Qrst  j wxf{ W Rxc3
+8   KDEF   RI3C6m   Qrst  Z wxf{ B Nd5
+8   KDEF   RA3C6m   Qrst  Z wxf{ W Rc2
+8   KDEF   RA3C6m   Irst  Z wxf{ B c3
+8   KDEF   RA2C6m   Irst  Z wxf{ W Rdc1
+8   KDEF   RA2C6m   Irst  Z Yxf{ B Rc5
+8   KDEF   HA2C6m   Irst  Z Yxf{ W Nb3
+8   KDEF   HA2C6m   Irst  Z gxf{ B Rc6
+8   KDEF   RA2C6m   Irst  Z gxf{ W Nd4
+8   KDEF   RA2C6m   Irst  Z oxf{ B Rc7
+8   KDEF   XA2C6m   Irst  Z oxf{ W Nb5
+8   KDEF   XA2C6m   Irst  Z Yxf{ B Rc5
+8   KDEF   IA2C6m    rst  Z Yxf{ W Nxc3
+8   KDEF    A2C6m    rst  I Yxf{ B Nxc3
+8   KDEF    I2C6m    rst    Yxf{ W Rxc3
+8   KDEF     2C6m    rst    Ixf{ B Rxc3
+8   KDEF     IC6m    rst     xf{ W Rxc3
+8   KDEF     IC6m    rst     x9{ B Qb2
+[
+Капабланка играет Фb2!! и пользуется слабостью последней горизонтали белых.
+Результат партии: 0-1.
+]

@@ -1,0 +1,82 @@
+# White: Шорт
+# Black: Тимман
+# Place: Тилбург
+# Date: 21.10.1991
+# Note: Продвинутый уровень: Белый король сам идёт в атаку и ставит мат.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Шорт — Тимман
+Tilburg Interpolis, Tilburg NED, 1991.10.21, тур 4. Результат: 1-0.
+Этап — 5. Продвинутый уровень. Чему учит: Белый король сам идёт в атаку и ставит мат.
+]
+89ABSDEF25160734mnopqrstwzv{u}xy W e4
+89ABSDEF25160734mnopqrstwzvju}xy B Nf6
+89ABaDEF25160734mnopqrstwzvju}xy W e5
+89ABaDEF25160734mnopqrstwzvZu}xy B Nd5
+89ARaDEF25160734mnopqrstwzvZu}xy W d4
+89ARaDEF25160734mnohqrstwzvZu}xy B d6
+89ARaDEF251L0734mnohqrstwzvZu}xy W Nf3
+89ARaDEF251L0734mnohqrktwzvZu}xy B g6
+89ARaDEF2Q1L0734mnohqrktwzvZu}xy W Bc4
+89ARaDEF2Q1L0734mnohqrktwzvfu}xy B Nb6
+89ARaDEF2H1L0734mnohqrktwzvfu}xy W Bb3
+89ARaDEF2H1L0734mnohqrktwsvfu}xy B Bg7
+89ARaDEF2H1L07C4mnohqrktwsvfu}xy W Qe2
+89ARaDEF2H1L07C4mnohqrktwsgfu}xy B Nc6
+89ARaDEF2H1L05C6mnohqrktwsgfu}xy W O-O
+89ARaDEF2H1L05C6mnohqrktwsgfuzx{ B O-O
+89ARaDEN2H1L05C6mnohqrktwsgfuzx{ W h3
+89ARaDEN2H1L05C6Wnohqrktwsgfuzx{ B a5
+O9ARaDEN2H1L05C6Wnohqrktwsgfuzx{ W a4
+O9AR DEN2H1L05C6Wnoaqrktwsgfuzx{ B dxe5
+O9Aa DEN2H1L05C6Wno qrktwsgfuzx{ W dxe5
+O9Aa DEN2H1L05C6Wno qrktwsRfuzx{ B Nd4
+O9Aa DEN2H1R05C6Wno qrktws fuzx{ W Nxd4
+O9Aa DEN2H1 05C6Wno qrktws fuzR{ B Qxd4
+O9Aa DEN2H1 04C6Wno qrktws fuzR{ W Re1
+O9Aa DEN2H1 04C6Wno irktws fuzR{ B e6
+O9Aa DEN2HB 04C6Wno irktws fuzR{ W Nd2
+O9Aa DEN2HB 04C6Wno irktws ZuzR{ B Nd5
+O9Aa DEN2HL 04C6Wno irktws ZuzR{ W Nf3
+O9Aa DEN2HL 04C6Wno irktws ZuzY{ B Qc5
+O9Aa DEN2HL 04S6Wno irktws ZuzY{ W Qe4
+O9Aa DEN2HL 04S6Wno irktws ZuzP{ B Qb4
+O9Aa DEN2QL 04S6Wno irktws ZuzP{ W Bc4
+O9Aa DEN2QL 04S6Wno irktws fuzP{ B Nb6
+OHAa DEN2QL 04S6Wno irktws fuzP{ W b3
+OHAa DEN2 L 04S6Wno irktws QuzP{ B Nxc4
+OQAa DEN2 L 04S6Wno irktws  uzP{ W bxc4
+OQAa DEN2 L 04S6Wno irktws  uyP{ B Re8
+OQAa DEN2 L 03S6Wno irktws  uyP{ W Rd1
+OQAa DEN2 L 03S6Wno irktws  uyY{ B Qc5
+OQAa DEN2 L 03V6Wno irktws  uyY{ W Qh4
+OQAa DEN2 L 03V6Wfo irktws  uyY{ B b6
+OQAa DENK L 03V6Wfo irktws  uyY{ W Be3
+OQAa DENK L 03V6Wfo irktws  uyg{ B Qc6
+OQAa DENl L 03V6Wfo irktws  uyg{ W Bh6
+OQAa DENl L 03V6Wfo irktw}  uyg{ B Bh8
+OQAa DENl L 0xV6Wfo irktw}  uyg{ W Rd8
+OQAa DENl L 0xV6Wfo irktn}  uyg{ B Bb7
+OQAa DENl L 3xV6Wfo irktn}  uyg{ W Rad1
+OQAa DENl L 3xV6Wfo irktns  uyg{ B Bg7
+OQAa DENl L 3pV6Wfo irktns  uyg{ W R8d7
+OQAa DENl L 3pV6Wfo irktns  uzg{ B Rf8
+OQAa DENs L 3pV6Wfo irktn   uzg{ W Bxg7
+OQAa DEN  L 3pV6Wfo irktn   uzgs B Kxg7
+OQAa DEN  L RpV6Wfo irktn   uzgs W R1d4
+OQAa DEN  L RpV6Wfo irktn   yzgs B Rae8
+OQAa DEN  L Rpj6Wfo irktn   yzgs W Qf6+
+OQAa DEN  L Rpj6Wfo irktn   yzg{ B Kg8
+OQAa DEV  L Rpj6Wfo irktn   yzg{ W h4
+OQAa DEV  L Rpj6Wfo irkdn   yzg{ B h5
+OQAa DEV  L RpjFWfo irkdn   yzg{ W Kh2
+OQAa DEV  L RpjFWfo irkdn   wzg{ B Rc8
+OQAa DEV  L RpjMWfo irkdn   wzg{ W Kg3
+OQAa DEV  L RpjMWfo irkdn   yzg{ B Rce8
+OQAa DEV  L RpjTWfo irkdn   yzg{ W Kf4
+OQAa DEV  L RpjTWfo irkdw   yzg{ B Bc8
+OQAa DEV  L RpjcWfo irkdw   yzg{ W Kg5
+[
+Результат партии: 1-0.
+]

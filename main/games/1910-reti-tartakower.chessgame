@@ -1,0 +1,41 @@
+# White: Рети
+# Black: Тартаковер
+# Place: Вена
+# Date: 1910
+# Note: Развитие и атака на короля: Король в центре, жертва ферзя и мат двумя слонами. Двойной шах, завлечение: Жертва ферзя Фd8+!!, затем двойной шах и мат слонами.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Рети — Тартаковер
+Vienna, Vienna AUH, 1910.??.??. Результат: 1-0.
+Этап — 1. Развитие и атака на короля. Чему учит: Король в центре, жертва ферзя и мат двумя слонами.
+Приём — Двойной шах, завлечение. Что смотреть: Жертва ферзя Фd8+!!, затем двойной шах и мат слонами.
+]
+89ABSDEF25160734mnopqrstwzv{u}xy W e4
+89ABSDEF25160734mngpqrstwzv{u}xy B c6
+89ARSDEF25160734mngpqrstwzv{u}xy W d4
+89ARSDEF25160734mngZqrstwzv{u}xy B d5
+89ARSDEF25I60734mngZqrstwzv{u}xy W Nc3
+89AR DEF25I60734mngSqrstwzv{u}xy B dxe4
+89AR DEF25S60734mng qrstwzv{u}xy W Nxe4
+89AR DEF25S60734mng qrstwzvju}xy B Nf6
+89AR DEF25S607J4mng qrstwzvju}xy W Qd3
+89AR DEF25S607J4mng arstwzvju}xy B e5
+89Aa DEF25S607J4mng  rstwzvju}xy W dxe5
+89Aa DEF25S607J4mng  rstwzvju}Wy B Qa5+
+89Aa DEFB5S607J4mng  rstwzvju}Wy W Bd2
+89A  DEFB5S607J4mng  rstwzvju}ay B Qxe5
+89A  DEFB5S637J2mng  rstwzvju}ay W O-O-O
+89A  DEFB5 637J2mng  rstwzvSu}ay B Nxe4
+89A  DEFB5 637x2mng  rstwzvSu}ay W Qd8+
+[
+Жертва ферзя Фd8+!!, затем двойной шах и мат слонами.
+]
+89A  DEFB5 637 2mng  rstwzvSu}ax B Kxd8
+89A  DEFc5 637 2mng  rstwzvSu}ax W Bg5+
+89A  DEFc5 637 2mng  rstwzvSu}ao B Kc7
+89A  DEFx5 637 2mng  rstwzvSu}ao W Bd8#
+[
+Мат.
+Результат партии: 1-0.
+]

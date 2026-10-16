@@ -1,0 +1,114 @@
+# White: Эванс
+# Black: Решевский
+# Place: —
+# Date: 29.12.1963
+# Note: Патовая комбинация: Белые спасают проигранную позицию, навязывая пат жертвами.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Эванс — Решевский
+United States Championship 1963/64, New York, NY USA, 1963.12.29, тур 9. Результат: 1/2-1/2.
+Приём — Патовая комбинация. Что смотреть: Белые спасают проигранную позицию, навязывая пат жертвами.
+]
+89ARCDEF25160734mnopqrstwzv{u}xy W d4
+89ARCDEF25160734mnopqrstwzvju}xy B Nf6
+89QRCDEF25160734mnopqrstwzvju}xy W c4
+89QRCDEF25160734mnopirstwzvju}xy B e6
+89QRCDEF25I60734mnopirstwzvju}xy W Nc3
+89QRCDEF25I60734mnopirstwPvju}xy B Bb4
+89QRKDEF25I60734mnopirstwPvju}xy W e3
+89QRKDEF25I60734mnYpirstwPvju}xy B c5
+89QRKDEF2JI60734mnYpirstwPvju}xy W Bd3
+89QRKDEF2JI60734mnYpirstwPvjuzx{ B O-O
+89QRKDEF2JIL0734mnYpirstwPvjuzx{ W Nf3
+89QRKDEF2JIL0734mnYZirstwPvjuzx{ B d5
+89QRKDEF2JIL0536mnYZirstwPvjuzx{ W O-O
+89 RKDEF2JIL0536mnYQirstwPvjuzx{ B dxc4
+89 RKDEF2QIL0536mnY irstwPvjuzx{ W Bxc4
+89 RKDEF2QIL0536mnY irstwPpjuzx{ B Nbd7
+89 RKDEF2QIL05C6mnY irstwPpjuzx{ W Qe2
+89 RKDEF2QIL05C6enY irstwPpjuzx{ B a6
+G9 RKDEF2QIL05C6enY irstwPpjuzx{ W a3
+G9  KDEF2QIL05C6enR irstwPpjuzx{ B cxd4
+P9  KDEF2QIL05C6enR irstw pjuzx{ W axb4
+P9  KDEF2Q L05C6enI irstw pjuzx{ B dxc3
+PI  KDEF2Q L05C6en  irstw pjuzx{ W bxc3
+PI  KDEF2Q L05C6en  irstw pjuzo{ B Qc7
+PI  SDEF2Q L05C6en  irstw pjuzo{ W e4
+PI  SDEF2Q L05C6en  arstw pjuzo{ B e5
+PI  SDEF9Q L05C6en  arstw pjuzo{ W Bb2
+PI  SDEF9Q L05C6en  arstw fjuzo{ B Nb6
+PI  SDEF9H L05C6en  arstw fjuzo{ W Bb3
+PI  SDEF9H L05C6en  arstU fjuzo{ B Bg4
+PI  SDEF9H LW5C6en  arstU fjuzo{ W Ra5
+PI  SDEF9H LW5C6en  arstU fjwzo{ B Rac8
+PQ  SDEF9H LW5C6en  arstU fjwzo{ W c4
+PQ  SDEF9H LW5C6en  arstU pjwzo{ B Nbd7
+PQ  SDEN9H LW5C6en  arstU pjwzo{ W h3
+PQ  SDEN9H  W5C6en  arstL pjwzo{ B Bxf3
+PQ  SDEN9H  W5L6en  arst  pjwzo{ W Qxf3
+PQ  SDEN9H  W5L6en  arst  pjwyo{ B Rfe8
+PQ  SDEN9H  W3L6en  arst  pjwyo{ W Rd1
+PQ  SDEN9H  W3L6en  arst  pjuyo{ B Ra8
+PY  SDEN9H  W3L6en  arst  pjuyo{ W c5
+PY  SDEN9H  W3L6en  arst  pjxyo{ B Rad8
+PY  SDEN9O  W3L6en  arst  pjxyo{ W Ba4
+PY  SDEN9O  W3L6en  arst  pjxqo{ B Re7
+PY  SDEN9O  WhL6en  arst  pjxqo{ W Rd6
+PY  SDEN9O  WhL6eX  arst  pjxqo{ B b5
+PY  SDEN9A  WhL6eX  arst  pjxqo{ W Bc2
+P   SDEN9A  WhL6eX  arst  Yjxqo{ B Nxc5
+P   SDEN9A  WxL6eX  arst  Yj qo{ W Rxd8+
+P   SDEN9A  W L6eX  arst  Yj qx{ B Qxd8
+P   SDEN9A  W K6eX  arst  Yj qx{ W Qe3
+P   SDEN9A  W K6eX  arst  pj qx{ B Ncd7
+P   SDEN9A  W J6eX  arst  pj qx{ W Qd3
+P   SDEN9A  W J6eX  arst  pj qf{ B Qb6
+P   SDEN2A  W J6eX  arst  pj qf{ W Bc1
+P   SDEN2A  W J6eX  arsl  pj qf{ B h6
+P   SDENKA  W J6eX  arsl  pj qf{ W Be3
+P   SDENKA  W J6eX  arsl  pj qn{ B Qb7
+P   SLENKA  W J6eX  arsl  pj qn{ W f3
+P   SLENKA  W J6eX  arsl  vj qn{ B Nb8
+P   SLENKA  8 J6eX  arsl  vj qn{ W Ra2
+P   SLENKA  8 J6eX  arsl  vj pn{ B Rd7
+P   SLENKA  8 G6eX  arsl  vj pn{ W Qa3
+P   SLENKA  8 G6eX  arsl  vj pnt B Kh7
+P   SLENKA  8 GFeX  arsl  vj pnt W Kh2
+P   SLENKA  8 GFeX  arsl  vj pot B Qc7
+P   SLENKJ  8 GFeX  arsl  vj pot W Bd3
+P   SLENKJ  8 GFeX  arsl  vd pot B Nh5
+P   SLENKJ  A GFeX  arsl  vd pot W Rc2
+P   SLENKJ  A GFeX  arsl  vd pxt B Qd8
+P   SLENK5  A GFeX  arsl  vd pxt W Bf1
+P   SLENK5  A GFeX  arsl  vd 3xt B Rd1
+P   SLENK5  2 GFeX  arsl  vd 3xt W Rc1
+P   SLENK5  2 GFeX  arsl  vd hxt B Rd6
+P   SLENK5  2 8FeX  arsl  vd hxt W Qa2
+P   SLENK5  2 8FeX  arsl  vd hjt B Qf6
+P   SLENK5  o 8FeX  arsl  vd hjt W Rc7
+P   SLENK5  o 8FeX  arsl  pd hjt B Nd7
+P   SLENK5  m 8FeX  arsl  pd hjt W Ra7
+P   SLENK5  m 8FeX  arsl  pT hjt B Nf4
+P   SLENK5  m AFeX  arsl  pT hjt W Qc2
+P   SLENK5  m AFeX  arsd  pT hjt B h5
+P   SLENK5  m wFeX  arsd  pT hjt W Qc8
+P   SLENK5  m wFeX  arsd  pT 3jt B Rd1
+P   SLENKX  m wFe   arsd  pT 3jt W Bxb5
+P   SLENKX  m wFe   arsd  pT 3ct B Qg5
+P   SLMNKX  m wFe   arsd  pT 3ct W g3
+P   SLMNK   m wFX   arsd  pT 3ct B axb5
+P   SLMNK   p wFX   arsd   T 3ct W Rxd7
+P   SLMNK   p wFX   arsd   T 4ct B Re1
+P   SLMNK   r wFX   a sd   T 4ct W Rxf7
+P   SLMN    r wFX   a sd   T Kct B Rxe3
+P   SLMV    r wFX   a sd   T Kct W h4
+P   SLMV    r wFX   a sd   T Cct B Re2+
+P   SLMV    r w7X   a sd   T Cct W Kh1
+P   SL V    r w7X   a sd   T CMt B Qxg3
+P   SL V    r {7X   a sd   T CMt W Qg8+
+P   SL V    r  7X   a sd   T CM{ B Kxg8
+P   SL V    s  7X   a  d   T CM{ W Rxg7+
+[
+Результат партии: 1/2-1/2.
+]

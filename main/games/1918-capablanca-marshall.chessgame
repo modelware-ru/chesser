@@ -1,0 +1,86 @@
+# White: Капабланка
+# Black: Маршалл
+# Place: Нью-Йорк
+# Date: 23.10.1918
+# Note: Испанская (атака Маршалла): Первая партия с атакой Маршалла: Капабланка отражает подготовленную атаку.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Капабланка — Маршалл
+New York, New York, NY USA, 1918.10.23, тур 1. Результат: 1-0.
+Дебют — Испанская (атака Маршалла). Что смотреть: Первая партия с атакой Маршалла: Капабланка отражает подготовленную атаку.
+]
+89ABSDEF25160734mnopqrstwzv{u}xy W e4
+89ABSDEF25160734mnoparstwzv{u}xy B e5
+89ABSDEF251L0734mnoparstwzv{u}xy W Nf3
+89ABSDEF251L0734mnoparstwzg{u}xy B Nc6
+89ABSDEF2X1L0734mnoparstwzg{u}xy W Bb5
+89ABSDEF2X1L0734enoparstwzg{u}xy B a6
+89ABSDEF2O1L0734enoparstwzg{u}xy W Ba4
+89ABSDEF2O1L0734enoparstwzgju}xy B Nf6
+89ABSDEF2O1L0536enoparstwzgju}xy W O-O
+89ABSDEF2O1L0536enoparstwqgju}xy B Be7
+89ABSDEF2O1L0436enoparstwqgju}xy W Re1
+89ABSDEF2O1L0436eXoparstwqgju}xy B b5
+89ABSDEF2H1L0436eXoparstwqgju}xy W Bb3
+89ABSDEF2H1L0436eXoparstwqgjuzx{ B O-O
+89IBSDEF2H1L0436eXoparstwqgjuzx{ W c3
+89IBSDEF2H1L0436eXoZarstwqgjuzx{ B d5
+89IBZDEF2H1L0436eXo arstwqgjuzx{ W exd5
+89IB DEF2H1L0436eXo arstwqgZuzx{ B Nxd5
+89IB DEF2H1a0436eXo  rstwqgZuzx{ W Nxe5
+89IB DEF2H1 0436eXo  rstwqaZuzx{ B Nxe5
+89IB DEF2H1 0a36eXo  rstwq Zuzx{ W Rxe5
+89IB DEF2H1 0a36eXo  rstwq juzx{ B Nf6
+89IB DEF2H1 0436eXo  rstwq juzx{ W Re1
+89IB DEF2H1 0436eXo  rstwh juzx{ B Bd6
+89IB DEN2H1 0436eXo  rstwh juzx{ W h3
+89IB DEN2H1 0436eXo  rstwh Uuzx{ B Ng4
+89IB DEN2H1 04L6eXo  rstwh Uuzx{ W Qf3
+89IB DEN2H1 04L6eXo  rstwh UuzV{ B Qh4
+89IR DEN2H1 04L6eXo  rstwh UuzV{ W d4
+89IR  EN2H1 04L6eXo  rstwh DuzV{ B Nxf2
+89IR  EN2H1 0CL6eXo  rstwh DuzV{ W Re2
+89IR  EN2H1 0CL6eXo  rstUh DuzV{ B Bg4
+89IR  EU2H1 0CL6eXo  rst h DuzV{ W hxg4
+89IR  EU2H1 0CL6eXo  rst F DuzV{ B Bh2+
+89IR  EU2H1 0CL5eXo  rst F DuzV{ W Kf1
+89IR  EU2H1 0CL5eXo  rst M DuzV{ B Bg3
+89IR  EU2H1 0DL5eXo  rst M  uzV{ W Rxf2
+89IR  EU2H1 0DL5eXo  rst M  uz7{ B Qh1+
+89IR  EU2H1 0DLCeXo  rst M  uz7{ W Ke2
+89IR  EU2H1 0 LCeXo  rst D  uz7{ B Bxf2
+89IR  EUBH1 0 LCeXo  rst D  uz7{ W Bd2
+89IR  EUBH1 0 LCeXo  rst V  uz7{ B Bh4
+89IR  EUBH1 0 NCeXo  rst V  uz7{ W Qh3
+89IR  EUBH1 0 NCeXo  rst V  yz7{ B Rae8+
+89IR  EUBH1 0 NJeXo  rst V  yz7{ W Kd3
+89IR  EUBH1 0 NJeXo  rst V  yz5{ B Qf1+
+89IR  EUBH1 0 NAeXo  rst V  yz5{ W Kc2
+89IR  EUBH1 0 NAeXo  rst D  yz5{ B Bf2
+89IR  EUBH1 0 LAeXo  rst D  yz5{ W Qf3
+89IR  EUBH1 0 LAeXo  rst D  yz6{ B Qg1
+89IR  EUBZ1 0 LAeXo  rst D  yz6{ W Bd5
+89IR  EUBZ1 0 LAeXY  rst D  yz6{ B c5
+89IY  EUBZ1 0 LAeX   rst D  yz6{ W dxc5
+89I   EUBZ1 0 LAeX   rst Y  yz6{ B Bxc5
+8PI   EUBZ1 0 LAeX   rst Y  yz6{ W b4
+8PI   EUBZ1 0 LAeX   rst h  yz6{ B Bd6
+OPI   EUBZ1 0 LAeX   rst h  yz6{ W a4
+OPI   EUBZ1 0 LAWX   rst h  yz6{ B a5
+XPI   EUBZ1 0 LAW    rst h  yz6{ W axb5
+X I   EUBZ1 0 LAP    rst h  yz6{ B axb4
+X I   EUBZ1 e LAP    rst h  yz6{ W Ra6
+X     EUBZ1 e LAI    rst h  yz6{ B bxc3
+X     EUBZI e LA     rst h  yz6{ W Nxc3
+X     EUBZI e LA     rst P  yz6{ B Bb4
+f     EUBZI e LA     rst P  yz6{ W b6
+f     EUBZ  e LA     rst I  yz6{ B Bxc3
+f     EUIZ  e LA     rst    yz6{ W Bxc3
+f     EUIZ  e LA     rsl    yz6{ B h6
+n     EUIZ  e LA     rsl    yz6{ W b7
+n     EUIZ  e LA     rsl    Kz6{ B Re3
+n     EUIr  e LA      sl    Kz6{ W Bxf7+
+[
+Результат партии: 1-0.
+]

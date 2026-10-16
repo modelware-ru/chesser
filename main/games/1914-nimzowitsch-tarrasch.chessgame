@@ -1,0 +1,80 @@
+# White: Нимцович
+# Black: Тарраш
+# Place: Санкт-Петербург
+# Date: 28.04.1914
+# Note: Двойная жертва слонов: Тот же приём, его проводят чёрные.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Нимцович — Тарраш
+St. Petersburg, St. Petersburg  RUE, 1914.04.28, тур 5. Результат: 0-1.
+Приём — Двойная жертва слонов. Что смотреть: Тот же приём, его проводят чёрные.
+]
+89ARCDEF25160734mnopqrstwzv{u}xy W d4
+89ARCDEF25160734mnoZqrstwzv{u}xy B d5
+89ARCDEF251L0734mnoZqrstwzv{u}xy W Nf3
+89ARCDEF251L0734mnYZqrstwzv{u}xy B c5
+89QRCDEF251L0734mnYZqrstwzv{u}xy W c4
+89QRCDEF251L0734mnYZirstwzv{u}xy B e6
+89QRKDEF251L0734mnYZirstwzv{u}xy W e3
+89QRKDEF251L0734mnYZirstwzvju}xy B Nf6
+89QRKDEF2J1L0734mnYZirstwzvju}xy W Bd3
+89QRKDEF2J1L0734mnYZirstwzgju}xy B Nc6
+89QRKDEF2J1L0536mnYZirstwzgju}xy W O-O
+89QRKDEF2J1L0536mnYZirstwhgju}xy B Bd6
+8HQRKDEF2J1L0536mnYZirstwhgju}xy W b3
+8HQRKDEF2J1L0536mnYZirstwhgjuzx{ B O-O
+8HQRKDEF9J1L0536mnYZirstwhgjuzx{ W Bb2
+8HQRKDEF9J1L0536mfYZirstwhgjuzx{ B b6
+8HQRKDEF9JBL0536mfYZirstwhgjuzx{ W Nbd2
+8HQRKDEF9JBL0536mfYZirstnhgjuzx{ B Bb7
+8HQRKDEF9JBL2536mfYZirstnhgjuzx{ W Rc1
+8HQRKDEF9JBL2536mfYZirstnhgjuzq{ B Qe7
+8HZRKDEF9JBL2536mfY irstnhgjuzq{ W cxd5
+8H RKDEF9JBL2536mfY Zrstnhgjuzq{ B exd5
+8H RKDEF9JBV2536mfY Zrstnhgjuzq{ W Nh4
+8H RKDEF9JBV2536mfY Zrktnhgjuzq{ B g6
+8H RKDEF9JBL2536mfY Zrktnhgjuzq{ W Nhf3
+8H RKDEF9JBL2536mfY Zrktnhgjxzq{ B Rad8
+8H YKDEF9JBL2536mf  Zrktnhgjxzq{ W dxc5
+8H  KDEF9JBL2536mY  Zrktnhgjxzq{ B bxc5
+8H  KDEF9XBL2536mY  Zrktnhgjxzq{ W Bb5
+8H  KDEF9XBL2536mY  ZrktnhgSxzq{ B Ne4
+8H  KDEF9gBL2536mY  Zrktnh Sxzq{ W Bxc6
+8H  KDEF9 BL2536mY  Zrktgh Sxzq{ B Bxc6
+8H  KDEF9 BL25A6mY  Zrktgh Sxzq{ W Qc2
+8H  KDEF9  L25A6mY  Zrktgh Bxzq{ B Nxd2
+8H  KDEF9  B25A6mY  Zrktgh  xzq{ W Nxd2
+8H  KDEF9  B25A6mY  Rrktgh  xzq{ B d4
+8H  RDEF9  B25A6mY   rktgh  xzq{ W exd4
+8H  RDE 9  B25A6mY   rktgF  xzq{ B Bxh2+
+8H  RDE 9  B25AFmY   rktg   xzq{ W Kxh2
+8H  RDE 9  B25AFmY   rktg   xzV{ B Qh4+
+8H  RDE 9  B25A6mY   rktg   xzV{ W Kg1
+8H  RD  9  B25A6mY   rktE   xzV{ B Bxg2
+8H  RL  9  B25A6mY   rktE   xzV{ W f3
+8H  RL  9  B25A6mY   rktE   xyV{ B Rfe8
+8H  RL  9  S25A6mY   rktE   xyV{ W Ne4
+8H  RL  9  S25A6mY   rktE   xy7{ B Qh1+
+8H  RL  9  S25ADmY   rktE   xy7{ W Kf2
+8H  RL  9  S2 ADmY   rkt5   xy7{ B Bxf1
+8H  ZL  9  S2 ADmY   rkt5   xy7{ W d5
+8H  ZL  9  S2 ADmY   bkt5   xy7{ B f5
+8H  ZL  9  S2 IDmY   bkt5   xy7{ W Qc3
+8H  ZL  9  S2 IDmY   bkt5   xyE{ B Qg2+
+8H  ZL  9  S2 IKmY   bkt5   xyE{ W Ke3
+8H  ZL  9   2 IKmY   bkt5   xSE{ B Rxe4+
+8H  ZS  9   2 IKmY   bkt5   x E{ W fxe4
+8H  ZS  9   2 IKmY   Tkt5   x E{ B f4+
+8H  ZS  9   2 ITmY    kt5   x E{ W Kxf4
+8H  ZS  9   2 ITmY    kt5   z E{ B Rf8+
+8H  ZS  9   2 IamY    kt5   z E{ W Ke5
+8H  ZS  9   2 IamY    kt5   z F{ B Qh2+
+8H  ZS  9   2 IimY    kt5   z F{ W Ke6
+8H  ZS  9   2 IimY    kt5   y F{ B Re8+
+8H  ZS  9   2 IpmY    kt5   y F{ W Kd7
+8H  ZS  9   2 IpmY    ktX   y F{ B Bb5#
+[
+Мат.
+Результат партии: 0-1.
+]

@@ -1,0 +1,97 @@
+# White: Ботвинник
+# Black: Капабланка
+# Place: АВРО, Нидерланды
+# Date: 22.11.1938
+# Note: Эндшпиль и реализация: Проходная пешка, поддержанная комбинацией. Защита Нимцовича: Белые получают центр и проводят комбинацию с проходной пешкой.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Ботвинник — Капабланка
+AVRO, The Netherlands, 1938.11.22, тур 11. Результат: 1-0.
+Этап — 4. Эндшпиль и реализация. Чему учит: Проходная пешка, поддержанная комбинацией.
+Дебют — Защита Нимцовича. Что смотреть: Белые получают центр и проводят комбинацию с проходной пешкой.
+]
+89ARCDEF25160734mnopqrstwzv{u}xy W d4
+89ARCDEF25160734mnopqrstwzvju}xy B Nf6
+89QRCDEF25160734mnopqrstwzvju}xy W c4
+89QRCDEF25160734mnopirstwzvju}xy B e6
+89QRCDEF25I60734mnopirstwzvju}xy W Nc3
+89QRCDEF25I60734mnopirstwPvju}xy B Bb4
+89QRKDEF25I60734mnopirstwPvju}xy W e3
+89QRKDEF25I60734mnoZirstwPvju}xy B d5
+G9QRKDEF25I60734mnoZirstwPvju}xy W a3
+G9QRKDEF25 60734mnoZirstwIvju}xy B Bxc3+
+GIQRKDEF25 60734mnoZirstw vju}xy W bxc3
+GIQRKDEF25 60734mnYZirstw vju}xy B c5
+GIZRKDEF25 60734mnY irstw vju}xy W cxd5
+GI RKDEF25 60734mnY Zrstw vju}xy B exd5
+GI RKDEF2J 60734mnY Zrstw vju}xy W Bd3
+GI RKDEF2J 60734mnY Zrstw vjuzx{ B O-O
+GI RKDEF2J C0734mnY Zrstw vjuzx{ W Ne2
+GI RKDEF2J C0734mfY Zrstw vjuzx{ B b6
+GI RKDEF2J C0536mfY Zrstw vjuzx{ W O-O
+GI RKDEF2J C0536mfY Zrste vjuzx{ B Ba6
+GI RKDEF2e C0536mfY Zrst  vjuzx{ W Bxa6
+GI RKDEF2  C0536mfY Zrst  ejuzx{ B Nxa6
+GI RKDEF9  C0536mfY Zrst  ejuzx{ W Bb2
+GI RKDEF9  C0536mfY Zrst  ejuzp{ B Qd7
+OI RKDEF9  C0536mfY Zrst  ejuzp{ W a4
+OI RKDEF9  C0536mfY Zrst  ejuyp{ B Rfe8
+OI RKDEF9  C05J6mfY Zrst  ejuyp{ W Qd3
+OI RKDEF9  C05J6mfQ Zrst  ejuyp{ B c4
+OI RKDEF9  C05A6mfQ Zrst  ejuyp{ W Qc2
+OI RKDEF9  C05A6mfQ Zrst  vjuyp{ B Nb8
+OI RKDEF9  C45A6mfQ Zrst  vjuyp{ W Rae1
+OI RKDEF9  C45A6mfQ Zrst  gjuyp{ B Nc6
+OI RKDEF9  M45A6mfQ Zrst  gjuyp{ W Ng3
+OI RKDEF9  M45A6mfQ Zrst  Wjuyp{ B Na5
+OI RKLEF9  M45A6mfQ Zrst  Wjuyp{ W f3
+OI RKLEF9  M45A6mfQ Zrst  Hjuyp{ B Nb3
+OI RSLEF9  M45A6mfQ Zrst  Hjuyp{ W e4
+ I RSLEF9  M45A6mfQ Zrst  HjuyO{ B Qxa4
+ I RaLEF9  M45A6mfQ Zrst  HjuyO{ W e5
+ I RaLEF9  M45A6mfQ Zrst  HpuyO{ B Nd7
+ I RaLEF9  M45D6mfQ Zrst  HpuyO{ W Qf2
+ I RaLEF9  M45D6mfQ Zrkt  HpuyO{ B g6
+ I RaTEF9  M45D6mfQ Zrkt  HpuyO{ W f4
+ I RaTEF9  M45D6mfQ Zbkt  HpuyO{ B f5
+ I RjTEF9  M45D6mfQ Z kt  HpuyO{ W exf6
+ I R TEF9  M45D6mfQ Z kt  HjuyO{ B Nxf6
+ I R bEF9  M45D6mfQ Z kt  HjuyO{ W f5
+ I R bEF9  M 5D6mfQ Z kt  Hju4O{ B Rxe1
+ I R bEF9  M 4D6mfQ Z kt  Hju O{ W Rxe1
+ I R bEF9  M 4D6mfQ Z kt  Hjy O{ B Re8
+ I R bEF9  M iD6mfQ Z kt  Hjy O{ W Re6
+ I R bEF9  M  D6mfQ Z kt  Hji O{ B Rxe6
+ I R iEF9  M  D6mfQ Z kt  Hj  O{ W fxe6
+ I R iEF9  M  D6mfQ Z kt  Hj  Os B Kg7
+ I R iEF9  M  T6mfQ Z kt  Hj  Os W Qf4
+ I R iEF9  M  T6mfQ Z kt  Hj  ys B Qe8
+ I R iEF9  M  a6mfQ Z kt  Hj  ys W Qe5
+ I R iEF9  M  a6mfQ Z kt  Hj  qs B Qe7
+ I R iEFG  M  a6mfQ Z kt  Hj  qs W Ba3
+ I R iEF   M  a6mfQ Z kt  Hj  Gs B Qxa3
+ I R iEF   d  a6mfQ Z kt  Hj  Gs W Nh5+
+ I R iEF      a6mfQ Z dt  Hj  Gs B gxh5
+ I R iEF      c6mfQ Z dt  Hj  Gs W Qg5+
+ I R iEF      c6mfQ Z dt  Hj  Gz B Kf8
+ I R iEF      j6mfQ Z dt  H   Gz W Qxf6+
+ I R iEF      j6mfQ Z dt  H   G{ B Kg8
+ I R qEF      j6mfQ Z dt  H   G{ W e7
+ I R qEF      j6mfQ Z dt  H   2{ B Qc1+
+ I R qEF      jDmfQ Z dt  H   2{ W Kf2
+ I R qEF      jDmfQ Z dt  H   A{ B Qc2+
+ I R qEF      jMmfQ Z dt  H   A{ W Kg3
+ I R qEF      jMmfQ Z dt  H   J{ B Qd3+
+ I R qEF      jVmfQ Z dt  H   J{ W Kh4
+ I R qEF      jVmfQ Z dt  H   S{ B Qe4+
+ I R qEF      jdmfQ Z  t  H   S{ W Kxh5
+ I R qEF      jdmfQ Z  t  H   C{ B Qe2+
+ I R qEF      jVmfQ Z  t  H   C{ W Kh4
+ I R qEF      jVmfQ Z  t  H   S{ B Qe4+
+ I R qUF      jVmfQ Z  t  H   S{ W g4
+ I R qUF      jVmfQ Z  t  H   4{ B Qe1+
+ I R qUF      jdmfQ Z  t  H   4{ W Kh5
+[
+Результат партии: 1-0.
+]

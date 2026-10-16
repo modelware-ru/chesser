@@ -1,0 +1,118 @@
+# White: Капабланка
+# Black: Тартаковер
+# Place: Нью-Йорк
+# Date: 23.03.1924
+# Note: Эндшпиль и реализация: Ладейный эндшпиль: активный король и активная ладья решают всё.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Капабланка — Тартаковер
+New York, New York, NY USA, 1924.03.23, тур 6. Результат: 1-0.
+Этап — 4. Эндшпиль и реализация. Чему учит: Ладейный эндшпиль: активный король и активная ладья решают всё.
+]
+89ARCDEF25160734mnopqrstwzv{u}xy W d4
+89ARCDEF25160734mnopirstwzv{u}xy B e6
+89ARCDEF251L0734mnopirstwzv{u}xy W Nf3
+89ARCDEF251L0734mnopibstwzv{u}xy B f5
+89QRCDEF251L0734mnopibstwzv{u}xy W c4
+89QRCDEF251L0734mnopibstwzvju}xy B Nf6
+89QRCDEFc51L0734mnopibstwzvju}xy W Bg5
+89QRCDEFc51L0734mnopibstwqvju}xy B Be7
+89QRCDEFc5IL0734mnopibstwqvju}xy W Nc3
+89QRCDEFc5IL0734mnopibstwqvjuzx{ B O-O
+89QRKDEFc5IL0734mnopibstwqvjuzx{ W e3
+89QRKDEFc5IL0734mfopibstwqvjuzx{ B b6
+89QRKDEFcJIL0734mfopibstwqvjuzx{ W Bd3
+89QRKDEFcJIL0734mfopibstnqvjuzx{ B Bb7
+89QRKDEFcJIL0536mfopibstnqvjuzx{ W O-O
+89QRKDEFcJIL0536mfopibstnqvjuzy{ B Qe8
+89QRKDEFcJIL05C6mfopibstnqvjuzy{ W Qe2
+89QRKDEFcJIL05C6mfopibstnqvSuzy{ B Ne4
+89QRKDEFqJIL05C6mfopibstn vSuzy{ W Bxe7
+89QRKDEFqJ L05C6mfopibstn vIuzy{ B Nxc3
+8IQRKDEFqJ L05C6mfopibstn v uzy{ W bxc3
+8IQRKDEF J L05C6mfopibstn v uzq{ B Qxe7
+OIQRKDEF J L05C6mfopibstn v uzq{ W a4
+OIQRKDEF J  05C6mfopibstL v uzq{ B Bxf3
+OIQRKDEF J  05L6mfopibst  v uzq{ W Qxf3
+OIQRKDEF J  05L6mfopibst  g uzq{ B Nc6
+OIQRKDEF J  01L6mfopibst  g uzq{ W Rfb1
+OIQRKDEF J  01L6mfopibst  g yzq{ B Rae8
+OIQRKDEF J  01N6mfopibst  g yzq{ W Qh3
+OIQRKDEF J  01N6mfopibst  g yjq{ B Rf6
+OIQRKTEF J  01N6mfopibst  g yjq{ W f4
+OIQRKTEF J  01N6mfopibst  W yjq{ B Na5
+OIQRKTEF J  01L6mfopibst  W yjq{ W Qf3
+OIQRKTEF J  01L6mfohibst  W yjq{ B d6
+OIQRKTEF J  04L6mfohibst  W yjq{ W Re1
+OIQRKTEF J  04L6mfohibst  W yjp{ B Qd7
+OIQRSTEF J  04L6mfohibst  W yjp{ W e4
+OIQR TEF J  04L6mfohiSst  W yjp{ B fxe4
+OIQR TEF J  04S6mfohi st  W yjp{ W Qxe4
+OIQR TEF J  04S6mfohi kt  W yjp{ B g6
+OIQR TMF J  04S6mfohi kt  W yjp{ W g3
+OIQR TMF J  04S6mfohi kt  W yjpz B Kf8
+OIQR TMF J  04SEmfohi kt  W yjpz W Kg2
+OIQR TMF J  04SEmfohi kt  W yrpz B Rf7
+OIQR TMV J  04SEmfohi kt  W yrpz W h4
+OIQR TMV J  04SEmfoZi kt  W yrpz B d5
+OIZR TMV J  04SEmfo i kt  W yrpz W cxd5
+OI R TMV J  04SEmfo Z kt  W yrpz B exd5
+OI R TMV J  04yEmfo Z kt  W  rpz W Qxe8+
+OI R TMV J  04 Emfo Z kt  W  ryz B Qxe8
+OI R TMV J  0y Emfo Z kt  W  r z W Rxe8+
+OI R TMV J  0  Emfo Z kt  W  r y B Kxe8
+OI R TMd J  0  Emfo Z kt  W  r y W h5
+OI R TMd J  0  Emfo Z kt  W  j y B Rf6
+OI R TMk J  0  Emfo Z  t  W  j y W hxg6
+OI R TM  J  0  Emfo Z  k  W  j y B hxg6
+OI R TM  J  7  Emfo Z  k  W  j y W Rh1
+OI R TM  J  7  Emfo Z  k  W  j z B Kf8
+OI R TM  J  t  Emfo Z  k  W  j z W Rh7
+OI R TM  J  t  Emfo Z  k  W  g z B Rc6
+OI R TU  J  t  Emfo Z  k  W  g z W g4
+OI R TU  J  t  Emfo Z  k  Q  g z B Nc4
+OI R Tc  J  t  Emfo Z  k  Q  g z W g5
+OI R Tc  J  t  Emfo Z  k  K  g z B Ne3+
+OI R Tc  J  t  Lmfo Z  k  K  g z W Kf3
+OI R Tc  J  t  Lmfo Z  k  b  g z B Nf5
+OI R Tc  b  t  Lmfo Z  k     g z W Bxf5
+OI R Tc     t  Lmfo Z  b     g z B gxf5
+OI R Tc     t  Mmfo Z  b     g z W Kg3
+O  R Tc     t  Mmfo Z  b     I z B Rxc3+
+O  R Tc     t  Vmfo Z  b     I z W Kh4
+O  R Tc     t  Vmfo Z  b     L z B Rf3
+O  R Tk     t  Vmfo Z  b     L z W g6
+O  R  k     t  Vmfo Z  b     T z B Rxf4+
+O  R  k     t  cmfo Z  b     T z W Kg5
+O  R  k     t  cmfo Z  b     S z B Re4
+O  R  k     t  jmfo Z  b     S z W Kf6
+O  R  k     t  jmfo Z  b     S { B Kg8
+O  R  k     s  jmfo Z  b     S { W Rg7+
+O  R  k     s  jmfo Z  b     S } B Kh8
+O  R  k     o  jmf  Z  b     S } W Rxc7
+O  R  k     o  jmf  Z  b     y } B Re8
+O  R  k     o  bmf  Z        y } W Kxf5
+O  R  k     o  bmf  Z        S } B Re4
+O  R  k     o  jmf  Z        S } W Kf6
+O  R  k     o  jmf  Z        T } B Rf4+
+O  R  k     o  amf  Z        T } W Ke5
+O  R  k     o  amf  Z        U } B Rg4
+O  R  s     o  amf  Z        U } W g7+
+O  R  s     o  amf  Z        U { B Kg8
+O  R  s     m  a f  Z        U { W Rxa7
+O  R  s     m  a f  Z        6 { B Rg1
+O  R  s     m  Z f           6 { W Kxd5
+O  R  s     m  Z f           2 { B Rc1
+O  R  s     m  h f           2 { W Kd6
+O  R  s     m  h f           A { B Rc2
+O  Z  s     m  h f           A { W d5
+O  Z  s     m  h f           2 { B Rc1
+O  Z  s     o  h f           2 { W Rc7
+O  Z  s     o  h f           0 { B Ra1
+O  Z  s     o  g f           0 { W Kc6
+   Z  s     o  g f           O { B Rxa4
+   h  s     o  g f           O { W d6
+[
+Результат партии: 1-0.
+]

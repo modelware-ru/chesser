@@ -1,0 +1,100 @@
+# White: Торре
+# Black: Эм. Ласкер
+# Place: Москва
+# Date: 25.11.1925
+# Note: Открытый шах, «мельница»: Чередование открытых шахов, ладья собирает материал.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Торре — Эм. Ласкер
+Moscow, Moscow URS, 1925.11.25, тур 12. Результат: 1-0.
+Приём — Открытый шах, «мельница». Что смотреть: Чередование открытых шахов, ладья собирает материал.
+]
+89ARCDEF25160734mnopqrstwzv{u}xy W d4
+89ARCDEF25160734mnopqrstwzvju}xy B Nf6
+89ARCDEF251L0734mnopqrstwzvju}xy W Nf3
+89ARCDEF251L0734mnopirstwzvju}xy B e6
+89ARCDEFc51L0734mnopirstwzvju}xy W Bg5
+89ARCDEFc51L0734mnYpirstwzvju}xy B c5
+89ARKDEFc51L0734mnYpirstwzvju}xy W e3
+89A KDEFc51L0734mnRpirstwzvju}xy B cxd4
+89A RDEFc51L0734mn pirstwzvju}xy W exd4
+89A RDEFc51L0734mn pirstwqvju}xy B Be7
+89A RDEFc5BL0734mn pirstwqvju}xy W Nbd2
+89A RDEFc5BL0734mn hirstwqvju}xy B d6
+89I RDEFc5BL0734mn hirstwqvju}xy W c3
+89I RDEFc5BL0734mn hirstwqpju}xy B Nbd7
+89I RDEFcJBL0734mn hirstwqpju}xy W Bd3
+89I RDEFcJBL0734mf hirstwqpju}xy B b6
+89I RDEFcJQL0734mf hirstwqpju}xy W Nc4
+89I RDEFcJQL0734mf hirstnqpju}xy B Bb7
+89I RDEFcJQL07C4mf hirstnqpju}xy W Qe2
+89I RDEFcJQL07C4mf hirstnqpju}oy B Qc7
+89I RDEFcJQL05C6mf hirstnqpju}oy W O-O
+89I RDEFcJQL05C6mf hirstnqpjuzo{ B O-O
+89I RDEFcJQL04C6mf hirstnqpjuzo{ W Rfe1
+89I RDEFcJQL04C6mf hirstnqpjuyo{ B Rfe8
+89I RDEFcJQL34C6mf hirstnqpjuyo{ W Rad1
+89I RDEFcJQL34C6mf hirstnqzjuyo{ B Nf8
+89I RDEF2JQL34C6mf hirstnqzjuyo{ W Bc1
+89I RDEF2JQL34C6mf hirstnqzZuyo{ B Nd5
+89I RDEF2JQc34C6mf hirstnqzZuyo{ W Ng5
+89I RDEF2JQc34C6mX hirstnqzZuyo{ B b5
+89I RDEF2JGc34C6mX hirstnqzZuyo{ W Na3
+89I RDEF2JGc34C6mP hirstnqzZuyo{ B b4
+89P RDEF2JGc34C6m  hirstnqzZuyo{ W cxb4
+89  RDEF2JGc34C6m  hirstnqzPuyo{ B Nxb4
+89  RDEF2JGc34d6m  hirstnqzPuyo{ W Qh5
+89  RDEF2JG 34d6m  hirstnczPuyo{ B Bxg5
+89  RDEFcJG 34d6m  hirstn zPuyo{ W Bxg5
+89  RDEFc G 34d6m  hirstn zJuyo{ B Nxd3
+89  RDEFc G J4d6m  hirstn z uyo{ W Rxd3
+89  RDEFc G J4d6m  hirstn z uyW{ B Qa5
+8P  RDEFc G J4d6m  hirstn z uyW{ W b4
+8P  RDEFc G J4d6m  hirstn z uyb{ B Qf5
+8P  RDEFc G M4d6m  hirstn z uyb{ W Rg3
+8P  RDEFc G M4d6m  hirsln z uyb{ B h6
+8P  RDEFc Q M4d6m  hirsln z uyb{ W Nc4
+8P  RDEFc Q M4d6m  hirsln z uyZ{ B Qd5
+8P  RDEFc K M4d6m  hirsln z uyZ{ W Ne3
+8P  RDEFc K M4d6m  hirsln z uyX{ B Qb5
+8P  RDEFj K M4d6m  hirsln z uyX{ W Bf6
+8P  RDEFj K M4 6m  hirsln z uyd{ B Qxh5
+8P  RDEFj K s4 6m  hir ln z uyd{ W Rxg7+
+8P  RDEFj K s4 6m  hir ln z uyd} B Kh8
+8P  RDEFj K r4 6m  hi  ln z uyd} W Rxf7+
+8P  RDEFj K r4 6m  hi  ln z uyd{ B Kg8
+8P  RDEFj K s4 6m  hi  ln z uyd{ W Rg7+
+8P  RDEFj K s4 6m  hi  ln z uyd} B Kh8
+8P  RDEFj K n4 6m  hi  l  z uyd} W Rxb7+
+8P  RDEFj K n4 6m  hi  l  z uyd{ B Kg8
+8P  RDEFj K s4 6m  hi  l  z uyd{ W Rg7+
+8P  RDEFj K s4 6m  hi  l  z uyd} B Kh8
+8P  RDEFj K c4 6m  hi  l  z uyd} W Rg5+
+8P  RDEFj K c4 6m  hi  l  z uydt B Kh7
+8P  RDEFj K d4 6m  hi  l  z uy t W Rxh5
+8P  RDEFj K d4 6m  hi  l  z uy k B Kg6
+8P  RDEFj K N4 6m  hi  l  z uy k W Rh3
+8P  RDEF  K N4 6m  hi  l  z uy j B Kxf6
+8P  RDEF  K l4 6m  hi     z uy j W Rxh6+
+8P  RDEF  K l4 6m  hi     z uy c B Kg5
+8P  RDEF  K N4 6m  hi     z uy c W Rh3
+8P  RDEF  K N4 6m  hi     z uv c B Reb8
+8P  RDEF  K M4 6m  hi     z uv c W Rg3+
+8P  RDEF  K M4 6m  hi     z uv j B Kf6
+8P  RDEF  K L4 6m  hi     z uv j W Rf3+
+8P  RDEF  K L4 6m  hi     z uv k B Kg6
+GP  RDEF  K L4 6m  hi     z uv k W a3
+GP  RDEF  K L4 6W  hi     z uv k B a5
+GW  RDEF  K L4 6   hi     z uv k W bxa5
+G   RDEF  K L4 6   hi     z Wv k B Rxa5
+G   RDEF  Q L4 6   hi     z Wv k W Nc4
+G   RDEF  Q L4 6   hi     z Zv k B Rd5
+G   RDEF  Q T4 6   hi     z Zv k W Rf4
+G   RDEF  Q T4 6   hi     p Zv k B Nd7
+G   RDEF  Q Ti 6   h      p Zv k W Rxe6+
+G   RDEF  Q Ti 6   h      p Zv c B Kg5
+G   RDMF  Q Ti 6   h      p Zv c W g3
+[
+Результат партии: 1-0.
+]

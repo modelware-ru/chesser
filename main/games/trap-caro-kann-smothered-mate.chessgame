@@ -1,0 +1,24 @@
+# Note: Спёртый мат: ловушка в Каро-Канн. Пример из раздела «Что лучше изучать по задачам и базам».
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Спёртый мат: ловушка в Каро-Канн
+1.e4 c6 2.d4 d5 3.Кc3 dxe4 4.Кxe4 Кd7 5.Фe2 Кgf6?? 6.Кd6×
+]
+89ABSDEF25160734mnopqrstwzv{u}xy W e4
+89ABSDEF25160734mngpqrstwzv{u}xy B c6
+89ARSDEF25160734mngpqrstwzv{u}xy W d4
+89ARSDEF25160734mngZqrstwzv{u}xy B d5
+89ARSDEF25I60734mngZqrstwzv{u}xy W Nc3
+89AR DEF25I60734mngSqrstwzv{u}xy B dxe4
+89AR DEF25S60734mng qrstwzv{u}xy W Nxe4
+89AR DEF25S60734mng qrstwzp{u}xy B Nd7
+89AR DEF25S607C4mng qrstwzp{u}xy W Qe2
+89AR DEF25S607C4mng qrstwzpju}xy B Ngf6
+[
+Ошибка: после Кgf6?? следует 6.Кd6×.
+]
+89AR DEF25h607C4mng qrstwzpju}xy W Nd6#
+[
+Спёртый мат.
+]

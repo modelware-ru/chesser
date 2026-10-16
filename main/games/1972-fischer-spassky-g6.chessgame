@@ -1,0 +1,97 @@
+# White: Фишер
+# Black: Спасский
+# Place: Рейкьявик
+# Date: 23.07.1972
+# Note: Позиционная игра: Чистая позиционная игра в ферзевом гамбите. Ферзевый гамбит (через Английское начало): Началась ходом 1.c4 и перешла в ферзевый гамбит. Позиционный шедевр.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Фишер — Спасский
+Spassky - Fischer World Championship Match, Reykjavik ISL, 1972.07.23, тур 6. Результат: 1-0.
+Этап — 3. Позиционная игра. Чему учит: Чистая позиционная игра в ферзевом гамбите.
+Дебют — Ферзевый гамбит (через Английское начало). Что смотреть: Началась ходом 1.c4 и перешла в ферзевый гамбит. Позиционный шедевр.
+]
+89QBCDEF25160734mnopqrstwzv{u}xy W c4
+89QBCDEF25160734mnopirstwzv{u}xy B e6
+89QBCDEF251L0734mnopirstwzv{u}xy W Nf3
+89QBCDEF251L0734mnoZirstwzv{u}xy B d5
+89QRCDEF251L0734mnoZirstwzv{u}xy W d4
+89QRCDEF251L0734mnoZirstwzvju}xy B Nf6
+89QRCDEF25IL0734mnoZirstwzvju}xy W Nc3
+89QRCDEF25IL0734mnoZirstwqvju}xy B Be7
+89QRCDEFc5IL0734mnoZirstwqvju}xy W Bg5
+89QRCDEFc5IL0734mnoZirstwqvjuzx{ B O-O
+89QRKDEFc5IL0734mnoZirstwqvjuzx{ W e3
+89QRKDEFc5IL0734mnoZirslwqvjuzx{ B h6
+89QRKDEFV5IL0734mnoZirslwqvjuzx{ W Bh4
+89QRKDEFV5IL0734mfoZirslwqvjuzx{ B b6
+89ZRKDEFV5IL0734mfo irslwqvjuzx{ W cxd5
+89 RKDEFV5IL0734mfo irslwqvZuzx{ B Nxd5
+89 RKDEFq5IL0734mfo irslw vZuzx{ W Bxe7
+89 RKDEF 5IL0734mfo irslw vZuzq{ B Qxe7
+89 RKDEF 5ZL0734mfo irslw v uzq{ W Nxd5
+89 RKDEF 5 L0734mfo Zrslw v uzq{ B exd5
+89 RKDEF 5 L2734mfo Zrslw v uzq{ W Rc1
+89 RKDEF 5 L2734mfo Zrsli v uzq{ B Be6
+89 RKDEF 5 L27O4mfo Zrsli v uzq{ W Qa4
+89 RKDEF 5 L27O4mfY Zrsli v uzq{ B c5
+89 RKDEF 5 L27G4mfY Zrsli v uzq{ W Qa3
+89 RKDEF 5 L27G4mfY Zrsli v uwq{ B Rc8
+89 RKDEF X L27G4mfY Zrsli v uwq{ W Bb5
+89 RKDEF X L27G4efY Zrsli v uwq{ B a6
+89 YKDEF X L27G4ef  Zrsli v uwq{ W dxc5
+89  KDEF X L27G4eY  Zrsli v uwq{ B bxc5
+89  KDEF X L25G6eY  Zrsli v uwq{ W O-O
+89  KDEF X L25G6eY  Zrsli v mwq{ B Ra7
+89  KDEF C L25G6eY  Zrsli v mwq{ W Be2
+89  KDEF C L25G6eY  Zrsli p mwq{ B Nd7
+89  KDEF C R25G6eY  Zrsli p mwq{ W Nd4
+89  KDEF C R25G6eY  Zrsli p mwz{ B Qf8
+89  KDEF C i25G6eY  Zrsl  p mwz{ W Nxe6
+89  KDEF C  25G6eY  Zisl  p mwz{ B fxe6
+89  SDEF C  25G6eY  Zisl  p mwz{ W e4
+89  SDEF C  25G6eY  Risl  p mwz{ B d4
+89  STEF C  25G6eY  Risl  p mwz{ W f4
+89  STEF C  25G6eY  Risl  p mwq{ B Qe7
+89  aTEF C  25G6eY  Risl  p mwq{ W e5
+89  aTEF C  25G6eY  Risl  p mvq{ B Rb8
+89  aTEF Q  25G6eY  Risl  p mvq{ W Bc4
+89  aTEF Q  25G6eY  Risl  p mvq} B Kh8
+89  aTEF Q  25N6eY  Risl  p mvq} W Qh3
+89  aTEF Q  25N6eY  Risl  z mvq} B Nf8
+8H  aTEF Q  25N6eY  Risl  z mvq} W b3
+8H  aTEF Q  25N6WY  Risl  z mvq} B a5
+8H  abEF Q  25N6WY  Risl  z mvq} W f5
+8H  a EF Q  25N6WY  Rbsl  z mvq} B exf5
+8H  a EF Q  2bN6WY  R sl  z mvq} W Rxf5
+8H  a EF Q  2bN6WY  R sl  t mvq} B Nh7
+8H  a EF Q  5bN6WY  R sl  t mvq} W Rcf1
+8H  a EF Q  5bN6WY  R sl  t mvx} B Qd8
+8H  a EF Q  5bM6WY  R sl  t mvx} W Qg3
+8H  a EF Q  5bM6WY  R sl  t qvx} B Re7
+8H  a EV Q  5bM6WY  R sl  t qvx} W h4
+8H  a EV Q  5bM6WY  R sl  t qnx} B Rbb7
+8H  i EV Q  5bM6WY  R sl  t qnx} W e6
+8H  i EV Q  5bM6WY  R sl  t qox} B Rbc7
+8H  i EV Q  5ba6WY  R sl  t qox} W Qe5
+8H  i EV Q  5ba6WY  R sl  t qoy} B Qe8
+OH  i EV Q  5ba6WY  R sl  t qoy} W a4
+OH  i EV Q  5ba6WY  R sl  t qox} B Qd8
+OH  i EV Q  Dba6WY  R sl  t qox} W R1f2
+OH  i EV Q  Dba6WY  R sl  t qoy} B Qe8
+OH  i EV Q  Lba6WY  R sl  t qoy} W R2f3
+OH  i EV Q  Lba6WY  R sl  t qox} B Qd8
+OH  i EV J  Lba6WY  R sl  t qox} W Bd3
+OH  i EV J  Lba6WY  R sl  t qoy} B Qe8
+OH  i EV J  LbS6WY  R sl  t qoy} W Qe4
+OH  i EV J  LbS6WY  R sl  j qoy} B Nf6
+OH  i EV J  LjS6WY  R sl    qoy} W Rxf6
+OH  i EV J  L S6WY  R jl    qoy} B gxf6
+OH  i EV J  j S6WY  R  l    qoy} W Rxf6
+OH  i EV J  j S6WY  R  l    qoy{ B Kg8
+OH  i EV Q  j S6WY  R  l    qoy{ W Bc4
+OH  i EV Q  j S6WY  R  l    qoy} B Kh8
+OH  i EV Q  j T6WY  R  l    qoy} W Qf4
+[
+Результат партии: 1-0.
+]

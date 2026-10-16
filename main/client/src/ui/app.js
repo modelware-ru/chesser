@@ -138,21 +138,22 @@ export class App {
     });
     this.noteLabel = el('label.form-label.fw-semibold.mb-1', { for: 'note' });
     this.editMoves = el('div.moves');
-    this.editPanel = el('div',
-      el('div.card.mb-2', el('div.card-body.p-2', el('div.row.g-2', fields))),
-      el('div.card.mb-2', el('div.card-body.p-2', this.noteLabel, this.noteInput)),
-      el('div.card', el('div.card-header.py-1.small.fw-semibold', 'Ходы партии'), el('div.card-body.p-2', this.editMoves)));
+    this.headerCard = el('div.card.mb-2', el('div.card-body.p-2', el('div.row.g-2', fields)));
+    this.noteCard = el('div.card.mb-2', el('div.card-body.p-2', this.noteLabel, this.noteInput));
+    this.editMovesCard = el('div.card', el('div.card-header.py-1.small.fw-semibold', 'Ходы партии'), el('div.card-body.p-2', this.editMoves));
+    this.editPanel = el('div', this.headerCard, this.noteCard, this.editMovesCard);
   }
 
   buildPlayPanel() {
     this.playInfo = el('div.small');
+    this.playSide = el('div.small.text-body-secondary.mb-2');
     this.infoCard = el('div.card.mb-2', el('div.card-body.p-2', this.playInfo));
     this.comment = el('div.comment');
     this.commentTitle = el('div.card-header.py-1.small.fw-semibold');
     this.playMoves = el('div.moves');
     this.commentCard = el('div.card.mb-2.comment-card', this.commentTitle, el('div.card-body.p-2', this.comment));
     this.movesCard = el('div.card', el('div.card-header.py-1.small.fw-semibold', 'Сыгранные ходы'), el('div.card-body.p-2', this.playMoves));
-    this.playPanel = el('div', this.infoCard, this.commentCard, this.movesCard);
+    this.playPanel = el('div', this.playSide, this.infoCard, this.commentCard, this.movesCard);
   }
 
   // ---------- Состояние ----------
@@ -191,6 +192,9 @@ export class App {
     this.renderToolbar();
     if (this.mode === 'edit') {
       setChildren(this.panel, [this.editPanel]);
+      this.headerCard.classList.toggle('d-none', !this.settings.showInfo);
+      this.noteCard.classList.toggle('d-none', !this.settings.showComments);
+      this.editMovesCard.classList.toggle('d-none', !this.settings.showMoves);
       for (const key of HEADER_KEYS) {
         const v = this.game.headers[key] || '';
         if (this.headerInputs[key].value !== v) this.headerInputs[key].value = v;
@@ -293,9 +297,9 @@ export class App {
       const pos = this.game.positions[i];
       if (pos.turn === WHITE || i === 0) items.push(el('span.move-no', moveNumber(pos)));
       const m = this.game.moves[i];
-      const note = this.game.notes[i + 1];
-      const item = el('button.move.btn.btn-sm', { type: 'button', title: note || '' },
-        m.san, note && note.trim() ? el('i.bi.bi-chat-left-text.ms-1.small', { 'aria-hidden': 'true' }) : null);
+      const note = this.settings.showComments ? (this.game.notes[i + 1] || '').trim() : '';
+      const item = el('button.move.btn.btn-sm', { type: 'button' },
+        m.san, note ? el('i.bi.bi-chat-left-text.ms-1.small', { 'aria-hidden': 'true' }) : null);
       if (i + 1 === this.cursor) item.classList.add('active');
       if (this.mode === 'edit') item.addEventListener('click', () => this.goTo(i + 1));
       else item.disabled = true;
@@ -315,8 +319,8 @@ export class App {
     const extra = [h.Place, h.Date].filter(Boolean).join(', ');
     if (extra) rows.push(el('div.text-body-secondary', extra));
     if (h.Note) rows.push(el('div.fst-italic', h.Note));
-    rows.push(el('div.mt-1', `Вы играете ${SIDE_LABELS[this.side]}. Ход ${this.cursor} из ${this.game.length}.`));
     setChildren(this.playInfo, rows);
+    this.playSide.textContent = `Вы играете ${SIDE_LABELS[this.side]}. Ход ${this.cursor} из ${this.game.length}.`;
   }
 
   // Комментарии ко всем сыгранным ходам; последний ход выделен.
@@ -572,8 +576,8 @@ export class App {
     this.selected = -1;
     this.hint = null;
     const h = game.headers;
-    const side = await choose('Партия загружена',
-      `${h.White || '?'} — ${h.Black || '?'}, ходов: ${game.length}. За кого вы будете играть?`, [
+    const about = this.settings.showInfo ? `${h.White || '?'} — ${h.Black || '?'}, ходов` : 'Ходов';
+    const side = await choose('Партия загружена', `${about}: ${game.length}. За кого вы будете играть?`, [
         { label: 'За белых', value: WHITE, cls: 'btn-light border' },
         { label: 'За черных', value: BLACK, cls: 'btn-dark' },
         { label: 'За обоих', value: 'both', cls: 'btn-primary' },

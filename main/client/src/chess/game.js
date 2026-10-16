@@ -2,7 +2,7 @@
 import { STATE_LENGTH, START_STATE, WHITE, BLACK, decodeState, encodeState, slotColor } from './board.js';
 import { Position } from './position.js';
 
-export const HEADER_KEYS = ['White', 'Black', 'Place', 'Date'];
+export const HEADER_KEYS = ['White', 'Black', 'Place', 'Date', 'Note'];
 export const FILE_EXTENSION = '.chessgame';
 
 export class Game {

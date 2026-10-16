@@ -7,7 +7,7 @@ import { BoardView } from './board-view.js';
 import { choose, confirmDialog, promptText, notify } from './dialogs.js';
 import { pieceImage } from './pieces.js';
 
-const HEADER_LABELS = { White: 'Белые', Black: 'Черные', Place: 'Место', Date: 'Дата' };
+const HEADER_LABELS = { White: 'Белые', Black: 'Черные', Place: 'Место', Date: 'Дата', Note: 'Описание' };
 const SIDE_LABELS = { W: 'за белых', B: 'за черных', both: 'за обе стороны' };
 const AUTO_DELAY = 700;
 
@@ -99,7 +99,7 @@ export class App {
         this.dirty = true;
       });
       this.headerInputs[key] = input;
-      return el('div.col-6',
+      return el(key === 'Note' ? 'div.col-12' : 'div.col-6',
         el('label.form-label.small.mb-0', { for: `h-${key}` }, HEADER_LABELS[key]),
         input);
     });
@@ -284,6 +284,7 @@ export class App {
     rows.push(el('div', players));
     const extra = [h.Place, h.Date].filter(Boolean).join(', ');
     if (extra) rows.push(el('div.text-body-secondary', extra));
+    if (h.Note) rows.push(el('div.fst-italic', h.Note));
     rows.push(el('div.mt-1', `Вы играете ${SIDE_LABELS[this.side]}. Ход ${this.cursor} из ${this.game.length}.`));
     setChildren(this.playInfo, rows);
   }

@@ -1,5 +1,7 @@
 #!/bin/sh
-# Сборка клиента в docker-контейнере. Результат: ../server/www/{js,css,fonts}
+# Локальная сборка клиента. Результат: ../server/www/{js,css,fonts}
 set -e
 cd "$(dirname "$0")"
-HOST_UID=$(id -u) HOST_GID=$(id -g) docker compose run --rm build "$@"
+npm install --no-audit --no-fund
+npm test
+npm run build

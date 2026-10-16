@@ -4,7 +4,7 @@ import { WHITE, BLACK } from '../chess/board.js';
 import { sameMove } from '../chess/position.js';
 import { Game, HEADER_KEYS, FILE_EXTENSION, loadGame, serializeGame } from '../chess/game.js';
 import { BoardView } from './board-view.js';
-import { choose, confirmDialog, promptText, notify, messageArea, settingsDialog } from './dialogs.js';
+import { choose, confirmDialog, promptText, notify, setStickyMessage, messageArea, settingsDialog } from './dialogs.js';
 import { pieceImage } from './pieces.js';
 
 const HEADER_LABELS = { White: 'Белые', Black: 'Черные', Place: 'Место', Date: 'Дата', Note: 'Описание' };
@@ -18,10 +18,10 @@ const SETTINGS = [
 ];
 
 function loadSettings() {
-  const values = { showInfo: true, showComments: true, showMoves: true };
+  const values = { showInfo: true, showComments: true, showMoves: true, hintOn: false };
   try {
     const saved = JSON.parse(localStorage.getItem(SETTINGS_KEY) || '{}');
-    for (const { key } of SETTINGS) if (typeof saved[key] === 'boolean') values[key] = saved[key];
+    for (const key of Object.keys(values)) if (typeof saved[key] === 'boolean') values[key] = saved[key];
   } catch (e) {
     // настройки по умолчанию
   }
@@ -63,7 +63,6 @@ export class App {
     this.side = 'both'; // за кого играет пользователь в режиме проигрывания
     this.flipped = false;
     this.selected = -1;
-    this.hint = null;
     this.dirty = false;
     this.timer = null;
     this.fileName = '';
@@ -182,9 +181,12 @@ export class App {
       for (const m of pos.legalMoves()) if (m.from === this.selected) targets.add(m.to);
     }
     const last = this.cursor > 0 ? this.game.moves[this.cursor - 1].move : null;
+    // Включённая подсказка показывается всегда, когда ход за пользователем.
+    const hintMove = this.mode === 'play' && this.settings.hintOn && this.isUserTurn() ? this.game.moves[this.cursor] : null;
+    setStickyMessage(hintMove ? `Подсказка: ${moveNumber(pos)} ${hintMove.san}` : null, 'warning');
     this.board.update({
       position: pos, flipped: this.flipped, selected: this.selected, targets,
-      lastMove: last, hint: this.hint, interactive: this.isUserTurn(),
+      lastMove: last, hint: hintMove && { from: hintMove.move.from, to: hintMove.move.to }, interactive: this.isUserTurn(),
     });
     this.saveButton.classList.toggle('d-none', this.mode !== 'edit');
     this.editButton.classList.toggle('d-none', this.mode !== 'play');
@@ -273,8 +275,10 @@ export class App {
       items[5].disabled = !this.game.length;
       setChildren(this.toolbar, items);
     } else {
-      const hint = button('btn-warning', 'lightbulb', 'Подсказка', () => this.showHint());
-      hint.disabled = !this.isUserTurn();
+      const on = this.settings.hintOn;
+      const hint = button(on ? 'btn-warning' : 'btn-outline-warning', on ? 'lightbulb-fill' : 'lightbulb', 'Подсказка',
+        () => this.toggleHint(), on ? 'Подсказка включена — нажмите, чтобы выключить' : 'Подсказка выключена — нажмите, чтобы включить');
+      hint.setAttribute('aria-pressed', String(on));
       const back = button('btn-outline-secondary', 'arrow-counterclockwise', 'Назад', () => this.playBack(), 'Вернуть ход');
       back.disabled = this.cursor === 0;
       setChildren(this.toolbar, [
@@ -452,7 +456,7 @@ export class App {
   checkMove(move) {
     const expected = this.game.moves[this.cursor];
     if (!sameMove(move, expected.move)) {
-      notify('Неверно: в партии был сделан другой ход. Попробуйте ещё раз или воспользуйтесь подсказкой.', 'danger');
+      notify('Неверно: в партии был сделан другой ход. Попробуйте ещё раз или включите подсказку.', 'danger');
       this.render();
       return;
     }
@@ -460,7 +464,6 @@ export class App {
   }
 
   advance() {
-    this.hint = null;
     this.cursor++;
     this.render();
     if (this.cursor >= this.game.length) {
@@ -480,19 +483,16 @@ export class App {
     }
   }
 
-  showHint() {
-    if (!this.isUserTurn()) return;
-    const m = this.game.moves[this.cursor];
-    this.hint = { from: m.move.from, to: m.move.to };
-    this.selected = -1;
-    notify(`Подсказка: ${moveNumber(this.position)} ${m.san}`, 'warning');
+  toggleHint() {
+    this.settings.hintOn = !this.settings.hintOn;
+    saveSettings(this.settings);
+    notify(this.settings.hintOn ? 'Подсказка включена' : 'Подсказка выключена', 'info', 1500);
     this.render();
   }
 
   restart() {
     this.clearTimer();
     this.cursor = 0;
-    this.hint = null;
     this.selected = -1;
     this.render();
     this.scheduleOpponent();
@@ -500,7 +500,6 @@ export class App {
 
   playBack() {
     this.clearTimer();
-    this.hint = null;
     this.selected = -1;
     if (this.cursor > 0) this.cursor--;
     while (this.cursor > 0 && !this.isUserTurn()) this.cursor--;
@@ -514,7 +513,6 @@ export class App {
     this.side = side;
     this.flipped = side === BLACK;
     this.cursor = 0;
-    this.hint = null;
     this.selected = -1;
     this.render();
     this.scheduleOpponent();
@@ -523,7 +521,6 @@ export class App {
   toEdit() {
     this.clearTimer();
     this.mode = 'edit';
-    this.hint = null;
     this.selected = -1;
     this.render();
   }
@@ -543,7 +540,6 @@ export class App {
     this.cursor = 0;
     this.flipped = false;
     this.selected = -1;
-    this.hint = null;
     this.dirty = false;
     this.fileName = '';
     this.render();
@@ -574,7 +570,6 @@ export class App {
     this.dirty = false;
     this.cursor = 0;
     this.selected = -1;
-    this.hint = null;
     const h = game.headers;
     const about = this.settings.showInfo ? `${h.White || '?'} — ${h.Black || '?'}, ходов` : 'Ходов';
     const side = await choose('Партия загружена', `${about}: ${game.length}. За кого вы будете играть?`, [

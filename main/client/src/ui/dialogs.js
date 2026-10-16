@@ -96,6 +96,11 @@ export function promptText(title, label, value = '') {
 // Подсказки и сообщения выводятся в фиксированное поле над доской (одно сообщение за раз).
 const messageBar = el('div.message-bar', { role: 'status', 'aria-live': 'polite' });
 let messageTimer = null;
+let sticky = null; // постоянное сообщение (подсказка); временные сообщения показываются поверх него
+
+function showMessage(m) {
+  setChildren(messageBar, m ? [el(`div.message.alert.alert-${m.type}`, { role: m.type === 'danger' ? 'alert' : null }, m.text)] : []);
+}
 
 export function messageArea() {
   return messageBar;
@@ -103,8 +108,19 @@ export function messageArea() {
 
 export function notify(text, type = 'info', timeout = 3500) {
   clearTimeout(messageTimer);
-  setChildren(messageBar, [el(`div.message.alert.alert-${type}`, { role: type === 'danger' ? 'alert' : null }, text)]);
-  messageTimer = setTimeout(() => setChildren(messageBar, []), timeout);
+  showMessage({ text, type });
+  messageTimer = setTimeout(() => {
+    messageTimer = null;
+    showMessage(sticky);
+  }, timeout);
+}
+
+// Постоянное сообщение; null — убрать. Временное сообщение, если оно на экране, не прерывается.
+export function setStickyMessage(text, type = 'info') {
+  const next = text ? { text, type } : null;
+  if (sticky?.text === next?.text && sticky?.type === next?.type) return;
+  sticky = next;
+  if (!messageTimer) showMessage(sticky);
 }
 
 // Окно настроек: options — [{ key, label }], values — текущие значения; onChange(key, value) вызывается сразу.

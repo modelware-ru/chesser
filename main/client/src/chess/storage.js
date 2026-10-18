@@ -1,5 +1,5 @@
 // Хранилище партий: дерево из games.json, листья которого — файлы партий в той же папке.
-export const STORAGE_INDEX = 'www/games/games.json';
+export const STORAGE_INDEX = 'games/games.json';
 
 // Проверяет и нормализует дерево: узел — { title, children }, лист — { title, file }.
 // Пустые узлы оставляются; некорректные элементы приводят к ошибке с указанием пути.

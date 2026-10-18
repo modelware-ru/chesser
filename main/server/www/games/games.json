@@ -1,0 +1,353 @@
+[
+  {
+    "title": "Классические партии для начинающих",
+    "children": [
+      {
+        "title": "1. Развитие и атака на короля",
+        "children": [
+          {
+            "title": "Легаль — Сен-Бри, 1750",
+            "file": "01-legal-saint-brie-1750.chessgame"
+          },
+          {
+            "title": "Морфи — герцог Брауншвейгский и граф Изуар, 1858",
+            "file": "02-morphy-opera-1858.chessgame"
+          },
+          {
+            "title": "Рети — Тартаковер, 1910",
+            "file": "03-reti-tartakower-1910.chessgame"
+          },
+          {
+            "title": "Эд. Ласкер — Томас, 1912",
+            "file": "04-ed-lasker-thomas-1912.chessgame"
+          }
+        ]
+      },
+      {
+        "title": "2. Комбинации и жертвы",
+        "children": [
+          {
+            "title": "Андерсен — Кизерицкий, 1851",
+            "file": "05-anderssen-kieseritzky-1851.chessgame"
+          },
+          {
+            "title": "Андерсен — Дюфрен, 1852",
+            "file": "06-anderssen-dufresne-1852.chessgame"
+          },
+          {
+            "title": "Стейниц — Барделебен, 1895",
+            "file": "07-steinitz-bardeleben-1895.chessgame"
+          },
+          {
+            "title": "Ротлеви — Рубинштейн, 1907",
+            "file": "08-rotlewi-rubinstein-1907.chessgame"
+          },
+          {
+            "title": "Бирн — Фишер, 1956",
+            "file": "09-byrne-fischer-1956.chessgame"
+          }
+        ]
+      },
+      {
+        "title": "3. Позиционная игра",
+        "children": [
+          {
+            "title": "Земиш — Нимцович, 1923",
+            "file": "10-saemisch-nimzowitsch-1923.chessgame"
+          },
+          {
+            "title": "Фишер — Спасский, 1972, 6-я партия",
+            "file": "11-fischer-spassky-1972-g6.chessgame"
+          },
+          {
+            "title": "Карпов — Унцикер, 1974",
+            "file": "12-karpov-unzicker-1974.chessgame"
+          }
+        ]
+      },
+      {
+        "title": "4. Эндшпиль и реализация",
+        "children": [
+          {
+            "title": "Капабланка — Тартаковер, 1924",
+            "file": "13-capablanca-tartakower-1924.chessgame"
+          },
+          {
+            "title": "Ботвинник — Капабланка, 1938",
+            "file": "14-botvinnik-capablanca-1938.chessgame"
+          }
+        ]
+      },
+      {
+        "title": "5. Продвинутый уровень",
+        "children": [
+          {
+            "title": "Каспаров — Топалов, 1999",
+            "file": "15-kasparov-topalov-1999.chessgame"
+          },
+          {
+            "title": "Шорт — Тимман, 1991",
+            "file": "16-short-timman-1991.chessgame"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Тактика",
+    "children": [
+      {
+        "title": "Ложная связка, мат Легаля: Легаль — Сен-Бри, 1750",
+        "file": "01-legal-saint-brie-1750.chessgame"
+      },
+      {
+        "title": "Связка, уничтожение защиты: Морфи — герцог Брауншвейгский и граф Изуар, 1858",
+        "file": "02-morphy-opera-1858.chessgame"
+      },
+      {
+        "title": "Двойной шах, завлечение: Рети — Тартаковер, 1910",
+        "file": "03-reti-tartakower-1910.chessgame"
+      },
+      {
+        "title": "Завлечение (охота на короля): Эд. Ласкер — Томас, 1912",
+        "file": "04-ed-lasker-thomas-1912.chessgame"
+      },
+      {
+        "title": "Активность важнее материала: Андерсен — Кизерицкий, 1851",
+        "file": "05-anderssen-kieseritzky-1851.chessgame"
+      },
+      {
+        "title": "Глубокая комбинация: Андерсен — Дюфрен, 1852",
+        "file": "06-anderssen-dufresne-1852.chessgame"
+      },
+      {
+        "title": "Перекрытие, атака на короля: Стейниц — Барделебен, 1895",
+        "file": "07-steinitz-bardeleben-1895.chessgame"
+      },
+      {
+        "title": "Отвлечение, перекрытие, каскад жертв: Ротлеви — Рубинштейн, 1907",
+        "file": "08-rotlewi-rubinstein-1907.chessgame"
+      },
+      {
+        "title": "Жертва ферзя ради атаки: Бирн — Фишер, 1956",
+        "file": "09-byrne-fischer-1956.chessgame"
+      },
+      {
+        "title": "Отвлечение, мат на последней горизонтали: Бернштейн — Капабланка, 1914",
+        "file": "17-bernstein-capablanca-1914.chessgame"
+      },
+      {
+        "title": "Отвлечение, мат на последней горизонтали: Адамс — Торре, 1920",
+        "file": "18-adams-torre-1920.chessgame"
+      },
+      {
+        "title": "Открытый шах, «мельница»: Торре — Ласкер, 1925",
+        "file": "19-torre-lasker-1925.chessgame"
+      },
+      {
+        "title": "Перекрытие: Левитский — Маршалл, 1912",
+        "file": "20-levitsky-marshall-1912.chessgame"
+      },
+      {
+        "title": "Двойная жертва слонов: Ласкер — Бауэр, 1889",
+        "file": "21-lasker-bauer-1889.chessgame"
+      },
+      {
+        "title": "Двойная жертва слонов: Нимцович — Тарраш, 1914",
+        "file": "22-nimzowitsch-tarrasch-1914.chessgame"
+      },
+      {
+        "title": "Мат Бодена: Шульдер — Боден, 1853",
+        "file": "23-schulder-boden-1853.chessgame"
+      },
+      {
+        "title": "Патовая комбинация: Эванс — Решевский, 1963",
+        "file": "24-evans-reshevsky-1963.chessgame"
+      }
+    ]
+  },
+  {
+    "title": "Дебюты",
+    "children": [
+      {
+        "title": "Королевский гамбит: Андерсен — Кизерицкий, 1851",
+        "file": "05-anderssen-kieseritzky-1851.chessgame"
+      },
+      {
+        "title": "Итальянская партия: Стейниц — Барделебен, 1895",
+        "file": "07-steinitz-bardeleben-1895.chessgame"
+      },
+      {
+        "title": "Защита Грюнфельда: Бирн — Фишер, 1956",
+        "file": "09-byrne-fischer-1956.chessgame"
+      },
+      {
+        "title": "Ферзевый гамбит (через Английское начало): Фишер — Спасский, 1972, 6-я партия",
+        "file": "11-fischer-spassky-1972-g6.chessgame"
+      },
+      {
+        "title": "Испанская партия: Карпов — Унцикер, 1974",
+        "file": "12-karpov-unzicker-1974.chessgame"
+      },
+      {
+        "title": "Испанская партия (атака Маршалла): Капабланка — Маршалл, 1918",
+        "file": "25-capablanca-marshall-1918.chessgame"
+      },
+      {
+        "title": "Защита Нимцовича: Ботвинник — Капабланка, 1938",
+        "file": "14-botvinnik-capablanca-1938.chessgame"
+      },
+      {
+        "title": "Защита Пирца: Каспаров — Топалов, 1999",
+        "file": "15-kasparov-topalov-1999.chessgame"
+      },
+      {
+        "title": "Шотландская партия",
+        "children": [
+          {
+            "title": "Каспаров — Карпов, 1990, 14-я партия",
+            "file": "26-kasparov-karpov-1990-g14.chessgame"
+          },
+          {
+            "title": "Каспаров — Карпов, 1990, 16-я партия",
+            "file": "27-kasparov-karpov-1990-g16.chessgame"
+          }
+        ]
+      },
+      {
+        "title": "Сицилианская защита: Карпов — Каспаров, 1985, 16-я партия",
+        "file": "28-karpov-kasparov-1985-g16.chessgame"
+      }
+    ]
+  },
+  {
+    "title": "Учебные ловушки",
+    "children": [
+      {
+        "title": "Ловушка в защите Каро-Канн (спёртый мат)",
+        "file": "29-caro-kann-smothered-mate-trap.chessgame"
+      }
+    ]
+  },
+  {
+    "title": "Все партии",
+    "children": [
+      {
+        "title": "Легаль — Сен-Бри, 1750",
+        "file": "01-legal-saint-brie-1750.chessgame"
+      },
+      {
+        "title": "Морфи — герцог Брауншвейгский и граф Изуар, 1858",
+        "file": "02-morphy-opera-1858.chessgame"
+      },
+      {
+        "title": "Рети — Тартаковер, 1910",
+        "file": "03-reti-tartakower-1910.chessgame"
+      },
+      {
+        "title": "Эд. Ласкер — Томас, 1912",
+        "file": "04-ed-lasker-thomas-1912.chessgame"
+      },
+      {
+        "title": "Андерсен — Кизерицкий, 1851",
+        "file": "05-anderssen-kieseritzky-1851.chessgame"
+      },
+      {
+        "title": "Андерсен — Дюфрен, 1852",
+        "file": "06-anderssen-dufresne-1852.chessgame"
+      },
+      {
+        "title": "Стейниц — Барделебен, 1895",
+        "file": "07-steinitz-bardeleben-1895.chessgame"
+      },
+      {
+        "title": "Ротлеви — Рубинштейн, 1907",
+        "file": "08-rotlewi-rubinstein-1907.chessgame"
+      },
+      {
+        "title": "Бирн — Фишер, 1956",
+        "file": "09-byrne-fischer-1956.chessgame"
+      },
+      {
+        "title": "Земиш — Нимцович, 1923",
+        "file": "10-saemisch-nimzowitsch-1923.chessgame"
+      },
+      {
+        "title": "Фишер — Спасский, 1972, 6-я партия",
+        "file": "11-fischer-spassky-1972-g6.chessgame"
+      },
+      {
+        "title": "Карпов — Унцикер, 1974",
+        "file": "12-karpov-unzicker-1974.chessgame"
+      },
+      {
+        "title": "Капабланка — Тартаковер, 1924",
+        "file": "13-capablanca-tartakower-1924.chessgame"
+      },
+      {
+        "title": "Ботвинник — Капабланка, 1938",
+        "file": "14-botvinnik-capablanca-1938.chessgame"
+      },
+      {
+        "title": "Каспаров — Топалов, 1999",
+        "file": "15-kasparov-topalov-1999.chessgame"
+      },
+      {
+        "title": "Шорт — Тимман, 1991",
+        "file": "16-short-timman-1991.chessgame"
+      },
+      {
+        "title": "Бернштейн — Капабланка, 1914",
+        "file": "17-bernstein-capablanca-1914.chessgame"
+      },
+      {
+        "title": "Адамс — Торре, 1920",
+        "file": "18-adams-torre-1920.chessgame"
+      },
+      {
+        "title": "Торре — Ласкер, 1925",
+        "file": "19-torre-lasker-1925.chessgame"
+      },
+      {
+        "title": "Левитский — Маршалл, 1912",
+        "file": "20-levitsky-marshall-1912.chessgame"
+      },
+      {
+        "title": "Ласкер — Бауэр, 1889",
+        "file": "21-lasker-bauer-1889.chessgame"
+      },
+      {
+        "title": "Нимцович — Тарраш, 1914",
+        "file": "22-nimzowitsch-tarrasch-1914.chessgame"
+      },
+      {
+        "title": "Шульдер — Боден, 1853",
+        "file": "23-schulder-boden-1853.chessgame"
+      },
+      {
+        "title": "Эванс — Решевский, 1963",
+        "file": "24-evans-reshevsky-1963.chessgame"
+      },
+      {
+        "title": "Капабланка — Маршалл, 1918",
+        "file": "25-capablanca-marshall-1918.chessgame"
+      },
+      {
+        "title": "Каспаров — Карпов, 1990, 14-я партия",
+        "file": "26-kasparov-karpov-1990-g14.chessgame"
+      },
+      {
+        "title": "Каспаров — Карпов, 1990, 16-я партия",
+        "file": "27-kasparov-karpov-1990-g16.chessgame"
+      },
+      {
+        "title": "Карпов — Каспаров, 1985, 16-я партия",
+        "file": "28-karpov-kasparov-1985-g16.chessgame"
+      },
+      {
+        "title": "Ловушка в защите Каро-Канн (спёртый мат)",
+        "file": "29-caro-kann-smothered-mate-trap.chessgame"
+      }
+    ]
+  }
+]

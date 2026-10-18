@@ -4,7 +4,8 @@ import { WHITE, BLACK } from '../chess/board.js';
 import { sameMove } from '../chess/position.js';
 import { Game, HEADER_KEYS, FILE_EXTENSION, loadGame, serializeGame } from '../chess/game.js';
 import { BoardView } from './board-view.js';
-import { choose, confirmDialog, promptText, notify, setStickyMessage, messageArea, settingsDialog } from './dialogs.js';
+import { choose, confirmDialog, promptText, notify, setStickyMessage, messageArea, settingsDialog, treeDialog } from './dialogs.js';
+import { loadStorage, loadStoredGame } from '../chess/storage.js';
 import { pieceImage } from './pieces.js';
 
 const HEADER_LABELS = { White: 'Белые', Black: 'Черные', Place: 'Место', Date: 'Дата', Note: 'Описание' };
@@ -79,6 +80,7 @@ export class App {
       el('div.d-flex.flex-wrap.gap-1',
         button('btn-outline-light.btn-sm', 'file-earmark-plus', 'Новая', () => this.newGame(), 'Новая партия'),
         button('btn-outline-light.btn-sm', 'folder2-open', 'Открыть', () => this.open(), 'Открыть партию'),
+        button('btn-outline-light.btn-sm', 'collection', 'Хранилище', () => this.openStorage(), 'Выбрать партию из хранилища'),
         this.saveButton,
         this.editButton,
         button('btn-outline-light.btn-sm', 'gear', 'Настройки', () => this.openSettings())));
@@ -555,18 +557,51 @@ export class App {
   async readFile() {
     const file = this.fileInput.files[0];
     if (!file) return;
-    let result;
+    let text;
     try {
-      result = loadGame(await file.text());
+      text = await file.text();
     } catch (e) {
       notify(`Не удалось открыть «${file.name}»: ${e.message}`, 'danger', 6000);
+      return;
+    }
+    await this.openText(text, file.name);
+  }
+
+  // Выбор партии из дерева games.json в папке хранилища.
+  async openStorage() {
+    if (!(await this.discardChanges())) return;
+    let storage;
+    try {
+      storage = await loadStorage();
+    } catch (e) {
+      notify(`Хранилище недоступно: ${e.message}. Если программа открыта из локального файла, браузер может запрещать чтение файлов — откройте её через веб-сервер.`, 'danger', 8000);
+      return;
+    }
+    const leaf = await treeDialog('Хранилище', storage.tree);
+    if (!leaf) return;
+    let text;
+    try {
+      text = await loadStoredGame(storage.base, leaf.file);
+    } catch (e) {
+      notify(`Не удалось загрузить «${leaf.title}»: ${e.message}`, 'danger', 6000);
+      return;
+    }
+    await this.openText(text, leaf.file.split('/').pop());
+  }
+
+  async openText(text, name) {
+    let result;
+    try {
+      result = loadGame(text);
+    } catch (e) {
+      notify(`Не удалось открыть «${name}»: ${e.message}`, 'danger', 6000);
       return;
     }
     const { game, error } = result;
     if (error) notify(`${error}. Партия загружена до этого хода.`, 'warning', 7000);
     this.clearTimer();
     this.game = game;
-    this.fileName = file.name;
+    this.fileName = name;
     this.dirty = false;
     this.cursor = 0;
     this.selected = -1;

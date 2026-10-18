@@ -203,3 +203,27 @@ body {
   .btn-label { display: none; }
   .navbar-brand { font-size: 1.1rem; }
 }
+
+.tree {
+  padding-left: 0;
+}
+
+.tree .tree {
+  padding-left: 1.1rem;
+  border-left: 1px solid var(--bs-border-color);
+  margin-left: 0.4rem;
+}
+
+.tree-node {
+  padding: 0.3rem 0.25rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.tree-leaf.btn {
+  display: block;
+  width: 100%;
+  padding: 0.3rem 0.25rem;
+  text-decoration: none;
+  white-space: normal;
+}

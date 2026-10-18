@@ -1,6 +1,7 @@
 // Модальные окна bootstrap и всплывающие сообщения.
 import { el, setChildren } from 'redom';
 import { Modal } from 'bootstrap';
+import { countGames } from '../chess/storage.js';
 
 let modal = null;
 const parts = {};
@@ -11,12 +12,12 @@ function ensureModal() {
   parts.close = el('button.btn-close', { type: 'button', 'data-bs-dismiss': 'modal', 'aria-label': 'Закрыть' });
   parts.body = el('div.modal-body');
   parts.footer = el('div.modal-footer');
-  parts.root = el('div.modal.fade', { tabindex: -1, 'aria-hidden': 'true' },
-    el('div.modal-dialog.modal-dialog-centered',
-      el('div.modal-content',
-        el('div.modal-header', parts.title, parts.close),
-        parts.body,
-        parts.footer)));
+  parts.dialog = el('div.modal-dialog.modal-dialog-centered',
+    el('div.modal-content',
+      el('div.modal-header', parts.title, parts.close),
+      parts.body,
+      parts.footer));
+  parts.root = el('div.modal.fade', { tabindex: -1, 'aria-hidden': 'true' }, parts.dialog);
   document.body.appendChild(parts.root);
   modal = new Modal(parts.root);
 }
@@ -24,11 +25,12 @@ function ensureModal() {
 let pending = Promise.resolve();
 
 // Показывает окно. options: [{ label, value, cls }]. Возвращает выбранное значение или null.
-function show({ title, body, options, onShown, getValue }) {
+function show({ title, body, options, onShown, getValue, scrollable = false }) {
   const run = () => new Promise((resolve) => {
     ensureModal();
     let result = null;
     parts.title.textContent = title;
+    parts.dialog.classList.toggle('modal-dialog-scrollable', scrollable);
     setChildren(parts.body, body ? [body] : []);
     parts.body.classList.toggle('d-none', !body);
     const finish = (value) => {
@@ -121,6 +123,35 @@ export function setStickyMessage(text, type = 'info') {
   if (sticky?.text === next?.text && sticky?.type === next?.type) return;
   sticky = next;
   if (!messageTimer) showMessage(sticky);
+}
+
+// Окно выбора партии из дерева: узлы раскрываются, лист выбирается нажатием. Возвращает лист или null.
+export function treeDialog(title, tree) {
+  let finish = () => {};
+  const build = (items, level) => el('ul.tree.list-unstyled.mb-0', items.map((item) => {
+    if (!item.children) {
+      const b = el('button.tree-leaf.btn.btn-sm.btn-link.text-start', { type: 'button' },
+        el('i.bi.bi-file-earmark-text.me-1', { 'aria-hidden': 'true' }), item.title);
+      b.addEventListener('click', () => finish(item));
+      return el('li', b);
+    }
+    const summary = el('summary.tree-node', el('span', item.title), el('span.badge.text-bg-secondary.ms-2', String(countGames(item.children))));
+    const details = el('details', summary,
+      item.children.length ? build(item.children, level + 1) : el('div.small.text-body-secondary.ms-4', 'Партий нет'));
+    details.open = level === 0 && items.length === 1;
+    return el('li', details);
+  }));
+  const body = tree.length ? build(tree, 0) : el('p.mb-0.text-body-secondary', 'Хранилище пусто');
+  return show({
+    title,
+    body,
+    scrollable: true,
+    options: [{ label: 'Отмена', value: null, cls: 'btn-outline-secondary' }],
+    onShown: (f) => {
+      finish = f;
+      parts.body.querySelector('summary, .tree-leaf')?.focus();
+    },
+  });
 }
 
 // Окно настроек: options — [{ key, label }], values — текущие значения; onChange(key, value) вызывается сразу.

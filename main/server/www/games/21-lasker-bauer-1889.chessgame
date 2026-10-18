@@ -1,0 +1,312 @@
+# White: Эмануэль Ласкер
+# Black: Иоганн Бауэр
+# Place: Амстердам
+# Date: 26.08.1889
+# Note: Двойная жертва слонов. Образцовый пример: Сxh7+ и Сxg7.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Источник ходов: chessgames.com, партия 1026352 (https://www.chessgames.com/perl/chessgame?gid=1026352), турнир в Амстердаме, 1-й тур. Результат 1-0.
+
+Что смотреть: два белых слона нацелены на королевский фланг черных: слон d3 — на h7, слон e5 (потом b2) — на g7. Белые жертвуют обоих слонов, чтобы разрушить пешечное прикрытие короля, затем вводят ладью через f3–h3 и, отыгрывая материал вилкой ферзя, получают выигранный эндшпиль.
+]
+89ABCTEF25160734mnopqrstwzv{u}xy W f4
+[
+Дебют Берда: белые контролируют поле e5 и готовят фианкетто ферзевого слона.
+]
+89ABCTEF25160734mnoZqrstwzv{u}xy B d5
+[
+Черные занимают центр.
+]
+89ABKTEF25160734mnoZqrstwzv{u}xy W e3
+[
+Белые открывают слона f1.
+]
+89ABKTEF25160734mnoZqrstwzvju}xy B Nf6
+[
+Конь развивается.
+]
+8HABKTEF25160734mnoZqrstwzvju}xy W b3
+[
+Белые готовят Bb2: слон встанет на большую диагональ, нацеленную на королевский фланг черных.
+]
+8HABKTEF25160734mnoZirstwzvju}xy B e6
+[
+Черные открывают слона f8.
+]
+8HABKTEF95160734mnoZirstwzvju}xy W Bb2
+[
+Слон занимает большую диагональ a1–h8.
+]
+8HABKTEF95160734mnoZirstwqvju}xy B Be7
+[
+Черные готовят рокировку.
+]
+8HABKTEF9J160734mnoZirstwqvju}xy W Bd3
+[
+Второй слон нацеливается на h7. Теперь оба белых слона смотрят на королевский фланг черных.
+]
+8HABKTEF9J160734mfoZirstwqvju}xy B b6
+[
+Черные готовят фианкетто.
+]
+8HABKTEF9JI60734mfoZirstwqvju}xy W Nc3
+[
+Конь развивается.
+]
+8HABKTEF9JI60734mfoZirstnqvju}xy B Bb7
+[
+Слон занимает большую диагональ.
+]
+8HABKTEF9JIL0734mfoZirstnqvju}xy W Nf3
+[
+Конь развивается и контролирует e5.
+]
+8HABKTEF9JIL0734mfoZirstnqpju}xy B Nbd7
+[
+Конь развивается.
+]
+8HABKTEF9JIL0536mfoZirstnqpju}xy W O-O
+[
+Белые рокируют.
+]
+8HABKTEF9JIL0536mfoZirstnqpjuzx{ B O-O
+[
+Черные рокируют на королевский фланг — туда, куда смотрят белые слоны.
+]
+8HABKTEF9JCL0536mfoZirstnqpjuzx{ W Ne2
+[
+Конь перестраивается на g3, ближе к королевскому флангу черных.
+]
+8HABKTEF9JCL0536mfYZirstnqpjuzx{ B c5
+[
+Черные захватывают пространство в центре.
+]
+8HABKTEF9JML0536mfYZirstnqpjuzx{ W Ng3
+[
+Конь занимает g3 и готовит прыжок на h5.
+]
+8HABKTEF9JML0536mfYZirstnqpjuzo{ B Qc7
+[
+Ферзь развивается и давит на e5 и f4.
+]
+8HABKTEF9JMa0536mfYZirstnqpjuzo{ W Ne5
+[
+Конь занимает центральное поле e5.
+]
+8HABKTEF9JM 0536mfYZirstnqajuzo{ B Nxe5
+[
+Черные меняют коня.
+]
+8HABKTEFaJM 0536mfYZirstnq juzo{ W Bxe5
+[
+Слон берёт обратно и нападает на ферзя c7, оставаясь на большой диагонали. Stockfish считал сильнее 12.fxe5.
+]
+8HABKTEFaJM 0536mfYZirstnq juzg{ B Qc6
+[
+Ферзь уходит.
+]
+8HABKTEFaJM 05C6mfYZirstnq juzg{ W Qe2
+[
+Ферзь развивается, готовясь к атаке.
+]
+8HABKTEFaJM 05C6efYZirstnq juzg{ B a6
+[
+Ошибка: черные делают медленный ход на ферзевом фланге и не замечают комбинации. Stockfish предпочитал 13...g6; после хода в партии у белых около +2.
+]
+8HABKTEFaJd 05C6efYZirstnq juzg{ W Nh5
+[
+Конь нападает на коня f6 — единственного защитника короля.
+]
+8HABKTEFaJ  05C6efYZirstnq duzg{ B Nxh5
+[
+Черные берут коня.
+]
+8HABKTEFat  05C6efYZirs nq duzg{ W Bxh7+
+[
+Первая жертва слона! Слон берёт пешку h7 с шахом, вскрывая королевский фланг.
+]
+8HABKTEFa   05C6efYZirs nq duzgt B Kxh7
+[
+Король берёт слона.
+]
+8HABKTEFa   05d6efYZirs nq  uzgt W Qxh5+
+[
+Ферзь возвращает фигуру с шахом.
+]
+8HABKTEFa   05d6efYZirs nq  uzg{ B Kg8
+[
+Король уходит.
+]
+8HABKTEFs   05d6efYZir  nq  uzg{ W Bxg7
+[
+Вторая жертва слона! Слон берёт пешку g7 и окончательно оголяет короля. Если черные не возьмут слона, последует Qh8 — мат (ферзя защищает слон g7).
+]
+8HABKTEF    05d6efYZir  nq  uzgs B Kxg7
+[
+Король берёт слона.
+]
+8HABKTEF    05U6efYZir  nq  uzgs W Qg4+
+[
+Ферзь даёт шах и гонит короля.
+]
+8HABKTEF    05U6efYZir  nq  uzgt B Kh7
+[
+Король уходит.
+]
+8HABKTEF    0LU6efYZir  nq  uzgt W Rf3
+[
+Ладья выходит на третью горизонталь. Угроза — Rh3, и это будет мат.
+]
+8HABKTEF    0LU6efYZar  nq  uzgt B e5
+[
+Лучшая защита по Stockfish (на другие ходы у белых мат в несколько ходов): черные освобождают шестую горизонталь, чтобы ферзь c6 мог закрыться на h6.
+]
+8HABKTEF    0NU6efYZar  nq  uzgt W Rh3+
+[
+Шах ладьёй.
+]
+8HABKTEF    0NU6efYZar  nq  uzlt B Qh6
+[
+Ферзь закрывается.
+]
+8HABKTEF    0lU6efYZar  nq  uz t W Rxh6+
+[
+Ладья берёт ферзя.
+]
+8HABKTEF    0 U6efYZar  nq  uz l B Kxh6
+[
+Король берёт ладью. Белые отдали двух слонов и ладью за ферзя и две пешки, но у них есть следующий удар.
+]
+8HABKTEF    0 p6efYZar  nq  uz l W Qd7
+[
+Вилка! Ферзь нападает сразу на слонов e7 и b7.
+]
+8HABKTEF    0 p6efYZar  nj  uz l B Bf6
+[
+Черные спасают одного слона.
+]
+8HABKTEF    0 n6efYZar   j  uz l W Qxb7
+[
+Ферзь забирает второго слона. Теперь у белых ферзь и ладья против двух ладей и слона, а у черного короля нет пешечного прикрытия.
+]
+8HABKTEF    0 n6efYZar   j  uz s B Kg7
+[
+Король возвращается.
+]
+8HABKTEF    5 n6efYZar   j  uz s W Rf1
+[
+Ладья вступает в игру. Stockfish предпочитал 24.fxe5.
+]
+8HABKTEF    5 n6efYZar   j  vz s B Rab8
+[
+Ладья нападает на ферзя.
+]
+8HABKTEF    5 p6efYZar   j  vz s W Qd7
+[
+Ферзь уходит, нападая на пешку d5.
+]
+8HABKTEF    5 p6efYZar   j  vx s B Rfd8
+[
+Ладья нападает на ферзя. Stockfish предпочитал 25...e4.
+]
+8HABKTEF    5 U6efYZar   j  vx s W Qg4+
+[
+Ферзь даёт шах и уходит от удара.
+]
+8HABKTEF    5 U6efYZar   j  vx z B Kf8
+[
+Король уходит.
+]
+8HABKaEF    5 U6efYZ r   j  vx z W fxe5
+[
+Пешка берёт на e5 и нападает на слона f6. Линия «f» открывается для ладьи.
+]
+8HABKaEF    5 U6efYZ r   s  vx z B Bg7
+[
+Слон отступает.
+]
+8HABKiEF    5 U6efYZ r   s  vx z W e6
+[
+Пешка вторгается на e6, разрушая позицию короля.
+]
+8HABKiEF    5 U6efYZ r   s  nx z B Rb7
+[
+Ладья защищает седьмую горизонталь.
+]
+8HABKiEF    5 k6efYZ r   s  nx z W Qg6
+[
+Ферзь нападает на слона g7 и пешку f7.
+]
+8HABKiEF    5 k6efYZ j   s  nx z B f6
+[
+Черные защищаются.
+]
+8HABKiEF    j k6efYZ     s  nx z W Rxf6+
+[
+Ладья берёт пешку f6 с шахом.
+]
+8HABKiEF      k6efYZ     j  nx z B Bxf6
+[
+Слон берёт ладью.
+]
+8HABKiEF      j6efYZ        nx z W Qxf6+
+[
+Ферзь берёт слона с шахом.
+]
+8HABKiEF      j6efYZ        nx y B Ke8
+[
+Король уходит.
+]
+8HABKiEF      }6efYZ        nx y W Qh8+
+[
+Шах.
+]
+8HABKiEF      }6efYZ        nx q B Ke7
+[
+Король уходит.
+]
+8HABKiEF      s6efYZ        nx q W Qg7+
+[
+Шах по седьмой горизонтали — сквозной удар: за королём e7 на той же линии стоит ладья b7.
+]
+8HABK EF      s6efYZ        nx i B Kxe6
+[
+Король забирает пешку.
+]
+8HABK EF      n6efYZ         x i W Qxb7
+[
+Ферзь забирает ладью. У белых ферзь против ладьи — выигранный эндшпиль.
+]
+8HABK EF      n6efYZ         h i B Rd6
+[
+Ладья защищает пешку b6.
+]
+8HABK EF      e6 fYZ         h i W Qxa6
+[
+Ферзь забирает пешку a6.
+]
+8HABK EF      e6 fYR         h i B d4
+[
+Черные пытаются создать проходную пешку.
+]
+8HABR EF      e6 fY          h i W exd4
+[
+Белые берут пешку.
+]
+8HAB  EF      e6 fR          h i B cxd4
+[
+Черные берут обратно.
+]
+8HAB  EV      e6 fR          h i W h4
+[
+Белые двигают свою проходную пешку h.
+]
+8HAB  EV      e6 fJ          h i B d3
+[
+Пешка идёт вперёд.
+]
+8HAB  EV      J6 f           h i W Qxd3
+[
+Ферзь забирает пешку. Черные сдались: у белых ферзь и пешки против ладьи.
+]

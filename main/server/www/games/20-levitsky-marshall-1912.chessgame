@@ -1,0 +1,200 @@
+# White: Степан Левитский
+# Black: Фрэнк Маршалл
+# Place: Бреслау
+# Date: 20.07.1912
+# Note: Перекрытие. Ход Фg3!!: ферзь ставится под бой трёх фигур.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Источник ходов: chessgames.com, партия 1094915 (https://www.chessgames.com/perl/chessgame?gid=1094915), «18th DSB Kongress», 6-й тур. Результат 0-1.
+
+Что смотреть: черные получают изолированную пешку d5, но активные фигуры. Когда белые ошибаются (20.Qh5), черные сдваивают ладьи по линии «f» и проводят комбинацию, которая заканчивается ходом 23...Qg3!! — ферзь встаёт под бой трёх фигур, и любое взятие проигрывает.
+]
+89ARCDEF25160734mnopqrstwzv{u}xy W d4
+[
+Белые занимают центр.
+]
+89ARCDEF25160734mnopirstwzv{u}xy B e6
+[
+Черные готовят d5.
+]
+89ARSDEF25160734mnopirstwzv{u}xy W e4
+[
+Партия переходит во французскую защиту.
+]
+89ARSDEF25160734mnoZirstwzv{u}xy B d5
+[
+Французская защита: черные атакуют пешку e4.
+]
+89ARSDEF25I60734mnoZirstwzv{u}xy W Nc3
+[
+Конь защищает e4.
+]
+89ARSDEF25I60734mnYZirstwzv{u}xy B c5
+[
+Черные сразу бьют по центру с фланга. Stockfish предпочитал 3...Nf6.
+]
+89ARSDEF25IL0734mnYZirstwzv{u}xy W Nf3
+[
+Конь развивается. Stockfish считал сильнее 4.exd5.
+]
+89ARSDEF25IL0734mnYZirstwzg{u}xy B Nc6
+[
+Конь давит на d4.
+]
+89ARZDEF25IL0734mnY irstwzg{u}xy W exd5
+[
+Белые меняют в центре.
+]
+89AR DEF25IL0734mnY Zrstwzg{u}xy B exd5
+[
+У черных изолированная пешка на d5 — слабость в будущем, но взамен открытые линии.
+]
+89AR DEF2CIL0734mnY Zrstwzg{u}xy W Be2
+[
+Скромное развитие. Stockfish предпочитал 6.Bb5, связывая коня.
+]
+89AR DEF2CIL0734mnY Zrstwzgju}xy B Nf6
+[
+Конь развивается.
+]
+89AR DEF2CIL0536mnY Zrstwzgju}xy W O-O
+[
+Белые рокируют.
+]
+89AR DEF2CIL0536mnY Zrstwqgju}xy B Be7
+[
+Черные готовят рокировку.
+]
+89AR DEFcCIL0536mnY Zrstwqgju}xy W Bg5
+[
+Слон связывает коня f6 со слоном e7 и давит на защитника d5.
+]
+89AR DEFcCIL0536mnY Zrstwqgjuzx{ B O-O
+[
+Черные рокируют.
+]
+89AY DEFcCIL0536mn  Zrstwqgjuzx{ W dxc5
+[
+Белые меняют и оставляют черным изолированную пешку.
+]
+89AY DEFcCIL0536mn  Zrstiqgjuzx{ B Be6
+[
+Черные не спешат брать пешку и сначала защищают d5.
+]
+89AY DEFcCIR0536mn  Zrstiqgjuzx{ W Nd4
+[
+Конь нападает на слона e6.
+]
+89A  DEFcCIR0536mn  ZrstiYgjuzx{ B Bxc5
+[
+Черные возвращают пешку.
+]
+89A  DEFcCIi0536mn  Zrst Ygjuzx{ W Nxe6
+[
+Белые меняют коня на слона.
+]
+89A  DEFcCI 0536mn  Zist Ygjuzx{ B fxe6
+[
+Пешка берёт обратно. Линия «f» открылась для черной ладьи, а пешка e6 защищает d5.
+]
+89A  DEFcUI 0536mn  Zist Ygjuzx{ W Bg4
+[
+Слон давит на пешку e6.
+]
+89A  DEFcUI 0536mn  Zist Ygjuzh{ B Qd6
+[
+Ферзь защищает пешку e6 и нацеливается на h2.
+]
+89A  DEFcNI 0536mn  Zist Ygjuzh{ W Bh3
+[
+Слон продолжает давить на e6.
+]
+89A  DEFcNI 0536mn  Zist Ygjyzh{ B Rae8
+[
+Ладья защищает e6.
+]
+89A  DEFcNI 05B6mn  Zist Ygjyzh{ W Qd2
+[
+Ферзь соединяет ладьи.
+]
+89A  DEFcNI 05B6mn  Zist Pgjyzh{ B Bb4
+[
+Слон связывает коня c3 и угрожает разменом с порчей пешек.
+]
+89A  DEFjNI 05B6mn  Zist Pg yzh{ W Bxf6
+[
+Белые меняют слона на коня.
+]
+89A  DEF NI 05B6mn  Zist Pg yjh{ B Rxf6
+[
+Ладья берёт обратно и становится активной на шестой горизонтали.
+]
+89A  DEF NI 35B6mn  Zist Pg yjh{ W Rad1
+[
+Ладья встаёт на линию «d» за своим ферзём и нацеливается на изолированную пешку d5.
+]
+89A  DEF NI 35B6mn  Zist Pg yjY{ B Qc5
+[
+Ферзь защищает d5 и нападает на коня c3, который связан.
+]
+89A  DEF NI 35C6mn  Zist Pg yjY{ W Qe2
+[
+Ферзь освобождает линию «d»: теперь ладья d1 напрямую давит на пешку d5.
+]
+89A  DEF N  35C6mn  Zist Ig yjY{ B Bxc3
+[
+Черные меняют слона на коня.
+]
+8IA  DEF N  35C6mn  Zist  g yjY{ W bxc3
+[
+Пешка берёт обратно.
+]
+8 A  DEF N  35C6mn  Zist  g yjI{ B Qxc3
+[
+Ферзь забирает пешку c3.
+]
+8 A  DEF N  Z5C6mn   ist  g yjI{ W Rxd5
+[
+Белые забирают изолированную пешку d5.
+]
+8 A  DEF N  Z5C6mn   ist  R yjI{ B Nd4
+[
+Конь нападает на ферзя e2 и прыгает к королю.
+]
+8 A  DEF N  Z5d6mn   ist  R yjI{ W Qh5
+[
+Ошибка! Ферзь уходит на королевский фланг, но оставляет без защиты пункт f2. По оценке Stockfish, после этого хода у черных около -3,5. Лучше было 20.Qe4.
+]
+8 A  DEF N  Z5d6mn   ist  R zjI{ B Ref8
+[
+Черные сдваивают ладьи по линии «f» против пункта f2.
+]
+8 A  DEF N  a5d6mn   ist  R zjI{ W Re5
+[
+Ладья уходит из-под удара пешки e6 и сама нападает на неё.
+]
+8 A  DEF N  a5d6mn   ist  R zlI{ B Rh6
+[
+Ладья с темпом нападает на ферзя h5. За ферзём стоит слон h3, который останется без защиты.
+]
+8 A  DEF N  a5c6mn   ist  R zlI{ W Qg5
+[
+Ферзь уходит на g5 и защищает ладью e5 по пятой горизонтали. Слон h3 теперь не защищён.
+]
+8 A  DEF    a5c6mn   ist  R zNI{ B Rxh3
+[
+Ладья забирает слона h3. У черных лишняя фигура.
+]
+8 A  DEF    Y5c6mn   ist  R zNI{ W Rc5
+[
+Ладья нападает на ферзя c3.
+]
+8 A  DEF    Y5c6mn   ist  R zNM{ B Qg3
+[
+Знаменитый ход! Ферзь встаёт под бой сразу трёх белых фигур, и любое взятие проигрывает:
+— 24.hxg3 Ne2 — мат;
+— 24.fxg3 Ne2+ 25.Kh1 Rxf1 — мат;
+— 24.Qxg3 Ne2+ 25.Kh1 Nxg3+ 26.Kg1 Nxf1 — у черных лишняя фигура.
+А если не брать ферзя, черные ставят мат: например, на 24.Kh1 следует 24...Qxh2. Белые сдались.
+]

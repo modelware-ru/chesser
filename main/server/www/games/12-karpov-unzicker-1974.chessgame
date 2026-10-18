@@ -1,0 +1,360 @@
+# White: Анатолий Карпов
+# Black: Вольфганг Унцикер
+# Place: Ницца (олимпиада)
+# Date: 18.06.1974
+# Note: Позиционная игра. Захват пространства и медленное удушение позиции в испанской партии. Позиционное удушение: захват пространства и игра на ферзевом фланге.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Источник ходов: chessgames.com, партия 1067846 (https://www.chessgames.com/perl/chessgame?gid=1067846), «Nice Olympiad Final-A», 4-й тур. Результат 1-0.
+
+Что смотреть: белые закрывают центр ходом d5, захватывают пространство на ферзевом фланге и ставят слона на a7, где он запирает черные ладьи. Затем белые переходят на королевский фланг, меняют «хорошего» слона черных и вторгаются ферзём и конём. Черные почти не делают ошибок, но их фигурам просто негде развернуться.
+]
+89ABSDEF25160734mnopqrstwzv{u}xy W e4
+[
+Белые занимают центр.
+]
+89ABSDEF25160734mnoparstwzv{u}xy B e5
+[
+Черные отвечают симметрично.
+]
+89ABSDEF251L0734mnoparstwzv{u}xy W Nf3
+[
+Конь нападает на пешку e5.
+]
+89ABSDEF251L0734mnoparstwzg{u}xy B Nc6
+[
+Конь защищает e5.
+]
+89ABSDEF2X1L0734mnoparstwzg{u}xy W Bb5
+[
+Испанская партия: слон давит на коня c6, защитника e5.
+]
+89ABSDEF2X1L0734enoparstwzg{u}xy B a6
+[
+Черные спрашивают слона.
+]
+89ABSDEF2O1L0734enoparstwzg{u}xy W Ba4
+[
+Слон сохраняет давление.
+]
+89ABSDEF2O1L0734enoparstwzgju}xy B Nf6
+[
+Развитие с нападением на e4.
+]
+89ABSDEF2O1L0536enoparstwzgju}xy W O-O
+[
+Белые рокируют.
+]
+89ABSDEF2O1L0536enoparstwqgju}xy B Be7
+[
+Закрытый вариант: черные спокойно готовят рокировку.
+]
+89ABSDEF2O1L0436enoparstwqgju}xy W Re1
+[
+Ладья защищает пешку e4.
+]
+89ABSDEF2O1L0436eXoparstwqgju}xy B b5
+[
+Черные прогоняют слона.
+]
+89ABSDEF2H1L0436eXoparstwqgju}xy W Bb3
+[
+Слон отступает на диагональ a2–g8.
+]
+89ABSDEF2H1L0436eXoharstwqgju}xy B d6
+[
+Черные укрепляют пешку e5.
+]
+89IBSDEF2H1L0436eXoharstwqgju}xy W c3
+[
+Белые готовят d4 и оставляют слону отступление на c2.
+]
+89IBSDEF2H1L0436eXoharstwqgjuzx{ B O-O
+[
+Черные рокируют.
+]
+89IBSDEN2H1L0436eXoharstwqgjuzx{ W h3
+[
+Профилактика: белые не пускают слона c8 на g4, где он связал бы коня f3.
+]
+89IBSDEN2H1L0436eXoharstwqWjuzx{ B Na5
+[
+Вариант Чигорина: конь прогоняет слона b3 и освобождает пешке c путь на c5.
+]
+89IBSDEN2A1L0436eXoharstwqWjuzx{ W Bc2
+[
+Слон отступает на c2, где поддерживает пешку e4.
+]
+89IBSDEN2A1L0436eXYharstwqWjuzx{ B c5
+[
+Черные захватывают пространство на ферзевом фланге и давят на d4.
+]
+89IRSDEN2A1L0436eXYharstwqWjuzx{ W d4
+[
+Белые занимают центр.
+]
+89IRSDEN2A1L0436eXYharstwqWjuzo{ B Qc7
+[
+Ферзь защищает пешку e5 и встаёт на полуоткрытую линию «c».
+]
+89IRSDEN2ABL0436eXYharstwqWjuzo{ W Nbd2
+[
+Конь развивается, готовясь перейти через f1 на g3 или e3.
+]
+89IRSDEN2ABL0436eXYharstwqgjuzo{ B Nc6
+[
+Конь возвращается и давит на d4.
+]
+89IZSDEN2ABL0436eXYharstwqgjuzo{ W d5
+[
+Белые закрывают центр. Конь c6 должен отступить, а у белых появляется лишнее пространство.
+]
+89IZSDEN2ABL0436eXYharstwqxjuzo{ B Nd8
+[
+Конь отступает, чтобы позже перейти на b7 или f7.
+]
+O9IZSDEN2ABL0436eXYharstwqxjuzo{ W a4
+[
+Белые атакуют на ферзевом фланге, нападая на пешку b5.
+]
+O9IZSDEN2ABL0436eXYharstwqxjvzo{ B Rb8
+[
+Ладья защищает пешку b5.
+]
+X9IZSDEN2ABL0436e Yharstwqxjvzo{ W axb5
+[
+Белые открывают линию «a».
+]
+ 9IZSDEN2ABL0436X Yharstwqxjvzo{ B axb5
+[
+Черные берут обратно.
+]
+ PIZSDEN2ABL0436X Yharstwqxjvzo{ W b4
+[
+Пешка давит на c5, и белые готовятся вскрыть линии на ферзевом фланге.
+]
+ PIZSDEN2ABL0436X Yharstwqnjvzo{ B Nb7
+[
+Конь защищает пешку c5 и поле a5.
+]
+ PIZSDEN2A5L0436X Yharstwqnjvzo{ W Nf1
+[
+Конь направляется на g3.
+]
+ PIZSDEN2A5L0436X Yharstpqnjvzo{ B Bd7
+[
+Черные развивают слона.
+]
+ PIZSDENKA5L0436X Yharstpqnjvzo{ W Be3
+[
+Слон давит на пешку c5.
+]
+ PIZSDENKA5L0436X Yharstpqnjuzo{ B Ra8
+[
+Ладья оспаривает открытую линию «a».
+]
+ PIZSDENKA5L04B6X Yharstpqnjuzo{ W Qd2
+[
+Ферзь соединяет ладьи и поддерживает слона e3.
+]
+ PIZSDENKA5L04B6X Yharstpqnjuwo{ B Rfc8
+[
+Ладья поддерживает линию «c».
+]
+ PIZSDENKJ5L04B6X Yharstpqnjuwo{ W Bd3
+[
+Слон давит на пешку b5.
+]
+ PIZSDENKJ5L04B6X Yharktpqnjuwo{ B g6
+[
+Черные готовят перевод слона на g7.
+]
+ PIZSDENKJML04B6X Yharktpqnjuwo{ W Ng3
+[
+Конь занимает хорошее поле, контролируя f5 и h5.
+]
+ PIZSDENKJML04B6X Yharktpznjuwo{ B Bf8
+[
+Слон направляется на g7.
+]
+ PIZSDENKJML84B6X Yharktpznjuwo{ W Ra2
+[
+Белые готовятся сдвоить ладьи по линии «a».
+]
+ PIZSDENKJML84B6X Qharktpznjuwo{ B c4
+[
+Черные закрывают ферзевый фланг и берут под контроль поле d3. Но пешка b5 становится слабой, а активная игра черных на ферзевом фланге заканчивается.
+]
+ PIZSDENK1ML84B6X Qharktpznjuwo{ W Bb1
+[
+Слон отступает. Stockfish считал точнее 23.Be2.
+]
+ PIZSDENK1ML84B6X Qharktpznjuwx{ B Qd8
+[
+Ферзь освобождает поле c7 для коня и готовится перейти на королевский фланг.
+]
+ PIZSDENm1ML84B6X Qharktpznjuwx{ W Ba7
+[
+Яркий позиционный ход! Слон встаёт на a7 прямо перед ладьёй a8. Взять его можно только ценой качества: слона защищает ладья a2, а за ней встанет вторая ладья. Слон запирает линию «a» и сковывает черные фигуры: ладье a8 некуда идти, а поля b8 и b6 под контролем слона.
+]
+ PIZSDENm1ML84B6X Qharktpznyuwx{ B Ne8
+[
+Конь перестраивается, чтобы перейти на c7.
+]
+ PIZSDENmAML84B6X Qharktpznyuwx{ W Bc2
+[
+Слон возвращается на диагональ, откуда сможет перейти на d1 и g4 или h5.
+]
+ PIZSDENmAML84B6X Qharktpznouwx{ B Nc7
+[
+Конь защищает пешку b5 и поле a8.
+]
+ PIZSDENmAML80B6X Qharktpznouwx{ W Rea1
+[
+Белые сдваивают ладьи на линии «a».
+]
+ PIZSDENmAML80B6X Qharktpznouwq{ B Qe7
+[
+Ферзь переходит на королевский фланг.
+]
+ PIZSDENm1ML80B6X Qharktpznouwq{ W Bb1
+[
+Слон отступает на b1. Stockfish считал точнее 27.Bd1, сразу направляя слона на королевский фланг.
+]
+ PIZSDENm1ML80B6X Qharktyznouwq{ B Be8
+[
+Черные перегруппировываются.
+]
+ PIZSDENm1CL80B6X Qharktyznouwq{ W Ne2
+[
+Конь g3 отступает на e2, освобождая дорогу пешке f для наступления.
+]
+ PIZSDENm1CL80B6X Qharktyzxouwq{ B Nd8
+[
+Конь направляется на f7.
+]
+ PIZSDENm1CF80B6X Qharktyzxouwq{ W Nh2
+[
+Конь f3 уходит на h2: он освобождает пешке f путь вперёд и готовит прыжок на g4.
+]
+ PIZSDENm1CF80B6X Qharktysxouwq{ B Bg7
+[
+Слон занимает большую диагональ.
+]
+ PIZSTENm1CF80B6X Qharktysxouwq{ W f4
+[
+Белые начинают игру на королевском фланге.
+]
+ PIZSTENm1CF80B6X Qhajktysxouwq{ B f6
+[
+Черные поддерживают e5.
+]
+ PIZSbENm1CF80B6X Qhajktysxouwq{ W f5
+[
+Белые вбивают клин на королевском фланге.
+]
+ PIZSbENm1CF80B6X Qhajctysxouwq{ B g5
+[
+Ошибка. Черные закрывают королевский фланг, но навсегда уступают белым поле h5 и ослабляют светлые поля. Stockfish предпочитал 31...Nf7; после хода в партии оценка выросла примерно до +2,7.
+]
+ PIZSbENmACF80B6X Qhajctysxouwq{ W Bc2
+[
+Слон направляется на d1 и h5, чтобы разменять «хорошего» слона черных.
+]
+ PIZSbENmACF80B6X Qhajctrsxouwq{ B Bf7
+[
+Слон защищает светлые поля.
+]
+ PIZSbENmAMF80B6X Qhajctrsxouwq{ W Ng3
+[
+Конь возвращается на g3, нацеливаясь на h5.
+]
+ PIZSbENmAMF80B6X Qhajctrsnouwq{ B Nb7
+[
+Конь перестраивается.
+]
+ PIZSbENm3MF80B6X Qhajctrsnouwq{ W Bd1
+[
+Слон на пути к h5.
+]
+ PIZSbENm3MF80B6X Qhajclrsnouwq{ B h6
+[
+Черные защищают пешку g5.
+]
+ PIZSbENmdMF80B6X Qhajclrsnouwq{ W Bh5
+[
+Белые предлагают размен светлопольных слонов. Слон f7 — главный защитник светлых полей черных.
+]
+ PIZSbENmdMF80B6X Qhajclrsnouwy{ B Qe8
+[
+Ферзь защищает слона f7: черные не хотят сами открывать линию «h».
+]
+ PIZSbENmdMF8036X Qhajclrsnouwy{ W Qd1
+[
+Ферзь встаёт на диагональ d1–h5 позади своего слона, чтобы после размена слонов вторгнуться на h5.
+]
+ PIZSbENmdMF8036X Qhajclrsxouwy{ B Nd8
+[
+Конь возвращается на защиту.
+]
+ PIZSbENmdMFG036X Qhajclrsxouwy{ W Ra3
+[
+Белые перестраивают ладьи, сохраняя контроль над линией «a».
+]
+ PIZSbENmdMFG036X Qhajclrsxouwyz B Kf8
+[
+Черные могут только ждать.
+]
+ PIZSbENmdMFG836X Qhajclrsxouwyz W R1a2
+[
+Ладьи по-прежнему держат линию «a».
+]
+ PIZSbENmdMFG836X Qhajclrsxouwy{ B Kg8
+[
+Ожидание.
+]
+ PIZSbENmdMUG836X Qhajclrsxouwy{ W Ng4
+[
+Конь приближается к королевскому флангу.
+]
+ PIZSbENmdMUG836X Qhajclrsxouwyz B Kf8
+[
+Ожидание.
+]
+ PIZSbENmdMKG836X Qhajclrsxouwyz W Ne3
+[
+Конь переходит на e3, откуда защищает пешку f5 и следит за полями g4 и c4.
+]
+ PIZSbENmdMKG836X Qhajclrsxouwy{ B Kg8
+[
+Ожидание.
+]
+ PIZSbENmrMKG836X Qhajcl sxouwy{ W Bxf7+
+[
+Белые меняют главного защитника светлых полей черных.
+]
+ PIZSbENm MKG836X Qhajcl srouwy{ B Nxf7
+[
+Конь берёт обратно.
+]
+ PIZSbENm MKG8d6X Qhajcl srouwy{ W Qh5
+[
+Ферзь вторгается на королевский фланг, нападая на коня f7.
+]
+ PIZSbENm MKG8d6X Qhajcl sxouwy{ B Nd8
+[
+Конь отступает.
+]
+ PIZSbENm MKG8k6X Qhajcl sxouwy{ W Qg6
+[
+Ферзь занимает поле g6, защищённый пешкой f5. Он нападает на пешку h6.
+]
+ PIZSbENm MKG8k6X Qhajcl sxouwyz B Kf8
+[
+Король уходит.
+]
+ PIZSbENm dKG8k6X Qhajcl sxouwyz W Nh5
+[
+Конь присоединяется к атаке, нападая на слона g7 и пешку f6. Черные сдались: защиты от вторжения нет, а по оценке Stockfish у белых около +5.
+]

@@ -1,0 +1,214 @@
+# White: Фридрих Земиш
+# Black: Арон Нимцович
+# Place: Копенгаген
+# Date: 09.03.1923
+# Note: «Бессмертная партия цугцванга». Ограничение подвижности фигур соперника до полного цугцванга.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Источник ходов: chessgames.com, партия 1102400 (https://www.chessgames.com/perl/chessgame?gid=1102400), турнир в Копенгагене, 6-й тур. На сайте партия так и называется: «The Immortal Zugzwang Game». Результат 0-1.
+
+Внимание: в таблице партия записана как «Нимцович — Земиш», но по данным источника белыми играл Земиш, а черными — Нимцович.
+
+Что смотреть: Нимцович постепенно отнимает у белых фигур полезные поля, жертвует коня ради двух пешек и вторжения ладьи на f2, а затем сдваивает ладьи по линии «f». В финальной позиции у белых формально есть ходы, но каждый из них ухудшает положение — это и есть цугцванг.
+]
+89ARCDEF25160734mnopqrstwzv{u}xy W d4
+[
+Белые занимают центр.
+]
+89ARCDEF25160734mnopqrstwzvju}xy B Nf6
+[
+Гибкий ход.
+]
+89QRCDEF25160734mnopqrstwzvju}xy W c4
+[
+Белые захватывают пространство.
+]
+89QRCDEF25160734mnopirstwzvju}xy B e6
+[
+Черные открывают слона f8.
+]
+89QRCDEF251L0734mnopirstwzvju}xy W Nf3
+[
+Конь развивается.
+]
+89QRCDEF251L0734mfopirstwzvju}xy B b6
+[
+Новоиндийская защита: слон пойдёт на b7 и будет контролировать e4.
+]
+89QRCDMF251L0734mfopirstwzvju}xy W g3
+[
+Белые готовят фианкетто.
+]
+89QRCDMF251L0734mfopirstnzvju}xy B Bb7
+[
+Слон занимает большую диагональ.
+]
+89QRCDMF2E1L0734mfopirstnzvju}xy W Bg2
+[
+Белый слон оспаривает большую диагональ.
+]
+89QRCDMF2E1L0734mfopirstnqvju}xy B Be7
+[
+Черные готовят рокировку.
+]
+89QRCDMF2EIL0734mfopirstnqvju}xy W Nc3
+[
+Конь развивается.
+]
+89QRCDMF2EIL0734mfopirstnqvjuzx{ B O-O
+[
+Черные рокируют.
+]
+89QRCDMF2EIL0536mfopirstnqvjuzx{ W O-O
+[
+Белые рокируют.
+]
+89QRCDMF2EIL0536mfoZirstnqvjuzx{ B d5
+[
+Черные занимают центр.
+]
+89QRCDMF2EIa0536mfoZirstnqvjuzx{ W Ne5
+[
+Конь занимает поле e5.
+]
+89QRCDMF2EIa0536mfgZirstnqvjuzx{ B c6
+[
+Черные укрепляют d5 и закрывают большую диагональ.
+]
+89ZRCDMF2EIa0536mfg irstnqvjuzx{ W cxd5
+[
+Белые меняют.
+]
+89 RCDMF2EIa0536mfZ irstnqvjuzx{ B cxd5
+[
+Черные берут пешкой c и получают симметричную структуру.
+]
+89 RCDMFTEIa0536mfZ irstnqvjuzx{ W Bf4
+[
+Слон развивается.
+]
+89 RCDMFTEIa0536efZ irstnqvjuzx{ B a6
+[
+Черные готовят b5 и захват пространства на ферзевом фланге.
+]
+89 RCDMFTEIa2536efZ irstnqvjuzx{ W Rc1
+[
+Ладья занимает открытую линию «c».
+]
+89 RCDMFTEIa2536eXZ irstnqvjuzx{ B b5
+[
+Черные отнимают у белых поле c4 и готовят b4.
+]
+89 RCDMFTEIa25H6eXZ irstnqvjuzx{ W Qb3
+[
+Ферзь давит на пешку b5 и поле d5.
+]
+89 RCDMFTEIa25H6eXZ irstnqgjuzx{ B Nc6
+[
+Конь предлагает размен.
+]
+89 RCDMFTEIg25H6eXZ irstnq juzx{ W Nxc6
+[
+Белые меняют коней.
+]
+89 RCDMFTEI 25H6eXZ irstgq juzx{ B Bxc6
+[
+Слон берёт обратно и защищает b5 и d5.
+]
+89 RCDMNTEI 25H6eXZ irstgq juzx{ W h3
+[
+Профилактика, но довольно медленная.
+]
+89 RCDMNTEI 25H6eXZ irstgq juzp{ B Qd7
+[
+Ферзь защищает слона c6 и готовит игру на королевском фланге.
+]
+89 RCDMNTEI 25HFeXZ irstgq juzp{ W Kh2
+[
+Белые продолжают медлить.
+]
+89 RCDMNTEI 25HFeXZ irstgq duzp{ B Nh5
+[
+Конь нападает на слона f4.
+]
+89 RCDMNBEI 25HFeXZ irstgq duzp{ W Bd2
+[
+Слон отступает. Теперь у черных инициатива.
+]
+89 RCDMNBEI 25HFeXZ ibstgq duzp{ B f5
+[
+Пешка захватывает поле e4 и готовит наступление на королевском фланге.
+]
+89 RCDMNBEI 253FeXZ ibstgq duzp{ W Qd1
+[
+Ферзь переходит на королевский фланг.
+]
+89 RCDMNBEI 253FePZ ibstgq duzp{ B b4
+[
+Пешка прогоняет коня c3.
+]
+89 RCDMNBE1 253FePZ ibstgq duzp{ W Nb1
+[
+Конь отступает на b1, где он совсем пассивен.
+]
+89 RCDMNBE1 253FePZ ibstXq duzp{ B Bb5
+[
+Слон занимает диагональ a6–f1. Пока её перекрывает пешка e2, но как только пешка уйдёт, слон возьмёт под контроль поля e2 и f1.
+]
+89 RCDMNBE1 263FePZ ibstXq duzp{ W Rg1
+[
+Ладья уходит с f1, где её в будущем может атаковать слон b5, и заранее защищает пешку g3.
+]
+89 RCDMNBE1 263FePZ ibstXh duzp{ B Bd6
+[
+Слон нацеливается на g3.
+]
+89 RSDMNBE1 263FePZ ibstXh duzp{ W e4
+[
+Белые пытаются освободиться.
+]
+89 R DMNBE1 263FePZ iSstXh duzp{ B fxe4
+[
+Черные отдают коня h5! Они получают две пешки и открытую линию «f».
+]
+89 R DMNBE1 26dFePZ iSstXh  uzp{ W Qxh5
+[
+Ферзь берёт коня.
+]
+89 R  MNBE1 26dFePZ iSstXh  uDp{ B Rxf2
+[
+Ладья вторгается на вторую горизонталь и нападает на незащищённого слона d2 и на слона g2.
+]
+89 R  MNBE1 26cFePZ iSstXh  uDp{ W Qg5
+[
+Ферзь встаёт на g5 и защищает слона d2 по диагонали g5–d2.
+]
+89 R  MNBE1 26cFePZ iSstXh  zDp{ B Raf8
+[
+Вторая ладья присоединяется по линии «f».
+]
+89 R  MNBE1 26c7ePZ iSstXh  zDp{ W Kh1
+[
+Король уходит в угол. Stockfish считал точнее 23.Qh4.
+]
+89 R  MNBE1 26c7ePZ iSstXh  bDp{ B R8f5
+[
+Ладья нападает на ферзя g5.
+]
+89 R  MNBE1 26K7ePZ iSstXh  bDp{ W Qe3
+[
+Ферзь отступает.
+]
+89 R  MNBE1 26K7ePZ iSstJh  bDp{ B Bd3
+[
+Слон встаёт на d3: теперь черные контролируют поля e2 и f1, и белым фигурам почти некуда ходить.
+]
+89 R  MNBE1 46K7ePZ iSstJh  bDp{ W Rce1
+[
+Ладья встаёт на e1 и защищает ферзя e3.
+]
+89 R  MNBE1 46K7ePZ iSslJh  bDp{ B h6
+[
+Тихий ход, после которого белые оказались в цугцванге. Черные просто ждут: все белые фигуры скованы, и любой ход белых ухудшает их положение. По оценке Stockfish, все ходы белых ведут к потере материала (лучший даёт около -4,8). Белые сдались.
+]

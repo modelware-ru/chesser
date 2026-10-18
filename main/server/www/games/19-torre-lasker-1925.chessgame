@@ -1,0 +1,352 @@
+# White: Карлос Торре
+# Black: Эмануэль Ласкер
+# Place: Москва
+# Date: 25.11.1925
+# Note: Открытый шах, «мельница». Чередование открытых шахов, ладья собирает материал.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Источник ходов: chessgames.com, партия 1100063 (https://www.chessgames.com/perl/chessgame?gid=1100063), турнир в Москве, 12-й тур. Результат 1-0.
+
+Что смотреть: долгое время инициатива у черных, и после 22.Rg3 у них, по оценке Stockfish, большой перевес. Но черные ошибаются, и белые находят 25.Bf6!! — жертву ферзя, после которой ладья g7 вместе со слоном f6 устраивает «мельницу»: ладья ходит по седьмой горизонтали, каждый раз открывая шах слоном, и собирает черные фигуры и пешки.
+]
+89ARCDEF25160734mnopqrstwzv{u}xy W d4
+[
+Белые занимают центр.
+]
+89ARCDEF25160734mnopqrstwzvju}xy B Nf6
+[
+Гибкий ход.
+]
+89ARCDEF251L0734mnopqrstwzvju}xy W Nf3
+[
+Конь развивается.
+]
+89ARCDEF251L0734mnopirstwzvju}xy B e6
+[
+Черные открывают слона f8.
+]
+89ARCDEFc51L0734mnopirstwzvju}xy W Bg5
+[
+Атака Торре: слон связывает коня f6 и давит на королевский фланг черных.
+]
+89ARCDEFc51L0734mnYpirstwzvju}xy B c5
+[
+Черные атакуют центр.
+]
+89ARKDEFc51L0734mnYpirstwzvju}xy W e3
+[
+Белые поддерживают центр.
+]
+89A KDEFc51L0734mnRpirstwzvju}xy B cxd4
+[
+Черные меняют.
+]
+89A RDEFc51L0734mn pirstwzvju}xy W exd4
+[
+Белые берут пешкой e, открывая линию «e» для ладьи и диагональ для слона f1.
+]
+89A RDEFc51L0734mn pirstwqvju}xy B Be7
+[
+Слон развивается и снимает связку.
+]
+89A RDEFc5BL0734mn pirstwqvju}xy W Nbd2
+[
+Конь развивается.
+]
+89A RDEFc5BL0734mn hirstwqvju}xy B d6
+[
+Черные укрепляют поле e5.
+]
+89I RDEFc5BL0734mn hirstwqvju}xy W c3
+[
+Белые укрепляют пешку d4.
+]
+89I RDEFc5BL0734mn hirstwqpju}xy B Nbd7
+[
+Конь развивается.
+]
+89I RDEFcJBL0734mn hirstwqpju}xy W Bd3
+[
+Слон нацеливается на королевский фланг.
+]
+89I RDEFcJBL0734mf hirstwqpju}xy B b6
+[
+Черные готовят фианкетто.
+]
+89I RDEFcJQL0734mf hirstwqpju}xy W Nc4
+[
+Конь направляется на e3 и давит на d6.
+]
+89I RDEFcJQL0734mf hirstnqpju}xy B Bb7
+[
+Слон занимает большую диагональ.
+]
+89I RDEFcJQL07C4mf hirstnqpju}xy W Qe2
+[
+Ферзь встаёт на линию «e».
+]
+89I RDEFcJQL07C4mf hirstnqpju}oy B Qc7
+[
+Ферзь развивается.
+]
+89I RDEFcJQL05C6mf hirstnqpju}oy W O-O
+[
+Белые рокируют.
+]
+89I RDEFcJQL05C6mf hirstnqpjuzo{ B O-O
+[
+Черные рокируют.
+]
+89I RDEFcJQL04C6mf hirstnqpjuzo{ W Rfe1
+[
+Ладья встаёт на линию «e».
+]
+89I RDEFcJQL04C6mf hirstnqpjuyo{ B Rfe8
+[
+Черные тоже ставят ладью на «e».
+]
+89I RDEFcJQL34C6mf hirstnqpjuyo{ W Rad1
+[
+Белые завершают развитие.
+]
+89I RDEFcJQL34C6mf hirstnqzjuyo{ B Nf8
+[
+Конь перестраивается для защиты короля.
+]
+89I RDEF2JQL34C6mf hirstnqzjuyo{ W Bc1
+[
+Слон отступает, сохраняя его от размена.
+]
+89I RDEF2JQL34C6mf hirstnqzZuyo{ B Nd5
+[
+Конь занимает центральное поле.
+]
+89I RDEF2JQc34C6mf hirstnqzZuyo{ W Ng5
+[
+Конь нацеливается на h7 и f7.
+]
+89I RDEF2JQc34C6mX hirstnqzZuyo{ B b5
+[
+Пешка нападает на коня c4.
+]
+89I RDEF2JGc34C6mX hirstnqzZuyo{ W Na3
+[
+Конь уходит на край доски.
+]
+89I RDEF2JGc34C6mP hirstnqzZuyo{ B b4
+[
+Пешка нападает на пешку c3.
+]
+89P RDEF2JGc34C6m  hirstnqzZuyo{ W cxb4
+[
+Белые берут.
+]
+89  RDEF2JGc34C6m  hirstnqzPuyo{ B Nxb4
+[
+Конь берёт пешку и нападает на слона d3 и пешку a2.
+]
+89  RDEF2JGc34d6m  hirstnqzPuyo{ W Qh5
+[
+Ферзь присоединяется к атаке на королевском фланге.
+]
+89  RDEF2JG 34d6m  hirstnczPuyo{ B Bxg5
+[
+Черные меняют опасного коня. Stockfish предпочитал 18...g6.
+]
+89  RDEFcJG 34d6m  hirstn zPuyo{ W Bxg5
+[
+Слон берёт обратно и возвращается на g5.
+]
+89  RDEFc G 34d6m  hirstn zJuyo{ B Nxd3
+[
+Черные меняют слона.
+]
+89  RDEFc G J4d6m  hirstn z uyo{ W Rxd3
+[
+Ладья берёт обратно и готовится перейти на g3.
+]
+89  RDEFc G J4d6m  hirstn z uyW{ B Qa5
+[
+Ферзь нападает на коня a3.
+]
+8P  RDEFc G J4d6m  hirstn z uyW{ W b4
+[
+Пешка с темпом нападает на ферзя a5 и прогоняет его.
+]
+8P  RDEFc G J4d6m  hirstn z uyb{ B Qf5
+[
+Ферзь переходит на королевский фланг и нападает на ладью d3.
+]
+8P  RDEFc G M4d6m  hirstn z uyb{ W Rg3
+[
+Ладья выходит на линию «g», нацеливаясь на g7.
+]
+8P  RDEFc G M4d6m  hirsln z uyb{ B h6
+[
+Ошибка! По оценке Stockfish, после 22...f6 у черных был бы большой перевес (около -3,6), а теперь позиция примерно равна.
+]
+8P  RDEFc Q M4d6m  hirsln z uyb{ W Nc4
+[
+Конь возвращается в игру.
+]
+8P  RDEFc Q M4d6m  hirsln z uyZ{ B Qd5
+[
+Ферзь нападает на коня c4 и пешку g2. Stockfish предпочитал 23...hxg5.
+]
+8P  RDEFc K M4d6m  hirsln z uyZ{ W Ne3
+[
+Конь отступает с нападением на ферзя.
+]
+8P  RDEFc K M4d6m  hirsln z uyX{ B Qb5
+[
+Ферзь уходит. Ещё одна неточность: Stockfish предпочитал 24...Qxd4.
+]
+8P  RDEFj K M4d6m  hirsln z uyX{ W Bf6
+[
+Блестящий ход! Слон уходит с g5 и открывает пятую горизонталь: теперь белый ферзь h5 стоит под ударом черного ферзя b5. Но взятие ферзя приводит к «мельнице».
+]
+8P  RDEFj K M4 6m  hirsln z uyd{ B Qxh5
+[
+Черные берут ферзя.
+]
+8P  RDEFj K s4 6m  hir ln z uyd{ W Rxg7+
+[
+Ладья берёт пешку g7 с шахом. Слон f6 стоит за ладьёй на диагонали f6–h8.
+]
+8P  RDEFj K s4 6m  hir ln z uyd} B Kh8
+[
+Король уходит в угол. Теперь начинается «мельница»: каждый ход ладьи по седьмой горизонтали открывает шах слоном f6.
+]
+8P  RDEFj K r4 6m  hi  ln z uyd} W Rxf7+
+[
+Вскрытый шах слоном f6, и ладья забирает пешку f7.
+]
+8P  RDEFj K r4 6m  hi  ln z uyd{ B Kg8
+[
+Король уходит.
+]
+8P  RDEFj K s4 6m  hi  ln z uyd{ W Rg7+
+[
+Ладья возвращается на g7 с шахом.
+]
+8P  RDEFj K s4 6m  hi  ln z uyd} B Kh8
+[
+Король возвращается в угол.
+]
+8P  RDEFj K n4 6m  hi  l  z uyd} W Rxb7+
+[
+Вскрытый шах, и ладья забирает слона b7.
+]
+8P  RDEFj K n4 6m  hi  l  z uyd{ B Kg8
+[
+Король уходит.
+]
+8P  RDEFj K s4 6m  hi  l  z uyd{ W Rg7+
+[
+Ладья снова на g7.
+]
+8P  RDEFj K s4 6m  hi  l  z uyd} B Kh8
+[
+Король возвращается.
+]
+8P  RDEFj K c4 6m  hi  l  z uyd} W Rg5+
+[
+Вскрытый шах, и ладья нападает на ферзя h5.
+]
+8P  RDEFj K c4 6m  hi  l  z uydt B Kh7
+[
+Король уходит.
+]
+8P  RDEFj K d4 6m  hi  l  z uy t W Rxh5
+[
+Ладья забирает ферзя. В итоге «мельницы» белые отыграли ферзя и собрали две пешки и слона.
+]
+8P  RDEFj K d4 6m  hi  l  z uy k B Kg6
+[
+Король нападает на ладью h5 и слона f6.
+]
+8P  RDEFj K N4 6m  hi  l  z uy k W Rh3
+[
+Ладья отступает.
+]
+8P  RDEF  K N4 6m  hi  l  z uy j B Kxf6
+[
+Король забирает слона.
+]
+8P  RDEF  K l4 6m  hi     z uy j W Rxh6+
+[
+Ладья забирает пешку h6 с шахом.
+]
+8P  RDEF  K l4 6m  hi     z uy c B Kg5
+[
+Король идёт вперёд.
+]
+8P  RDEF  K N4 6m  hi     z uy c W Rh3
+[
+Ладья отступает.
+]
+8P  RDEF  K N4 6m  hi     z uv c B Reb8
+[
+Ладья нападает на пешку b4.
+]
+8P  RDEF  K M4 6m  hi     z uv c W Rg3+
+[
+Шах.
+]
+8P  RDEF  K M4 6m  hi     z uv j B Kf6
+[
+Король отступает.
+]
+8P  RDEF  K L4 6m  hi     z uv j W Rf3+
+[
+Шах.
+]
+8P  RDEF  K L4 6m  hi     z uv k B Kg6
+[
+Король уходит.
+]
+GP  RDEF  K L4 6m  hi     z uv k W a3
+[
+Пешка защищает b4.
+]
+GP  RDEF  K L4 6W  hi     z uv k B a5
+[
+Черные подрывают пешку b4.
+]
+GW  RDEF  K L4 6   hi     z uv k W bxa5
+[
+Белые берут.
+]
+G   RDEF  K L4 6   hi     z Wv k B Rxa5
+[
+Ладья берёт обратно.
+]
+G   RDEF  Q L4 6   hi     z Wv k W Nc4
+[
+Конь нападает на ладью a5 и пешку d6.
+]
+G   RDEF  Q L4 6   hi     z Zv k B Rd5
+[
+Ладья нападает на пешку d4.
+]
+G   RDEF  Q T4 6   hi     z Zv k W Rf4
+[
+Ладья защищает d4.
+]
+G   RDEF  Q T4 6   hi     p Zv k B Nd7
+[
+Конь развивается, но ослабляет пешку e6.
+]
+G   RDEF  Q Ti 6   h      p Zv k W Rxe6+
+[
+Ладья забирает пешку e6 с шахом.
+]
+G   RDEF  Q Ti 6   h      p Zv c B Kg5
+[
+Король уходит.
+]
+G   RDMF  Q Ti 6   h      p Zv c W g3
+[
+Пешка отнимает у короля поля f4 и h4 и готовит h4+ с матовой сетью. По оценке Stockfish, у белых около +6,5. Черные сдались.
+]

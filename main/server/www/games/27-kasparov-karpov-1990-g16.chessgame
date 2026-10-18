@@ -1,0 +1,826 @@
+# White: Гарри Каспаров
+# Black: Анатолий Карпов
+# Place: Лион
+# Date: 01.12.1990
+# Note: Шотландская партия. Матч на первенство мира, 16-я партия. Каспаров вернул шотландскую в большие шахматы.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Источник ходов: chessgames.com, партия 1067288 (https://www.chessgames.com/perl/chessgame?gid=1067288), «Kasparov - Karpov World Championship Match», 16-я партия. Результат 1-0.
+
+В таблице указано «Партии матча Каспаров — Карпов на первенство мира» без номера партии. В матче 1990 года шотландская партия встречалась в 14-й и 16-й партиях (по данным chessgames.com); в коллекцию включены обе.
+
+Что смотреть: снова вариант с 6.e5. Белые выигрывают пешку c7 и получают давление, черные отвечают контратакой и в критический момент отдают качество. Получается долгий эндшпиль: ладья и слон белых против слона и коня черных. Каспаров более 50 ходов маневрирует, используя ошибки соперника (59...exf4+ и 94...Bg4), и в итоге ловит черного короля в матовую сеть.
+]
+89ABSDEF25160734mnopqrstwzv{u}xy W e4
+[
+Белые занимают центр.
+]
+89ABSDEF25160734mnoparstwzv{u}xy B e5
+[
+Черные отвечают симметрично.
+]
+89ABSDEF251L0734mnoparstwzv{u}xy W Nf3
+[
+Конь нападает на пешку e5.
+]
+89ABSDEF251L0734mnoparstwzg{u}xy B Nc6
+[
+Конь защищает e5.
+]
+89ARSDEF251L0734mnoparstwzg{u}xy W d4
+[
+Шотландская партия: белые сразу вскрывают центр.
+]
+89A SDEF251L0734mnopRrstwzg{u}xy B exd4
+[
+Черные меняют.
+]
+89A SDEF251R0734mnop rstwzg{u}xy W Nxd4
+[
+Конь занимает центр и нападает на коня c6.
+]
+89A SDEF251R0734mnop rstwzgju}xy B Nf6
+[
+Черные развиваются с нападением на e4.
+]
+89A SDEF251g0734mnop rstwz ju}xy W Nxc6
+[
+Белые меняют коней.
+]
+89A SDEF251 0734mgop rstwz ju}xy B bxc6
+[
+Пешка берёт к центру.
+]
+89A aDEF251 0734mgop rstwz ju}xy W e5
+[
+Пешка прогоняет коня f6.
+]
+89A aDEF251 0734mgop rstwz ju}qy B Qe7
+[
+Ферзь нападает на пешку e5.
+]
+89A aDEF251 07C4mgop rstwz ju}qy W Qe2
+[
+Ферзь защищает пешку e5.
+]
+89A aDEF251 07C4mgop rstwz Zu}qy B Nd5
+[
+Конь встаёт в центр.
+]
+89Q aDEF251 07C4mgop rstwz Zu}qy W c4
+[
+Пешка прогоняет коня.
+]
+89Q aDEF251 07C4mgop rstwz fu}qy B Nb6
+[
+Конь отступает и нападает на пешку c4. В 14-й партии матча Карпов играл 8...Ba6.
+]
+89Q aDEF25B 07C4mgop rstwz fu}qy W Nd2
+[
+Конь развивается и защищает c4.
+]
+89Q aDEF25B 07C4mgop rstwz fu}iy B Qe6
+[
+Ферзь нападает на пешки e5 и c4.
+]
+8HQ aDEF25B 07C4mgop rstwz fu}iy W b3
+[
+Пешка защищает c4.
+]
+8HQ aDEF25B 07C4Wgop rstwz fu}iy B a5
+[
+Черные готовят a4, чтобы подорвать пешку b3.
+]
+8HQ aDEF95B 07C4Wgop rstwz fu}iy W Bb2
+[
+Слон защищает пешку e5.
+]
+8HQ aDEF95B 07C4Wgop rstwP fu}iy B Bb4
+[
+Слон связывает коня d2 с королём.
+]
+GHQ aDEF95B 07C4Wgop rstwP fu}iy W a3
+[
+Пешка нападает на слона.
+]
+GHQ aDEF95  07C4Wgop rstwB fu}iy B Bxd2+
+[
+Черные меняют слона на коня.
+]
+GHQ aDEF95  07B4Wgop rstw  fu}iy W Qxd2
+[
+Ферзь берёт обратно и нападает на пешку a5.
+]
+GHQ aDEF95  07B4WgoZ rstw  fu}iy B d5
+[
+Черные бьют по пешке c4 и освобождают слона c8.
+]
+GHZ aDEF95  07B4Wgo  rstw  fu}iy W cxd5
+[
+Белые меняют и нападают на ферзя e6.
+]
+GH  aDEF95  07B4WZo  rstw  fu}iy B cxd5
+[
+Пешка берёт обратно.
+]
+GH  aDEF95  27B4WZo  rstw  fu}iy W Rc1
+[
+Ладья занимает открытую линию «c» и нападает на пешку c7.
+]
+GH  aDEF95  27B4WZo  rstw  fuzi{ B O-O
+[
+Черные рокируют и отдают пешку c7 ради развития.
+]
+GH  aDEF95  o7B4WZ   rstw  fuzi{ W Rxc7
+[
+Ладья забирает пешку и встаёт на седьмую горизонталь. По оценке Stockfish, у белых перевес около +1.
+]
+GH  aDEF95  o7B4WZ   rstw  fuzk{ B Qg6
+[
+Ферзь нападает на пешку g2.
+]
+GH  aLEF95  o7B4WZ   rstw  fuzk{ W f3
+[
+Пешка защищает g2 и закрывает диагональ.
+]
+GH  aLEF95  o7B4WZ   rstb  fuzk{ B Bf5
+[
+Слон развивается.
+]
+GH  aLUF95  o7B4WZ   rstb  fuzk{ W g4
+[
+Пешка прогоняет слона с f5.
+]
+GH  aLUF95  o7B4WZ   rst1  fuzk{ B Bb1
+[
+Слон уходит на b1, подальше от белых пешек, и остаётся на диагонали b1–h7.
+]
+GH  aLUF9X  o7B4WZ   rst1  fuzk{ W Bb5
+[
+Слон развивается.
+]
+GH  aLUF9X  o7B4WZ   rst1  fwzk{ B Rac8
+[
+Черные оспаривают линию «c».
+]
+GH  aLUF9X  w7B4WZ   rst1  f zk{ W Rxc8
+[
+Белые меняют ладьи.
+]
+GH  aLUF9X   7B4WZ   rst1  f wk{ B Rxc8
+[
+Ладья берёт обратно.
+]
+GH  aLUF9X   5B6WZ   rst1  f wk{ W O-O
+[
+Белые наконец рокируют.
+]
+GH  aLUF9X   5B6WZ   rsd1  f wk{ B h5
+[
+Черные подрывают пешку g4.
+]
+GH  aLUN9X   5B6WZ   rsd1  f wk{ W h3
+[
+Белые поддерживают g4.
+]
+GH  aL N9X   5B6WZ   rsU1  f wk{ B hxg4
+[
+Черные меняют.
+]
+GH  aL U9X   5B6WZ   rs 1  f wk{ W hxg4
+[
+Пешка берёт обратно.
+]
+GH  aL U9X   5B6WZ   rs A  f wk{ B Bc2
+[
+Слон нападает на пешку b3.
+]
+GH  aL U9X   5R6WZ   rs A  f wk{ W Qd4
+[
+Ферзь централизуется и нападает на коня b6 и пешку d5. Stockfish считал точнее 24.Bd4.
+]
+GH  aL U9X   5R6WZ   rs A  f wi{ B Qe6
+[
+Ферзь нападает на пешки e5 и g4.
+]
+GH  aL U9X   DR6WZ   rs A  f wi{ W Rf2
+[
+Ладья нападает на слона c2.
+]
+GH  aL U9X   DR6WZ   rs A  f oi{ B Rc7
+[
+Ладья защищает слона.
+]
+GH  aL U9X   FR6WZ   rs A  f oi{ W Rh2
+[
+Ладья переходит на линию «h», нацеливаясь на черного короля.
+]
+GH  aL U9X   FR6WZ   rs A  p oi{ B Nd7
+[
+Конь нападает на пешку e5.
+]
+GP  aL U9X   FR6WZ   rs A  p oi{ W b4
+[
+Пешка нападает на a5.
+]
+G   aL U9X   FR6PZ   rs A  p oi{ B axb4
+[
+Черные меняют.
+]
+P   aL U9X   FR6 Z   rs A  p oi{ W axb4
+[
+Пешка берёт обратно.
+]
+P   aL U9X   FR6 Z   rs A  z oi{ B Nf8
+[
+Конь возвращается на защиту короля.
+]
+P   aL U95   FR6 Z   rs A  z oi{ W Bf1
+[
+Слон переходит на королевский фланг.
+]
+P   aL U95   FR6 Z   rs H  z oi{ B Bb3
+[
+Слон уходит с c2.
+]
+P   aL U9J   FR6 Z   rs H  z oi{ W Bd3
+[
+Слон занимает диагональ b1–h7, нацеленную на черного короля.
+]
+P   aL U9J   FR6 Z   rs Q  z oi{ B Bc4
+[
+Слон предлагает размен.
+]
+P   aL U9b   FR6 Z   rs Q  z oi{ W Bf5
+[
+Слон нападает на ферзя e6.
+]
+P   aL U9b   FR6 Z   rs Q  z oq{ B Qe7
+[
+Ферзь отступает и нападает на пешки e5 и b4.
+]
+P   aL U9b   FB6 Z   rs Q  z oq{ W Qd2
+[
+Ферзь защищает пешку b4 и нападает на d5.
+]
+P   aL U9b   FB6 Z   rs Q  z gq{ B Rc6
+[
+Ладья переходит на шестую горизонталь.
+]
+P   aL URb   FB6 Z   rs Q  z gq{ W Bd4
+[
+Слон защищает e5 и встаёт в центре.
+]
+P   aL URb   FB6 Z   rs Q  z eq{ B Ra6
+[
+Ладья выходит на линию «a».
+]
+P   aL UR1   FB6 Z   rs Q  z eq{ W Bb1
+[
+Слон отступает на b1.
+]
+P   aL UR1   FB6 Z   rs Q  z Gq{ B Ra3
+[
+Ладья нападает на пешку f3.
+]
+P   aL UR1   NB6 Z   rs Q  z Gq{ W Rh3
+[
+Ладья защищает f3.
+]
+P   aL UR1   NB6 Z   rs Q  z Hq{ B Rb3
+[
+Ладья нападает на пешку b4 и слона b1.
+]
+P   aL URA   NB6 Z   rs Q  z Hq{ W Bc2
+[
+Слон нападает на ладью b3.
+]
+    aL URA   NB6 Z   rs Q  z HP{ B Qxb4
+[
+Ферзь забирает пешку и нападает на ферзя d2.
+]
+    aL URA   ND6 Z   rs Q  z HP{ W Qf2
+[
+Ферзь уходит на королевский фланг.
+]
+    aL URA   ND6 Z   rs Q  k HP{ B Ng6
+[
+Конь нападает на пешку e5.
+]
+    iL URA   ND6 Z   rs Q  k HP{ W e6
+[
+Пешка идёт вперёд и нападает на f7.
+]
+    iL URA   ND6 Z   rs Q  k 1P{ B Rb1+
+[
+Жертва качества! Ладья даёт шах.
+]
+    iL UR1   ND6 Z   rs Q  k  P{ W Bxb1
+[
+Слон берёт ладью. Stockfish считал точнее 39.Kh2.
+]
+    iL UR    ND6 Z   rs Q  k  1{ B Qxb1+
+[
+Ферзь берёт слона с шахом.
+]
+    iL UR    NDF Z   rs Q  k  1{ W Kh2
+[
+Король уходит.
+]
+     L UR    NDF Z   is Q  k  1{ B fxe6
+[
+Черные забирают пешку e6. Теперь у черных пешка за качество.
+]
+     L UR    N9F Z   is Q  k  1{ W Qb2
+[
+Белые предлагают размен ферзей.
+]
+     L UR    N F Z   is Q  k  9{ B Qxb2+
+[
+Черные меняют.
+]
+     L U9    N F Z   is Q  k   { W Bxb2
+[
+Слон берёт обратно. Эндшпиль: у белых ладья, слон и две пешки, у черных слон, конь и три пешки. Белые сохраняют небольшой перевес (Stockfish: около +0,7).
+]
+     L U9    N F Z   is Q  T   { B Nf4
+[
+Конь нападает на ладью h3.
+]
+     L U9    V F Z   is Q  T   { W Rh4
+[
+Ладья отступает.
+]
+     L U9    V F Z   is Q  J   { B Nd3
+[
+Конь нападает на слона b2.
+]
+     L UI    V F Z   is Q  J   { W Bc3
+[
+Слон отступает и нападает на g7.
+]
+     L UI    V F Z   as Q  J   { B e5
+[
+Черные укрепляют центр пешками.
+]
+     L UI    V M Z   as Q  J   { W Kg3
+[
+Король приближается к центру.
+]
+     L UI    V M R   as Q  J   { B d4
+[
+Пешка нападает на слона c3.
+]
+     L UB    V M R   as Q  J   { W Bd2
+[
+Слон отступает.
+]
+     L UB    V M R   as Z  J   { B Bd5
+[
+Слон нападает на пешку f3.
+]
+     L UB    d M R   as Z  J   { W Rh5
+[
+Ладья нападает на пешку e5.
+]
+     L UB    d M R   as Z  J   r B Kf7
+[
+Король идёт в центр на помощь своим пешкам.
+]
+     L UW    d M R   as Z  J   r W Ba5
+[
+Слон переходит на диагональ d8–a5.
+]
+     L UW    d M R   as Z  J   i B Ke6
+[
+Король защищает пешку e5.
+]
+     L UW    } M R   as Z  J   i W Rh8
+[
+Ладья вторгается на восьмую горизонталь.
+]
+     L UW    } M R   as Z  9   i B Nb2
+[
+Конь переходит на ферзевый фланг.
+]
+     L UW    y M R   as Z  9   i W Re8+
+[
+Ладья даёт шах.
+]
+     L UW    y M R   as Z  9   h B Kd6
+[
+Король уходит.
+]
+     L UP    y M R   as Z  9   h W Bb4+
+[
+Слон даёт шах.
+]
+     L UP    y M R   as Z  9   g B Kc6
+[
+Король уходит.
+]
+     L UP    w M R   as Z  9   g W Rc8+
+[
+Шах ладьёй.
+]
+     L UP    w M R   as Z  9   p B Kd7
+[
+Король нападает на ладью c8.
+]
+     L UP    Y M R   as Z  9   p W Rc5
+[
+Ладья нападает на слона d5.
+]
+     L UP    Y M R   as Z  9   i B Ke6
+[
+Король защищает слона.
+]
+     L UP    o M R   as Z  9   i W Rc7
+[
+Ладья нападает на пешку g7.
+]
+     L UP    o M R   ak Z  9   i B g6
+[
+Пешка уходит из-под удара.
+]
+     L UP    q M R   ak Z  9   i W Re7+
+[
+Шах.
+]
+     L UP    q M R   ak Z  9   j B Kf6
+[
+Король нападает на ладью e7.
+]
+     L UP    p M R   ak Z  9   j W Rd7
+[
+Ладья нападает на слона d5.
+]
+     L UP    p M R   ak 8  9   j B Ba2
+[
+Слон уходит.
+]
+     L UP    m M R   ak 8  9   j W Ra7
+[
+Ладья нападает на слона a2.
+]
+     L UP    m M R   ak Q  9   j B Bc4
+[
+Слон уходит.
+]
+     L UW    m M R   ak Q  9   j W Ba5
+[
+Слон переходит на a5.
+]
+     L UW    m M R   ak J  9   j B Bd3
+[
+Слон переходит на d3, на диагональ b1–h7.
+]
+     T UW    m M R   ak J  9   j W f4
+[
+Белые подрывают пешку e5.
+]
+       UW    m M R   Tk J  9   j B exf4+
+[
+Ошибка: черные меняют пешку, и белый король врывается в центр. Stockfish предпочитал 59...Ke6; после хода в партии у белых около +2.
+]
+       UW    m T R    k J  9   j W Kxf4
+[
+Король берёт пешку.
+]
+       UW    m T R    k A  9   j B Bc2
+[
+Слон уходит.
+]
+       UW    e T R    k A  9   j W Ra6+
+[
+Шах.
+]
+       UW    e T R    k A  9   r B Kf7
+[
+Король отступает.
+]
+       UW    e a R    k A  9   r W Ke5
+[
+Король нападает на пешку d4.
+]
+       UW    e a R    k A  J   r B Nd3+
+[
+Конь даёт шах.
+]
+       UW    e R      k A  J   r W Kxd4
+[
+Король забирает пешку d4 и нападает на коня.
+]
+       UW    e R      k A  D   r B Nf2
+[
+Конь нападает на пешку g4.
+]
+       cW    e R      k A  D   r W g5
+[
+Пешка уходит из-под удара.
+]
+       cW    e R      k b  D   r B Bf5
+[
+Слон встаёт на f5 и защищает пешку g6.
+]
+       cB    e R      k b  D   r W Bd2
+[
+Слон перестраивается.
+]
+       cB    e R      k b  D   q B Ke7
+[
+Король приближается к центру.
+]
+       cB    e Z      k b  D   q W Kd5
+[
+Король идёт вперёд.
+]
+       cB    e Z      k b  S   q B Ne4
+[
+Конь нападает на пешку g5 и слона d2.
+]
+       cB    m Z      k b  S   q W Ra7+
+[
+Шах.
+]
+       cB    m Z      k b  S   y B Ke8
+[
+Король отступает на последнюю горизонталь.
+]
+       cK    m Z      k b  S   y W Be3
+[
+Слон уходит из-под удара.
+]
+       cK    m Z      k b  I   y B Nc3+
+[
+Конь даёт шах.
+]
+       cK    m a      k b  I   y W Ke5
+[
+Король уходит и нападает на слона f5.
+]
+       cK    m a      k b  I   x B Kd8
+[
+Король переходит на d8.
+]
+       cf    m a      k b  I   x W Bb6+
+[
+Шах слоном.
+]
+       cf    m a      k b  I   y B Ke8
+[
+Король возвращается.
+]
+       cf    o a      k b  I   y W Rc7
+[
+Ладья нападает на коня c3.
+]
+       cf    o a      k b  S   y B Ne4
+[
+Конь возвращается и нападает на пешку g5.
+]
+       cK    o a      k b  S   y W Be3
+[
+Слон защищает пешку g5.
+]
+       cK    o a      k b  M   y B Ng3
+[
+Конь перестраивается.
+]
+       cT    o a      k b  M   y W Bf4
+[
+Слон нападает на коня g3.
+]
+       cT    o a      k b  d   y B Nh5
+[
+Конь уходит на h5 и нападает на слона f4.
+]
+       cT    m a      k b  d   y W Ra7
+[
+Ладья уходит на седьмую горизонталь.
+]
+       cT    m a      k b  d   z B Kf8
+[
+Король уходит.
+]
+       cF    m a      k b  d   z W Bh2
+[
+Слон отступает.
+]
+       cF    m a      k b  s   z B Ng7
+[
+Конь перестраивается.
+]
+       c6    m a      k b  s   z W Bg1
+[
+Слон переходит на диагональ g1–a7.
+]
+       c6    m a      k b  d   z B Nh5
+[
+Конь возвращается на h5.
+]
+       cY    m a      k b  d   z W Bc5+
+[
+Шах слоном.
+]
+       cY    m a      k b  d   { B Kg8
+[
+Король уходит в угол.
+]
+       cY    m h      k b  d   { W Kd6
+[
+Король приближается.
+]
+       cY    m h      k b  d   z B Kf8
+[
+Король возвращается.
+]
+       cR    m h      k b  d   z W Bd4
+[
+Слон перестраивается.
+]
+       cR    m h      k U  d   z B Bg4
+[
+Слон перестраивается.
+]
+       ca    m h      k U  d   z W Be5
+[
+Слон занимает большую диагональ, отнимая у коня поля g7 и f6.
+]
+       ca    m h      k b  d   z B Bf5
+[
+Слон возвращается на f5.
+]
+       ca    t h      k b  d   z W Rh7
+[
+Ладья нападает на коня h5.
+]
+       ca    t h      k b  d   { B Kg8
+[
+Король нападает на ладью h7.
+]
+       ca    o h      k b  d   { W Rc7
+[
+Ладья уходит.
+]
+       ca    o h      k b  d   z B Kf8
+[
+Король возвращается.
+]
+       ca    o g      k b  d   z W Kc6
+[
+Король маневрирует.
+]
+       ca    o g      k b  d   { B Kg8
+[
+Ожидание.
+]
+       ca    q g      k b  d   { W Re7
+[
+Ладья встаёт на e7.
+]
+       ca    q g      k b  d   z B Kf8
+[
+Король нападает на ладью.
+]
+       ch    q g      k b  d   z W Bd6
+[
+Слон защищает ладью e7 и контролирует диагональ.
+]
+       ch    q g      k b  d   { B Kg8
+[
+Король уходит.
+]
+       ch    y g      k b  d   { W Re8+
+[
+Шах.
+]
+       ch    y g      k b  d   r B Kf7
+[
+Король уходит.
+]
+       ch    q g      k b  d   r W Re7+
+[
+Шах.
+]
+       ch    q g      k b  d   { B Kg8
+[
+Король возвращается.
+]
+       ca    q g      k b  d   { W Be5
+[
+Слон возвращается на e5.
+]
+       ca    q g      k b  d   z B Kf8
+[
+Король нападает на ладью e7.
+]
+       ca    m g      k b  d   z W Ra7
+[
+Ладья уходит.
+]
+       ca    m g      k U  d   z B Bg4
+[
+Слон перестраивается.
+]
+       ca    m h      k U  d   z W Kd6
+[
+Король идёт к черному королю.
+]
+       ca    m h      k N  d   z B Bh3
+[
+Слон уходит на h3.
+]
+       ca    G h      k N  d   z W Ra3
+[
+Ладья нападает на слона h3.
+]
+       ca    G h      k U  d   z B Bg4
+[
+Слон возвращается.
+]
+       ca    K h      k U  d   z W Re3
+[
+Ладья переходит на линию «e».
+]
+       ca    K h      k b  d   z B Bf5
+[
+Слон возвращается на f5.
+]
+       ca    K o      k b  d   z W Kc7
+[
+Король идёт на d8.
+]
+       ca    K o      k b  d   r B Kf7
+[
+Король выходит с последней горизонтали.
+]
+       ca    K x      k b  d   r W Kd8
+[
+Король встаёт на d8, отнимая у черного короля поля e8 и e7.
+]
+       ca    K x      k U  d   r B Bg4
+[
+Ошибка! По оценке Stockfish, теперь у белых решающий перевес (около +4,6). Лучше было 94...Ke6.
+]
+       c9    K x      k U  d   r W Bb2
+[
+Слон перестраивается на большую диагональ.
+]
+       c9    K x      k i  d   r B Be6
+[
+Слон закрывает линию «e».
+]
+       cI    K x      k i  d   r W Bc3
+[
+Слон занимает диагональ a1–h8.
+]
+       cI    K x      k b  d   r B Bf5
+[
+Слон уходит.
+]
+       cI    q x      k b  d   r W Re7+
+[
+Шах.
+]
+       cI    q x      k b  d   z B Kf8
+[
+Король уходит.
+]
+       ca    q x      k b  d   z W Be5
+[
+Слон возвращается на e5 и отнимает у коня поля f6 и g7.
+]
+       ca    q x      k J  d   z B Bd3
+[
+Слон уходит.
+]
+       ca    m x      k J  d   z W Ra7
+[
+Ладья освобождает поле e7 для короля.
+]
+       ca    m x      k S  d   z B Be4
+[
+Слон уходит.
+]
+       ca    o x      k S  d   z W Rc7
+[
+Ладья перестраивается.
+]
+       ca    o x      k 1  d   z B Bb1
+[
+Слон уходит.
+]
+       ch    o x      k 1  d   z W Bd6+
+[
+Шах слоном.
+]
+       ch    o x      k 1  d   { B Kg8
+[
+Король уходит в угол.
+]
+       ch    o q      k 1  d   { W Ke7
+[
+Король встаёт на e7. Черный король заперт на последней горизонтали, и белые готовят матовую атаку. По оценке Stockfish, у белых форсированный мат. Черные сдались.
+]

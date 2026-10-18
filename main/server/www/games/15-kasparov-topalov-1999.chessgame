@@ -1,0 +1,362 @@
+# White: Гарри Каспаров
+# Black: Веселин Топалов
+# Place: Вейк-ан-Зее
+# Date: 20.01.1999
+# Note: Продвинутый уровень. Одна из самых красивых атак в истории. Защита Пирца: атака белых и жертва ладьи Лxd4!!.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Источник ходов: chessgames.com, партия 1011478 (https://www.chessgames.com/perl/chessgame?gid=1011478), турнир «Hoogovens Group A», 4-й тур. Результат 1-0.
+
+Что смотреть: обе стороны рокируют в длинную сторону, черный король уходит на a7. Ход 24.Rxd4!! — жертва ладьи, после которой король черных вынужден идти через всю доску: a7–b6–a5–a4–a3–b4–c3–d2–d1. Белые жертвуют ещё материал, чтобы гнать короля шахами, и в конце выигрывают ладью и получают выигранный эндшпиль.
+
+Stockfish показывает, что после 24.Rxd4 черные могли удержать равенство ходом 24...Kb6, а Каспаров позже мог выигрывать быстрее (28.Ra7). Но красота и глубина замысла от этого не уменьшаются.
+]
+89ABSDEF25160734mnopqrstwzv{u}xy W e4
+[
+Белые занимают центр.
+]
+89ABSDEF25160734mnohqrstwzv{u}xy B d6
+[
+Защита Пирца: черные позволяют белым построить центр, чтобы потом атаковать его.
+]
+89ARSDEF25160734mnohqrstwzv{u}xy W d4
+[
+Белые занимают центр второй пешкой.
+]
+89ARSDEF25160734mnohqrstwzvju}xy B Nf6
+[
+Конь нападает на e4.
+]
+89ARSDEF25I60734mnohqrstwzvju}xy W Nc3
+[
+Конь защищает e4.
+]
+89ARSDEF25I60734mnohqrktwzvju}xy B g6
+[
+Черные готовят фианкетто слона.
+]
+89ARSDEFK5I60734mnohqrktwzvju}xy W Be3
+[
+Белые готовят Qd2 и Bh6, чтобы разменять важного слона черных.
+]
+89ARSDEFK5I60734mnohqrktwsvju}xy B Bg7
+[
+Слон занимает большую диагональ.
+]
+89ARSDEFK5I607B4mnohqrktwsvju}xy W Qd2
+[
+Ферзь поддерживает слона и готовит длинную рокировку.
+]
+89ARSDEFK5I607B4mnghqrktwsvju}xy B c6
+[
+Черные готовят b5 и игру на ферзевом фланге.
+]
+89ARSLEFK5I607B4mnghqrktwsvju}xy W f3
+[
+Белые укрепляют пешку e4 и готовят g4.
+]
+89ARSLEFK5I607B4mXghqrktwsvju}xy B b5
+[
+Черные захватывают пространство на ферзевом фланге.
+]
+89ARSLEFK5IC07B4mXghqrktwsvju}xy W Nge2
+[
+Конь развивается, оставляя пешку f свободной.
+]
+89ARSLEFK5IC07B4mXghqrktwspju}xy B Nbd7
+[
+Конь развивается.
+]
+89ARSLEFl5IC07B4mXghqrktwspju}xy W Bh6
+[
+Белые предлагают размен чернопольных слонов.
+]
+89ARSLEF 5IC07B4mXghqrktwlpju}xy B Bxh6
+[
+Черные меняют.
+]
+89ARSLEF 5IC07l4mXghqrktw pju}xy W Qxh6
+[
+Ферзь берёт обратно и стоит на h6, мешая черным рокировать коротко.
+]
+89ARSLEF 5IC07l4mXghqrktn pju}xy B Bb7
+[
+Слон развивается.
+]
+G9ARSLEF 5IC07l4mXghqrktn pju}xy W a3
+[
+Пешка не пускает черную пешку на b4.
+]
+G9ARSLEF 5IC07l4mXgharktn pju}xy B e5
+[
+Черные бьют по центру.
+]
+G9ARSLEF 5IC37l2mXgharktn pju}xy W O-O-O
+[
+Белые рокируют длинно.
+]
+G9ARSLEF 5IC37l2mXgharktn pju}qy B Qe7
+[
+Ферзь развивается.
+]
+G9ARSLEF 5IC37l1mXgharktn pju}qy W Kb1
+[
+Король уходит с открытой диагонали.
+]
+G9ARSLEF 5IC37l1eXgharktn pju}qy B a6
+[
+Черные готовят длинную рокировку и укрепляют b5.
+]
+G9ARSLEF 5I237l1eXgharktn pju}qy W Nc1
+[
+Конь переходит на b3, чтобы участвовать в игре на ферзевом фланге.
+]
+G9ARSLEF 5I237l1eXgharktn pjx}qw B O-O-O
+[
+Черные рокируют длинно — король уходит туда, где у черных пешки продвинуты. Это рискованно.
+]
+G9ARSLEF 5IH37l1eXgharktn pjx}qw W Nb3
+[
+Конь направляется на a5.
+]
+G9A SLEF 5IH37l1eXghRrktn pjx}qw B exd4
+[
+Черные меняют в центре.
+]
+G9A SLEF 5IHR7l1eXgh rktn pjx}qw W Rxd4
+[
+Ладья берёт обратно и стоит активно.
+]
+G9A SLEF 5IHR7l1eXYh rktn pjx}qw B c5
+[
+Пешка прогоняет ладью.
+]
+G9A SLEF 5IH37l1eXYh rktn pjx}qw W Rd1
+[
+Ладья отступает.
+]
+G9A SLEF 5IH37l1eXYh rktn fjx}qw B Nb6
+[
+Конь направляется к центру.
+]
+G9A SLMF 5IH37l1eXYh rktn fjx}qw W g3
+[
+Белые готовят Bh3.
+]
+G9A SLMF 5IH37l1eXYh rktn fjx}qv B Kb8
+[
+Король уходит с линии «c».
+]
+G9A SLMF 5IW37l1eXYh rktn fjx}qv W Na5
+[
+Конь нападает на слона b7.
+]
+G9A SLMF 5IW37l1eXYh rktu fjx}qv B Ba8
+[
+Слон отступает.
+]
+G9A SLMF NIW37l1eXYh rktu fjx}qv W Bh3
+[
+Слон встаёт на диагональ h3–c8 и контролирует поле d7.
+]
+G9A SLMF NIW37l1eXYZ rktu fjx}qv B d5
+[
+Черные бьют по центру.
+]
+G9A SLMF NIW37T1eXYZ rktu fjx}qv W Qf4+
+[
+Ферзь возвращается с шахом по диагонали f4–b8.
+]
+G9A SLMF NIW37T1eXYZ rktu fjx}qm B Ka7
+[
+Король уходит на a7.
+]
+G9A SLMF NIW34T1eXYZ rktu fjx}qm W Rhe1
+[
+Ладья занимает линию «e».
+]
+G9A SLMF NIW34T1eXYR rktu fjx}qm B d4
+[
+Пешка нападает на коня c3.
+]
+G9A SLMF NZW34T1eXYR rktu fjx}qm W Nd5
+[
+Конь прыгает в центр.
+]
+G9A SLMF N W34T1eXYR rktu Zjx}qm B Nbxd5
+[
+Черные меняют коня.
+]
+G9A ZLMF N W34T1eXYR rktu  jx}qm W exd5
+[
+Пешка берёт обратно и открывает линию «e».
+]
+G9A ZLMF N W34T1eXYR rktu  jx}hm B Qd6
+[
+Ферзь предлагает размен ферзей.
+]
+G9A ZLMF N WR4T1eXY  rktu  jx}hm W Rxd4
+[
+Знаменитая жертва ладьи! Белые отдают ладью за пешку, чтобы открыть линии к черному королю. По Stockfish, черные могли защищаться ходом 24...Kb6.
+]
+G9A ZLMF N W 4T1eXR  rktu  jx}hm B cxd4
+[
+Черные берут ладью. Это ошибка: теперь белые получают решающую атаку (Stockfish: около +1,8 и больше).
+]
+G9A ZLMF N W qT1eXR  rktu  jx}hm W Re7+
+[
+Ладья вторгается на седьмую горизонталь с шахом.
+]
+G9A ZLMF N W qT1eXR  rktu  jx}hf B Kb6
+[
+Король выходит вперёд.
+]
+G9A ZLMF N W qR1eX   rktu  jx}hf W Qxd4+
+[
+Ферзь берёт пешку с шахом.
+]
+G9A ZLMF N   qR1eX   rktu  jx}hW B Kxa5
+[
+Король берёт коня.
+]
+GPA ZLMF N   qR1eX   rktu  jx}hW W b4+
+[
+Пешка даёт шах и гонит короля дальше.
+]
+GPA ZLMF N   qR1eX   rktu  jx}hO B Ka4
+[
+Король идёт ещё глубже в лагерь белых.
+]
+GPA ZLMF N   qI1eX   rktu  jx}hO W Qc3
+[
+Ферзь угрожает Qb3 — матом. Stockfish считает, что 28.Ra7 выигрывало быстрее, но и ход в партии сохраняет атаку.
+]
+GPA  LMF N   qI1eX   rktu  jx}ZO B Qxd5
+[
+Черные защищаются от мата: ферзь контролирует поле b3.
+]
+GPA  LMF N   mI1eX   rktu  jx}ZO W Ra7
+[
+Ладья нападает на слона a8.
+]
+GPA  LMF N   mI1eX   rktn  jx}ZO B Bb7
+[
+Слон уходит.
+]
+GPA  LMF N   nI1eX   rkt   jx}ZO W Rxb7
+[
+Ладья забирает слона.
+]
+GPA  LMF N   nI1eX   rkt   jx}QO B Qc4
+[
+Ферзь предлагает размен.
+]
+GPA  LMF N   nj1eX   rkt    x}QO W Qxf6
+[
+Ферзь забирает коня f6.
+]
+ PA  LMF N   nj1eX   rkt    x}QG B Kxa3
+[
+Король забирает пешку a3.
+]
+ PA  LMF N   ne1 X   rkt    x}QG W Qxa6+
+[
+Ферзь берёт пешку с шахом.
+]
+  A  LMF N   ne1 X   rkt    x}QP B Kxb4
+[
+Король забирает пешку b4.
+]
+  I  LMF N   ne1 X   rkt    x}QP W c3+
+[
+Ещё один шах пешкой! Король вынужден идти дальше.
+]
+     LMF N   ne1 X   rkt    x}QI B Kxc3
+[
+Король берёт пешку.
+]
+     LMF N   n01 X   rkt    x}QI W Qa1+
+[
+Ферзь даёт шах.
+]
+     LMF N   n01 X   rkt    x}QB B Kd2
+[
+Король идёт к первой горизонтали.
+]
+     LMF N   n91 X   rkt    x}QB W Qb2+
+[
+Шах.
+]
+     LMF N   n91 X   rkt    x}Q3 B Kd1
+[
+Король дошёл до первой горизонтали.
+]
+     LMF 5   n91 X   rkt    x}Q3 W Bf1
+[
+Тихий ход! Слон нападает на ферзя c4. Если черные ничего не предпримут, после Bxc4 bxc4 у белых матовая атака на короля d1 (Stockfish находит мат).
+]
+     LMF 5   n91 X   rkt    B}Q3 B Rd2
+[
+Ладья встаёт на d2 и сама нападает на ферзя b2 по второй горизонтали. Теперь на 37.Bxc4 последовало бы 37...Rxb2+.
+]
+     LMF 5   p91 X   rkt    B}Q3 W Rd7
+[
+Ладья связывает ладью d2: за ней на линии «d» стоит король d1, поэтому ладья d2 больше не может взять ферзя b2. Черным приходится взять ладью d7.
+]
+     LMF 5    91 X   rkt    p}Q3 B Rxd7
+[
+Ладья берёт.
+]
+     LMF Q    91 X   rkt    p} 3 W Bxc4
+[
+Слон берёт ферзя.
+]
+     LMF      91 Q   rkt    p} 3 B bxc4
+[
+Пешка берёт слона.
+]
+     LMF      }1 Q   rkt    p  3 W Qxh8
+[
+Ферзь забирает ладью h8. У белых ферзь против ладьи.
+]
+     LMF      }1 Q   rkt    J  3 B Rd3
+[
+Ладья активизируется.
+]
+     LMF      u1 Q   rkt    J  3 W Qa8
+[
+Ферзь переходит на диагональ a8–h1, следя за пешкой c4.
+]
+     LMF      u1 I   rkt    J  3 B c3
+[
+Пешка продвигается.
+]
+     LMF      O1 I   rkt    J  3 W Qa4+
+[
+Ферзь даёт шах.
+]
+     LMF      O1 I   rkt    J  4 B Ke1
+[
+Король уходит.
+]
+     TMF      O1 I   rkt    J  4 W f4
+[
+Пешка уходит с f3 из-под удара ладьи d3.
+]
+     TMF      O1 I   bkt    J  4 B f5
+[
+Черные блокируют пешку f4.
+]
+     TMF      O2 I   bkt    J  4 W Kc1
+[
+Белый король останавливает пешку c3.
+]
+     TMF      O2 I   bkt    B  4 B Rd2
+[
+Ладья выходит на вторую горизонталь.
+]
+     TMF      m2 I   bkt    B  4 W Qa7
+[
+Ферзь переходит на королевский фланг, чтобы забрать пешки. Черные сдались: ферзь против ладьи с пешками — легко выигрывается.
+]

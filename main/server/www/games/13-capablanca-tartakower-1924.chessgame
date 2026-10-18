@@ -1,0 +1,424 @@
+# White: Хосе Рауль Капабланка
+# Black: Савелий Тартаковер
+# Place: Нью-Йорк
+# Date: 23.03.1924
+# Note: Эндшпиль и реализация. Ладейный эндшпиль: активный король и активная ладья решают всё.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Источник ходов: chessgames.com, партия 1102104 (https://www.chessgames.com/perl/chessgame?gid=1102104), турнир в Нью-Йорке, 6-й тур. Результат 1-0.
+
+Что смотреть: после разменов в голландской защите получается эндшпиль, в котором белая ладья захватывает седьмую горизонталь. Затем Капабланка отдаёт две пешки ферзевого фланга, чтобы его король прорвался к пешкам черных через h4–g5–f6. Активный король, ладья на седьмой и проходная пешка g решают партию.
+]
+89ARCDEF25160734mnopqrstwzv{u}xy W d4
+[
+Белые занимают центр.
+]
+89ARCDEF25160734mnopirstwzv{u}xy B e6
+[
+Гибкий ход.
+]
+89ARCDEF251L0734mnopirstwzv{u}xy W Nf3
+[
+Конь развивается.
+]
+89ARCDEF251L0734mnopibstwzv{u}xy B f5
+[
+Голландская защита: черные контролируют e4, но ослабляют свой королевский фланг.
+]
+89QRCDEF251L0734mnopibstwzv{u}xy W c4
+[
+Белые захватывают пространство.
+]
+89QRCDEF251L0734mnopibstwzvju}xy B Nf6
+[
+Конь развивается и контролирует e4.
+]
+89QRCDEFc51L0734mnopibstwzvju}xy W Bg5
+[
+Слон связывает коня f6.
+]
+89QRCDEFc51L0734mnopibstwqvju}xy B Be7
+[
+Черные снимают связку.
+]
+89QRCDEFc5IL0734mnopibstwqvju}xy W Nc3
+[
+Конь развивается.
+]
+89QRCDEFc5IL0734mnopibstwqvjuzx{ B O-O
+[
+Черные рокируют.
+]
+89QRKDEFc5IL0734mnopibstwqvjuzx{ W e3
+[
+Белые открывают слона f1.
+]
+89QRKDEFc5IL0734mfopibstwqvjuzx{ B b6
+[
+Черные готовят фианкетто.
+]
+89QRKDEFcJIL0734mfopibstwqvjuzx{ W Bd3
+[
+Слон давит на f5 и e4.
+]
+89QRKDEFcJIL0734mfopibstnqvjuzx{ B Bb7
+[
+Слон борется за поле e4.
+]
+89QRKDEFcJIL0536mfopibstnqvjuzx{ W O-O
+[
+Белые рокируют.
+]
+89QRKDEFcJIL0536mfopibstnqvjuzy{ B Qe8
+[
+Типичный для голландской манёвр: ферзь готовится перейти на h5 или g6 для атаки.
+]
+89QRKDEFcJIL05C6mfopibstnqvjuzy{ W Qe2
+[
+Ферзь готовит e4.
+]
+89QRKDEFcJIL05C6mfopibstnqvSuzy{ B Ne4
+[
+Конь занимает поле e4 и предлагает размены.
+]
+89QRKDEFqJIL05C6mfopibstn vSuzy{ W Bxe7
+[
+Белые меняют слонов.
+]
+89QRKDEFqJ L05C6mfopibstn vIuzy{ B Nxc3
+[
+Промежуточный ход: черные меняют коня, прежде чем взять слона.
+]
+8IQRKDEFqJ L05C6mfopibstn v uzy{ W bxc3
+[
+Пешка берёт обратно. У белых сдвоенные пешки, но открылась линия «b».
+]
+8IQRKDEF J L05C6mfopibstn v uzq{ B Qxe7
+[
+Ферзь берёт слона.
+]
+OIQRKDEF J L05C6mfopibstn v uzq{ W a4
+[
+Белые захватывают пространство на ферзевом фланге.
+]
+OIQRKDEF J  05C6mfopibstL v uzq{ B Bxf3
+[
+Черные меняют слона на коня.
+]
+OIQRKDEF J  05L6mfopibst  v uzq{ W Qxf3
+[
+Ферзь берёт обратно.
+]
+OIQRKDEF J  05L6mfopibst  g uzq{ B Nc6
+[
+Конь развивается.
+]
+OIQRKDEF J  01L6mfopibst  g uzq{ W Rfb1
+[
+Ладья занимает линию «b» и давит на пешку b6.
+]
+OIQRKDEF J  01L6mfopibst  g yzq{ B Rae8
+[
+Черные готовят e5.
+]
+OIQRKDEF J  01N6mfopibst  g yzq{ W Qh3
+[
+Ферзь давит на пешку f5.
+]
+OIQRKDEF J  01N6mfopibst  g yjq{ B Rf6
+[
+Ладья защищает шестую горизонталь.
+]
+OIQRKTEF J  01N6mfopibst  g yjq{ W f4
+[
+Белые фиксируют пешку f5 и не дают черным сыграть e5.
+]
+OIQRKTEF J  01N6mfopibst  W yjq{ B Na5
+[
+Конь нападает на пешку c4.
+]
+OIQRKTEF J  01L6mfopibst  W yjq{ W Qf3
+[
+Ферзь возвращается в центр.
+]
+OIQRKTEF J  01L6mfohibst  W yjq{ B d6
+[
+Черные укрепляют e5.
+]
+OIQRKTEF J  04L6mfohibst  W yjq{ W Re1
+[
+Ладья готовит e4.
+]
+OIQRKTEF J  04L6mfohibst  W yjp{ B Qd7
+[
+Ферзь переходит на d7.
+]
+OIQRSTEF J  04L6mfohibst  W yjp{ W e4
+[
+Белые вскрывают центр.
+]
+OIQR TEF J  04L6mfohiSst  W yjp{ B fxe4
+[
+Черные меняют.
+]
+OIQR TEF J  04S6mfohi st  W yjp{ W Qxe4
+[
+Ферзь занимает центр и давит на пешку e6.
+]
+OIQR TEF J  04S6mfohi kt  W yjp{ B g6
+[
+Черные укрепляют f5.
+]
+OIQR TMF J  04S6mfohi kt  W yjp{ W g3
+[
+Белые укрепляют королевский фланг.
+]
+OIQR TMF J  04S6mfohi kt  W yjpz B Kf8
+[
+Король защищает e7 и f7.
+]
+OIQR TMF J  04SEmfohi kt  W yjpz W Kg2
+[
+Король уходит с диагонали a7–g1.
+]
+OIQR TMF J  04SEmfohi kt  W yrpz B Rf7
+[
+Ладья защищает седьмую горизонталь.
+]
+OIQR TMV J  04SEmfohi kt  W yrpz W h4
+[
+Белые захватывают пространство на королевском фланге.
+]
+OIQR TMV J  04SEmfoZi kt  W yrpz B d5
+[
+Черные отвечают в центре.
+]
+OIZR TMV J  04SEmfo i kt  W yrpz W cxd5
+[
+Белые меняют.
+]
+OI R TMV J  04SEmfo Z kt  W yrpz B exd5
+[
+Пешка берёт обратно.
+]
+OI R TMV J  04yEmfo Z kt  W  rpz W Qxe8+
+[
+Белые меняют ферзей.
+]
+OI R TMV J  04 Emfo Z kt  W  ryz B Qxe8
+[
+Ферзь берёт обратно.
+]
+OI R TMV J  0y Emfo Z kt  W  r z W Rxe8+
+[
+Ладья берёт ферзя.
+]
+OI R TMV J  0  Emfo Z kt  W  r y B Kxe8
+[
+Король берёт обратно. Получается эндшпиль: ладья и слон против ладьи и коня. Конь a5 стоит на краю, а пешки черных на королевском фланге могут стать мишенями.
+]
+OI R TMd J  0  Emfo Z kt  W  r y W h5
+[
+Пешка нападает на g6, чтобы открыть линию «h».
+]
+OI R TMd J  0  Emfo Z kt  W  j y B Rf6
+[
+Ладья защищает пешку g6.
+]
+OI R TMk J  0  Emfo Z  t  W  j y W hxg6
+[
+Белые меняют.
+]
+OI R TM  J  0  Emfo Z  k  W  j y B hxg6
+[
+Пешка берёт обратно. Линия «h» открыта.
+]
+OI R TM  J  7  Emfo Z  k  W  j y W Rh1
+[
+Ладья занимает открытую линию «h».
+]
+OI R TM  J  7  Emfo Z  k  W  j z B Kf8
+[
+Король приближается к королевскому флангу.
+]
+OI R TM  J  t  Emfo Z  k  W  j z W Rh7
+[
+Ладья вторгается на седьмую горизонталь — это главное преимущество белых.
+]
+OI R TM  J  t  Emfo Z  k  W  g z B Rc6
+[
+Ладья нападает на пешку c3.
+]
+OI R TU  J  t  Emfo Z  k  W  g z W g4
+[
+Белые продвигают пешку, готовя g5 и f5.
+]
+OI R TU  J  t  Emfo Z  k  Q  g z B Nc4
+[
+Конь возвращается в игру.
+]
+OI R Tc  J  t  Emfo Z  k  Q  g z W g5
+[
+Пешка фиксирует пешку g6 и отнимает поле f6.
+]
+OI R Tc  J  t  Emfo Z  k  K  g z B Ne3+
+[
+Конь даёт шах.
+]
+OI R Tc  J  t  Lmfo Z  k  K  g z W Kf3
+[
+Король уходит.
+]
+OI R Tc  J  t  Lmfo Z  k  b  g z B Nf5
+[
+Конь блокирует пешку f4 и прикрывает короля.
+]
+OI R Tc  b  t  Lmfo Z  k     g z W Bxf5
+[
+Белые меняют слона на сильного коня, получая чисто ладейный эндшпиль.
+]
+OI R Tc     t  Lmfo Z  b     g z B gxf5
+[
+Пешка берёт обратно. Теперь у черных проходная f5, но черные пешки слабы.
+]
+OI R Tc     t  Mmfo Z  b     g z W Kg3
+[
+Король идёт на h4–g5–f6. Пешку c3 белые отдают.
+]
+O  R Tc     t  Mmfo Z  b     I z B Rxc3+
+[
+Черные забирают пешку.
+]
+O  R Tc     t  Vmfo Z  b     I z W Kh4
+[
+Король продолжает путь.
+]
+O  R Tc     t  Vmfo Z  b     L z B Rf3
+[
+Ладья нападает на пешку f4.
+]
+O  R Tk     t  Vmfo Z  b     L z W g6
+[
+Пешка идёт вперёд и отнимает у черного короля поле f7, а белый король получает поле g5.
+]
+O  R  k     t  Vmfo Z  b     T z B Rxf4+
+[
+Черные забирают пешку.
+]
+O  R  k     t  cmfo Z  b     T z W Kg5
+[
+Король идёт вперёд.
+]
+O  R  k     t  cmfo Z  b     S z B Re4
+[
+Ладья уходит из-под удара короля и нападает на пешку d4.
+]
+O  R  k     t  jmfo Z  b     S z W Kf6
+[
+Король встаёт на f6. Угроза — Rh8, мат.
+]
+O  R  k     t  jmfo Z  b     S { B Kg8
+[
+Король уходит от мата.
+]
+O  R  k     s  jmfo Z  b     S { W Rg7+
+[
+Ладья даёт шах.
+]
+O  R  k     s  jmfo Z  b     S } B Kh8
+[
+Король уходит в угол.
+]
+O  R  k     o  jmf  Z  b     S } W Rxc7
+[
+Ладья забирает пешку c7.
+]
+O  R  k     o  jmf  Z  b     y } B Re8
+[
+Ладья защищает восьмую горизонталь.
+]
+O  R  k     o  bmf  Z        y } W Kxf5
+[
+Король забирает пешку f5.
+]
+O  R  k     o  bmf  Z        S } B Re4
+[
+Ладья нападает на пешку d4.
+]
+O  R  k     o  jmf  Z        S } W Kf6
+[
+Король возвращается, поддерживая пешку g.
+]
+O  R  k     o  jmf  Z        T } B Rf4+
+[
+Шах.
+]
+O  R  k     o  amf  Z        T } W Ke5
+[
+Король уходит от шаха и сам нападает на ладью f4 и пешку d5.
+]
+O  R  k     o  amf  Z        U } B Rg4
+[
+Ладья нападает на пешку g6.
+]
+O  R  s     o  amf  Z        U } W g7+
+[
+Пешка идёт вперёд с шахом.
+]
+O  R  s     o  amf  Z        U { B Kg8
+[
+Король блокирует пешку.
+]
+O  R  s     m  a f  Z        U { W Rxa7
+[
+Ладья забирает пешку a7.
+]
+O  R  s     m  a f  Z        6 { B Rg1
+[
+Ладья уходит на первую горизонталь, чтобы атаковать белые пешки сзади.
+]
+O  R  s     m  Z f           6 { W Kxd5
+[
+Король забирает пешку d5.
+]
+O  R  s     m  Z f           2 { B Rc1
+[
+Ладья отрезает короля по линии «c».
+]
+O  R  s     m  h f           2 { W Kd6
+[
+Король поддерживает пешку d.
+]
+O  R  s     m  h f           A { B Rc2
+[
+Ожидание.
+]
+O  Z  s     m  h f           A { W d5
+[
+Пешка идёт вперёд.
+]
+O  Z  s     m  h f           2 { B Rc1
+[
+Ладья ждёт.
+]
+O  Z  s     o  h f           2 { W Rc7
+[
+Ладья оспаривает линию «c».
+]
+O  Z  s     o  h f           0 { B Ra1
+[
+Ладья нападает на пешку a4.
+]
+O  Z  s     o  g f           0 { W Kc6
+[
+Король идёт к пешке b6.
+]
+   Z  s     o  g f           O { B Rxa4
+[
+Черные забирают пешку.
+]
+   h  s     o  g f           O { W d6
+[
+Пешка d рвётся в ферзи. Черные сдались.
+]

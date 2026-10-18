@@ -1,0 +1,280 @@
+# White: Найджел Шорт
+# Black: Ян Тимман
+# Place: Тилбург
+# Date: 21.10.1991
+# Note: Продвинутый уровень. Белый король сам идёт в атаку и ставит мат.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Источник ходов: chessgames.com, партия 1124533 (https://www.chessgames.com/perl/chessgame?gid=1124533), турнир «Tilburg Interpolis», 4-й тур. Результат 1-0.
+
+Что смотреть: белые меняют чернопольного слона черных, ставят ферзя на f6, а ладью на d7, и черные фигуры оказываются полностью скованы. Тогда белый король сам идёт вперёд — h2, g3, f4, g5 — чтобы встать на h6 и поддержать мат Qg7. Черные ничего не могут этому противопоставить.
+]
+89ABSDEF25160734mnopqrstwzv{u}xy W e4
+[
+Белые занимают центр.
+]
+89ABSDEF25160734mnopqrstwzvju}xy B Nf6
+[
+Защита Алехина: черные провоцируют белые пешки идти вперёд, чтобы потом атаковать их.
+]
+89ABaDEF25160734mnopqrstwzvju}xy W e5
+[
+Пешка прогоняет коня.
+]
+89ABaDEF25160734mnopqrstwzvZu}xy B Nd5
+[
+Конь встаёт в центр.
+]
+89ARaDEF25160734mnopqrstwzvZu}xy W d4
+[
+Белые строят центр.
+]
+89ARaDEF25160734mnohqrstwzvZu}xy B d6
+[
+Черные подрывают пешку e5.
+]
+89ARaDEF251L0734mnohqrstwzvZu}xy W Nf3
+[
+Современный вариант: белые спокойно развиваются, не захватывая лишнего пространства.
+]
+89ARaDEF251L0734mnohqrktwzvZu}xy B g6
+[
+Черные готовят фианкетто слона.
+]
+89ARaDEF2Q1L0734mnohqrktwzvZu}xy W Bc4
+[
+Слон нападает на коня d5.
+]
+89ARaDEF2Q1L0734mnohqrktwzvfu}xy B Nb6
+[
+Конь отступает с нападением на слона.
+]
+89ARaDEF2H1L0734mnohqrktwzvfu}xy W Bb3
+[
+Слон отступает, сохраняя диагональ a2–g8.
+]
+89ARaDEF2H1L0734mnohqrktwsvfu}xy B Bg7
+[
+Слон занимает большую диагональ и давит на e5.
+]
+89ARaDEF2H1L07C4mnohqrktwsvfu}xy W Qe2
+[
+Ферзь защищает пешку e5.
+]
+89ARaDEF2H1L07C4mnohqrktwsgfu}xy B Nc6
+[
+Конь давит на d4 и e5.
+]
+89ARaDEF2H1L05C6mnohqrktwsgfu}xy W O-O
+[
+Белые рокируют.
+]
+89ARaDEF2H1L05C6mnohqrktwsgfuzx{ B O-O
+[
+Черные рокируют.
+]
+89ARaDEN2H1L05C6mnohqrktwsgfuzx{ W h3
+[
+Профилактика: белые не пускают слона c8 на g4.
+]
+89ARaDEN2H1L05C6Wnohqrktwsgfuzx{ B a5
+[
+Черные готовят a4, чтобы прогнать слона b3.
+]
+O9ARaDEN2H1L05C6Wnohqrktwsgfuzx{ W a4
+[
+Белые останавливают пешку a5.
+]
+O9AR DEN2H1L05C6Wnoaqrktwsgfuzx{ B dxe5
+[
+Черные меняют в центре.
+]
+O9Aa DEN2H1L05C6Wno qrktwsgfuzx{ W dxe5
+[
+Белые берут обратно. Пешка e5 отнимает у черных поля d6 и f6.
+]
+O9Aa DEN2H1L05C6Wno qrktwsRfuzx{ B Nd4
+[
+Конь нападает на ферзя e2.
+]
+O9Aa DEN2H1R05C6Wno qrktws fuzx{ W Nxd4
+[
+Белые меняют коней.
+]
+O9Aa DEN2H1 05C6Wno qrktws fuzR{ B Qxd4
+[
+Ферзь берёт обратно и централизуется.
+]
+O9Aa DEN2H1 04C6Wno qrktws fuzR{ W Re1
+[
+Ладья встаёт за ферзём на линию «e» и усиливает защиту пешки e5.
+]
+O9Aa DEN2H1 04C6Wno irktws fuzR{ B e6
+[
+Черные закрывают диагональ слона b3, но ослабляют поля f6 и d6.
+]
+O9Aa DEN2HB 04C6Wno irktws fuzR{ W Nd2
+[
+Конь направляется на f3.
+]
+O9Aa DEN2HB 04C6Wno irktws ZuzR{ B Nd5
+[
+Конь занимает центральное поле.
+]
+O9Aa DEN2HL 04C6Wno irktws ZuzR{ W Nf3
+[
+Конь нападает на ферзя d4.
+]
+O9Aa DEN2HL 04C6Wno irktws ZuzY{ B Qc5
+[
+Ферзь отступает.
+]
+O9Aa DEN2HL 04S6Wno irktws ZuzY{ W Qe4
+[
+Ферзь централизуется и вместе со слоном b3 давит на коня d5.
+]
+O9Aa DEN2HL 04S6Wno irktws ZuzP{ B Qb4
+[
+Ферзь по четвёртой горизонтали нападает на ферзя e4 и предлагает размен.
+]
+O9Aa DEN2QL 04S6Wno irktws ZuzP{ W Bc4
+[
+Слон перекрывает четвёртую горизонталь и не допускает размена ферзей.
+]
+O9Aa DEN2QL 04S6Wno irktws fuzP{ B Nb6
+[
+Конь нападает на слона c4.
+]
+OHAa DEN2QL 04S6Wno irktws fuzP{ W b3
+[
+Пешка защищает слона.
+]
+OHAa DEN2 L 04S6Wno irktws QuzP{ B Nxc4
+[
+Черные меняют слона.
+]
+OQAa DEN2 L 04S6Wno irktws  uzP{ W bxc4
+[
+Пешка берёт обратно.
+]
+OQAa DEN2 L 04S6Wno irktws  uyP{ B Re8
+[
+Ладья защищает пешку e6.
+]
+OQAa DEN2 L 03S6Wno irktws  uyP{ W Rd1
+[
+Ладья занимает открытую линию «d».
+]
+OQAa DEN2 L 03S6Wno irktws  uyY{ B Qc5
+[
+Ферзь уходит с края доски.
+]
+OQAa DEN2 L 03V6Wno irktws  uyY{ W Qh4
+[
+Ферзь переходит на королевский фланг, к черному королю.
+]
+OQAa DEN2 L 03V6Wfo irktws  uyY{ B b6
+[
+Черные готовят Bb7.
+]
+OQAa DENK L 03V6Wfo irktws  uyY{ W Be3
+[
+Слон нападает на ферзя c5 и готовится перейти на h6.
+]
+OQAa DENK L 03V6Wfo irktws  uyg{ B Qc6
+[
+Ферзь уходит.
+]
+OQAa DENl L 03V6Wfo irktws  uyg{ W Bh6
+[
+Слон предлагает размен чернопольных слонов. Слон g7 — главный защитник черного короля.
+]
+OQAa DENl L 03V6Wfo irktw}  uyg{ B Bh8
+[
+Черные избегают размена.
+]
+OQAa DENl L 0xV6Wfo irktw}  uyg{ W Rd8
+[
+Ладья вторгается на восьмую горизонталь.
+]
+OQAa DENl L 0xV6Wfo irktn}  uyg{ B Bb7
+[
+Слон развивается.
+]
+OQAa DENl L 3xV6Wfo irktn}  uyg{ W Rad1
+[
+Вторая ладья поддерживает первую.
+]
+OQAa DENl L 3xV6Wfo irktns  uyg{ B Bg7
+[
+Черные снова предлагают размен слонов.
+]
+OQAa DENl L 3pV6Wfo irktns  uyg{ W R8d7
+[
+Ладья встаёт на седьмую горизонталь и нападает на пешки c7 и f7.
+]
+OQAa DENl L 3pV6Wfo irktns  uzg{ B Rf8
+[
+Ладья защищает пешку f7.
+]
+OQAa DENs L 3pV6Wfo irktn   uzg{ W Bxg7
+[
+Белые меняют слонов.
+]
+OQAa DEN  L 3pV6Wfo irktn   uzgs B Kxg7
+[
+Король берёт обратно. Теперь черные поля вокруг короля (f6, h6) ослаблены.
+]
+OQAa DEN  L RpV6Wfo irktn   uzgs W R1d4
+[
+Ладья выходит на четвёртую горизонталь, откуда может перейти на f4 или h4.
+]
+OQAa DEN  L RpV6Wfo irktn   yzgs B Rae8
+[
+Ладья защищает восьмую горизонталь.
+]
+OQAa DEN  L Rpj6Wfo irktn   yzgs W Qf6+
+[
+Ферзь вторгается на f6 с шахом, в самое слабое поле черной позиции.
+]
+OQAa DEN  L Rpj6Wfo irktn   yzg{ B Kg8
+[
+Король отступает.
+]
+OQAa DEV  L Rpj6Wfo irktn   yzg{ W h4
+[
+Пешка готовит h5 и вскрытие линии «h».
+]
+OQAa DEV  L Rpj6Wfo irkdn   yzg{ B h5
+[
+Черные останавливают пешку h.
+]
+OQAa DEV  L RpjFWfo irkdn   yzg{ W Kh2
+[
+Король начинает свой поход. Черные фигуры скованы и не могут угрожать белому королю.
+]
+OQAa DEV  L RpjFWfo irkdn   wzg{ B Rc8
+[
+Ожидание.
+]
+OQAa DEV  L RpjMWfo irkdn   wzg{ W Kg3
+[
+Король продолжает путь.
+]
+OQAa DEV  L RpjMWfo irkdn   yzg{ B Rce8
+[
+Ожидание.
+]
+OQAa DEV  L RpjTWfo irkdn   yzg{ W Kf4
+[
+Король идёт к полю h6. Цель — поддержать ферзя для мата Qg7.
+]
+OQAa DEV  L RpjTWfo irkdw   yzg{ B Bc8
+[
+Слон нападает на ладью d7.
+]
+OQAa DEV  L RpjcWfo irkdw   yzg{ W Kg5
+[
+Король почти у цели. Угроза — Kh6 и Qg7, мат. Защиты нет: черные сдались.
+]

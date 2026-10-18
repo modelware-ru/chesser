@@ -1,0 +1,408 @@
+# White: Ларри Эванс
+# Black: Самуэль Решевский
+# Place: Нью-Йорк, чемпионат США
+# Date: 29.12.1963
+# Note: Патовая комбинация. Белые спасают проигранную позицию, навязывая пат жертвами.
+
+89ABCDEF25160734mnopqrstwzv{u}xy
+[
+Источник ходов: chessgames.com, партия 1252040 (https://www.chessgames.com/perl/chessgame?gid=1252040), «United States Championship 1963/64», 9-й тур. Результат ½-½.
+
+Что смотреть: долгая позиционная борьба, в которой черные постепенно получают решающий перевес. В конце, когда у белых остаются только ферзь, ладья и пешки, заблокированные черными фигурами, белые находят патовую комбинацию: они отдают ферзя и ладью, и если черные возьмут, у белого короля не останется ни одного хода. Главный урок для выигрывающей стороны: перед последним «добивающим» ходом проверь, не оставляешь ли ты сопернику пат.
+]
+89ARCDEF25160734mnopqrstwzv{u}xy W d4
+[
+Белые занимают центр.
+]
+89ARCDEF25160734mnopqrstwzvju}xy B Nf6
+[
+Гибкий ход: конь контролирует e4.
+]
+89QRCDEF25160734mnopqrstwzvju}xy W c4
+[
+Белые захватывают пространство.
+]
+89QRCDEF25160734mnopirstwzvju}xy B e6
+[
+Черные открывают слона f8.
+]
+89QRCDEF25I60734mnopirstwzvju}xy W Nc3
+[
+Белые готовят e4.
+]
+89QRCDEF25I60734mnopirstwPvju}xy B Bb4
+[
+Защита Нимцовича: слон связывает коня c3 и мешает ходу e4.
+]
+89QRKDEF25I60734mnopirstwPvju}xy W e3
+[
+Система Рубинштейна: белые спокойно укрепляют центр и готовят развитие слона f1.
+]
+89QRKDEF25I60734mnYpirstwPvju}xy B c5
+[
+Черные атакуют центр с фланга.
+]
+89QRKDEF2JI60734mnYpirstwPvju}xy W Bd3
+[
+Слон развивается на активную диагональ.
+]
+89QRKDEF2JI60734mnYpirstwPvjuzx{ B O-O
+[
+Черные рокируют.
+]
+89QRKDEF2JIL0734mnYpirstwPvjuzx{ W Nf3
+[
+Конь развивается и защищает d4.
+]
+89QRKDEF2JIL0734mnYZirstwPvjuzx{ B d5
+[
+Черные занимают центр.
+]
+89QRKDEF2JIL0536mnYZirstwPvjuzx{ W O-O
+[
+Белые рокируют. Обе стороны закончили основное развитие.
+]
+89 RKDEF2JIL0536mnYQirstwPvjuzx{ B dxc4
+[
+Черные меняют пешку и заставляют слона d3 потратить ход на взятие.
+]
+89 RKDEF2QIL0536mnY irstwPvjuzx{ W Bxc4
+[
+Слон берёт пешку и стоит на активной диагонали a2–g8.
+]
+89 RKDEF2QIL0536mnY irstwPpjuzx{ B Nbd7
+[
+Конь развивается, готовясь к игре в центре.
+]
+89 RKDEF2QIL05C6mnY irstwPpjuzx{ W Qe2
+[
+Ферзь освобождает линию «d» для ладьи и поддерживает будущий ход e4.
+]
+89 RKDEF2QIL05C6enY irstwPpjuzx{ B a6
+[
+Черные готовят b5, чтобы прогнать слона c4.
+]
+G9 RKDEF2QIL05C6enY irstwPpjuzx{ W a3
+[
+Белые ставят вопрос слону b4.
+]
+G9  KDEF2QIL05C6enR irstwPpjuzx{ B cxd4
+[
+Черные не отступают, а меняют в центре.
+]
+P9  KDEF2QIL05C6enR irstw pjuzx{ W axb4
+[
+Белые берут слона.
+]
+P9  KDEF2Q L05C6enI irstw pjuzx{ B dxc3
+[
+Черные берут коня. Материал равный.
+]
+PI  KDEF2Q L05C6en  irstw pjuzx{ W bxc3
+[
+Белые берут обратно. Теперь у белых два слона — это небольшое долгосрочное преимущество.
+]
+PI  KDEF2Q L05C6en  irstw pjuzo{ B Qc7
+[
+Ферзь по линии «c» нападает на слона c4.
+]
+PI  SDEF2Q L05C6en  irstw pjuzo{ W e4
+[
+Белые захватывают центр и готовят развитие слона c1. Stockfish считал точнее сначала 13.Bb2.
+]
+PI  SDEF2Q L05C6en  arstw pjuzo{ B e5
+[
+Черные останавливают пешку e4 и закрепляются в центре.
+]
+PI  SDEF9Q L05C6en  arstw pjuzo{ W Bb2
+[
+Слон развивается и защищает пешку c3.
+]
+PI  SDEF9Q L05C6en  arstw fjuzo{ B Nb6
+[
+Конь нападает на слона c4.
+]
+PI  SDEF9H L05C6en  arstw fjuzo{ W Bb3
+[
+Слон отступает, оставаясь на диагонали a2–g8.
+]
+PI  SDEF9H L05C6en  arstU fjuzo{ B Bg4
+[
+Черные развивают последнего слона и связывают коня f3.
+]
+PI  SDEF9H LW5C6en  arstU fjuzo{ W Ra5
+[
+Ладья выходит на пятую горизонталь и давит на e5.
+]
+PI  SDEF9H LW5C6en  arstU fjwzo{ B Rac8
+[
+Ладья занимает полуоткрытую линию «c».
+]
+PQ  SDEF9H LW5C6en  arstU fjwzo{ W c4
+[
+Белые захватывают пространство и готовят c5.
+]
+PQ  SDEF9H LW5C6en  arstU pjwzo{ B Nbd7
+[
+Конь возвращается в центр, защищая e5.
+]
+PQ  SDEN9H LW5C6en  arstU pjwzo{ W h3
+[
+Белые прогоняют слона g4.
+]
+PQ  SDEN9H  W5C6en  arstL pjwzo{ B Bxf3
+[
+Черные меняют слона на коня.
+]
+PQ  SDEN9H  W5L6en  arst  pjwzo{ W Qxf3
+[
+Ферзь берёт обратно. У белых пара слонов против двух коней — по оценке Stockfish, перевес белых.
+]
+PQ  SDEN9H  W5L6en  arst  pjwyo{ B Rfe8
+[
+Черные защищают e5 ладьёй.
+]
+PQ  SDEN9H  W3L6en  arst  pjwyo{ W Rd1
+[
+Ладья занимает открытую линию «d».
+]
+PQ  SDEN9H  W3L6en  arst  pjuyo{ B Ra8
+[
+Ладья встаёт напротив ладьи a5.
+]
+PY  SDEN9H  W3L6en  arst  pjuyo{ W c5
+[
+Белые продвигают пешку, захватывая клетку d6.
+]
+PY  SDEN9H  W3L6en  arst  pjxyo{ B Rad8
+[
+Черные оспаривают линию «d».
+]
+PY  SDEN9O  W3L6en  arst  pjxyo{ W Ba4
+[
+Слон давит на коня d7.
+]
+PY  SDEN9O  W3L6en  arst  pjxqo{ B Re7
+[
+Ладья защищает коня d7 по седьмой горизонтали.
+]
+PY  SDEN9O  WhL6en  arst  pjxqo{ W Rd6
+[
+Ладья вторгается на d6.
+]
+PY  SDEN9O  WhL6eX  arst  pjxqo{ B b5
+[
+Черные контратакуют слона a4.
+]
+PY  SDEN9A  WhL6eX  arst  pjxqo{ W Bc2
+[
+Неточность: слон отступает, и черные выигрывают пешку c5. Stockfish предпочитал 24.Rdxa6.
+]
+P   SDEN9A  WhL6eX  arst  Yjxqo{ B Nxc5
+[
+Конь забирает пешку c5.
+]
+P   SDEN9A  WxL6eX  arst  Yj qo{ W Rxd8+
+[
+Белые меняют ладьи.
+]
+P   SDEN9A  W L6eX  arst  Yj qx{ B Qxd8
+[
+Ферзь берёт обратно.
+]
+P   SDEN9A  W K6eX  arst  Yj qx{ W Qe3
+[
+Ферзь нападает на коня c5.
+]
+P   SDEN9A  W K6eX  arst  pj qx{ B Ncd7
+[
+Конь отступает.
+]
+P   SDEN9A  W J6eX  arst  pj qx{ W Qd3
+[
+Ферзь занимает линию «d».
+]
+P   SDEN9A  W J6eX  arst  pj qf{ B Qb6
+[
+Ферзь выходит на активную диагональ b6–g1 и давит на пешку f2.
+]
+P   SDEN2A  W J6eX  arst  pj qf{ W Bc1
+[
+Слон перестраивается, чтобы перейти на e3.
+]
+P   SDEN2A  W J6eX  arsl  pj qf{ B h6
+[
+Черные дают королю «форточку».
+]
+P   SDENKA  W J6eX  arsl  pj qf{ W Be3
+[
+Слон нападает на ферзя b6.
+]
+P   SDENKA  W J6eX  arsl  pj qn{ B Qb7
+[
+Ферзь отступает.
+]
+P   SLENKA  W J6eX  arsl  pj qn{ W f3
+[
+Белые укрепляют пешку e4.
+]
+P   SLENKA  W J6eX  arsl  vj qn{ B Nb8
+[
+Конь переходит на c6, чтобы атаковать пешку b4.
+]
+P   SLENKA  8 J6eX  arsl  vj qn{ W Ra2
+[
+Ладья отступает на вторую горизонталь для обороны.
+]
+P   SLENKA  8 J6eX  arsl  vj pn{ B Rd7
+[
+Ладья занимает линию «d» и нападает на ферзя d3.
+]
+P   SLENKA  8 G6eX  arsl  vj pn{ W Qa3
+[
+Ферзь уходит и защищает пешку b4.
+]
+P   SLENKA  8 G6eX  arsl  vj pnt B Kh7
+[
+Черные заранее уводят короля с диагонали a2–g8.
+]
+P   SLENKA  8 GFeX  arsl  vj pnt W Kh2
+[
+Белые тоже уводят короля.
+]
+P   SLENKA  8 GFeX  arsl  vj pot B Qc7
+[
+Ферзь по линии «c» нападает на слона c2.
+]
+P   SLENKJ  8 GFeX  arsl  vj pot W Bd3
+[
+Слон уходит из-под удара и нападает на пешку b5.
+]
+P   SLENKJ  8 GFeX  arsl  vd pot B Nh5
+[
+Конь направляется на f4 — отличное поле рядом с белым королём.
+]
+P   SLENKJ  A GFeX  arsl  vd pot W Rc2
+[
+Ладья с темпом нападает на ферзя c7 по линии «c».
+]
+P   SLENKJ  A GFeX  arsl  vd pxt B Qd8
+[
+Ферзь уходит и встаёт за ладьёй d7: черные сдваивают тяжёлые фигуры по линии «d» против слона d3.
+]
+P   SLENK5  A GFeX  arsl  vd pxt W Bf1
+[
+Слон отступает, защищая королевский фланг.
+]
+P   SLENK5  A GFeX  arsl  vd 3xt B Rd1
+[
+Ладья вторгается на первую горизонталь.
+]
+P   SLENK5  2 GFeX  arsl  vd 3xt W Rc1
+[
+Белые предлагают размен ладей.
+]
+P   SLENK5  2 GFeX  arsl  vd hxt B Rd6
+[
+Ладья отступает.
+]
+P   SLENK5  2 8FeX  arsl  vd hxt W Qa2
+[
+Ферзь выходит на диагональ a2–g8 против пешки f7.
+]
+P   SLENK5  2 8FeX  arsl  vd hjt B Qf6
+[
+Ферзь переходит на королевский фланг.
+]
+P   SLENK5  o 8FeX  arsl  vd hjt W Rc7
+[
+Ладья вторгается на седьмую горизонталь.
+]
+P   SLENK5  o 8FeX  arsl  pd hjt B Nd7
+[
+Конь перекрывает седьмую горизонталь и защищает пешку f7 от ладьи c7.
+]
+P   SLENK5  m 8FeX  arsl  pd hjt W Ra7
+[
+Ладья нападает на пешку a6.
+]
+P   SLENK5  m 8FeX  arsl  pT hjt B Nf4
+[
+Конь занимает сильное поле f4 рядом с белым королём.
+]
+P   SLENK5  m AFeX  arsl  pT hjt W Qc2
+[
+Ферзь отступает на защиту.
+]
+P   SLENK5  m AFeX  arsd  pT hjt B h5
+[
+Черные готовят продвижение h4, чтобы ещё больше ослабить белого короля.
+]
+P   SLENK5  m wFeX  arsd  pT hjt W Qc8
+[
+Ферзь вторгается в лагерь черных.
+]
+P   SLENK5  m wFeX  arsd  pT 3jt B Rd1
+[
+Ладья нападает на слона f1. По оценке Stockfish, у черных уже явный перевес.
+]
+P   SLENKX  m wFe   arsd  pT 3jt W Bxb5
+[
+Ошибка: слон берёт пешку, но оставляет без защиты пешку g2. Stockfish рекомендовал 43.Rxd7.
+]
+P   SLENKX  m wFe   arsd  pT 3ct B Qg5
+[
+Ферзь угрожает матом Qxg2.
+]
+P   SLMNKX  m wFe   arsd  pT 3ct W g3
+[
+Единственная защита.
+]
+P   SLMNK   m wFX   arsd  pT 3ct B axb5
+[
+Черные берут слона.
+]
+P   SLMNK   p wFX   arsd   T 3ct W Rxd7
+[
+Ладья берёт коня d7.
+]
+P   SLMNK   p wFX   arsd   T 4ct B Re1
+[
+Ладья нападает на слона e3.
+]
+P   SLMNK   r wFX   a sd   T 4ct W Rxf7
+[
+Белые берут пешку f7.
+]
+P   SLMN    r wFX   a sd   T Kct B Rxe3
+[
+Черные берут слона. У черных лишняя фигура, позиция выиграна (Stockfish: около -4,5).
+]
+P   SLMV    r wFX   a sd   T Kct W h4
+[
+Пешка прогоняет ферзя g5.
+]
+P   SLMV    r wFX   a sd   T Cct B Re2+
+[
+Ладья даёт шах.
+]
+P   SLMV    r w7X   a sd   T Cct W Kh1
+[
+Король уходит в угол. Обратите внимание: все белые пешки, кроме g3, заблокированы (b4 — пешкой b5, e4 — пешкой e5, f3 — конём f4, h4 — пешкой h5). Если исчезнет пешка g3 и белый король потеряет все ходы, у белых будут ходить только ферзь и ладья.
+]
+P   SL V    r w7X   a sd   T CMt B Qxg3
+[
+Грубая ошибка! Черные берут пешку и создают угрозу Qg2#, но лишают белого короля последних полей: теперь g1, g2 и h2 контролируют ферзь g3 и ладья e2. Если у белых исчезнут ферзь и ладья, это будет пат. Правильно было 48...Qg6 с выигрышем (по Stockfish, около -4).
+]
+P   SL V    r {7X   a sd   T CMt W Qg8+
+[
+Жертва ферзя! Взять ферзя приходится: на 49...Kh6 следует 50.Qh8+ Kg6 51.Qxg7 — мат, а на 49...Kg6 — сразу 50.Qxg7 мат.
+]
+P   SL V    r  7X   a sd   T CM{ B Kxg8
+[
+Черные берут ферзя.
+]
+P   SL V    s  7X   a  d   T CM{ W Rxg7+
+[
+«Бешеная ладья»! Ладья даёт шах и предлагает себя. Если 50...Kxg7 или 50...Qxg7 — пат: у белых не остаётся ни одного хода. Если король уйдёт, ладья будет преследовать его шахами (Rf7+, Rg7+, Rh7+), и черные не могут от неё избавиться, не дав пата. Партия закончилась вничью.
+]

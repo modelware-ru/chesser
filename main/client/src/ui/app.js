@@ -16,10 +16,11 @@ const SETTINGS = [
   { key: 'showInfo', label: 'Показывать информацию об игре' },
   { key: 'showComments', label: 'Показывать комментарии к ходам' },
   { key: 'showMoves', label: 'Показывать сыгранные ходы' },
+  { key: 'showTurn', label: 'Показывать подсказку, чей ход' },
 ];
 
 function loadSettings() {
-  const values = { showInfo: true, showComments: true, showMoves: true, hintOn: false };
+  const values = { showInfo: true, showComments: true, showMoves: true, showTurn: true, hintOn: false };
   try {
     const saved = JSON.parse(localStorage.getItem(SETTINGS_KEY) || '{}');
     for (const key of Object.keys(values)) if (typeof saved[key] === 'boolean') values[key] = saved[key];
@@ -229,6 +230,7 @@ export class App {
     const st = pos.status();
     let text;
     let cls = 'alert-secondary';
+    let final = true; // итог партии показывается всегда, подсказка «чей ход» — по настройке
     if (st === 'mate') {
       text = `Мат. Победили ${colorName(pos.turn === WHITE ? BLACK : WHITE)}`;
       cls = 'alert-success';
@@ -239,6 +241,7 @@ export class App {
       text = 'Партия завершена';
       cls = 'alert-success';
     } else {
+      final = false;
       text = `Ход ${colorName(pos.turn, true)}`;
       if (pos.inCheck()) {
         text += ' — шах!';
@@ -251,7 +254,7 @@ export class App {
         text += ` (просмотр хода ${this.cursor} из ${this.game.length})`;
       }
     }
-    this.status.className = `status alert py-2 mb-2 ${cls}`;
+    this.status.className = `status alert py-2 mb-2 ${cls}${final || this.settings.showTurn ? '' : ' d-none'}`;
     this.status.textContent = text;
   }
 
@@ -331,11 +334,11 @@ export class App {
     this.playSide.textContent = `Вы играете ${SIDE_LABELS[this.side]}. Ход ${this.cursor} из ${this.game.length}.`;
   }
 
-  // Комментарии ко всем сыгранным ходам; последний ход выделен.
+  // Комментарии ко всем сыгранным ходам, самые новые сверху; последний ход выделен.
   renderComment() {
     this.commentTitle.textContent = 'Комментарии';
     const items = [];
-    for (let i = 0; i <= this.cursor; i++) {
+    for (let i = this.cursor; i >= 0; i--) {
       const note = (this.game.notes[i] || '').trim();
       if (!note && i !== this.cursor) continue;
       const title = i === 0 ? 'Начальная позиция' : this.moveTitle(i - 1);
@@ -344,7 +347,7 @@ export class App {
         note ? el('div.note-text', note) : el('div.text-body-secondary.small', 'Комментария нет')));
     }
     setChildren(this.comment, items);
-    this.comment.scrollTop = this.comment.scrollHeight;
+    this.comment.scrollTop = 0;
   }
 
   openSettings() {

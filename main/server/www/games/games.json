@@ -349,5 +349,188 @@
         "file": "29-caro-kann-smothered-mate-trap.chessgame"
       }
     ]
+  },
+  {
+    "title": "Справочник дебютов",
+    "children": [
+      {
+        "title": "Открытые дебюты (1.e4 e5)",
+        "children": [
+          {
+            "title": "Испанская партия",
+            "file": "30-ruy-lopez.chessgame"
+          },
+          {
+            "title": "Итальянская партия",
+            "file": "31-italian.chessgame"
+          },
+          {
+            "title": "Гамбит Эванса",
+            "file": "32-evans-gambit.chessgame"
+          },
+          {
+            "title": "Защита двух коней",
+            "file": "33-two-knights.chessgame"
+          },
+          {
+            "title": "Шотландская партия",
+            "file": "34-scotch.chessgame"
+          },
+          {
+            "title": "Партия четырёх коней",
+            "file": "35-four-knights.chessgame"
+          },
+          {
+            "title": "Русская партия (защита Петрова)",
+            "file": "36-petrov.chessgame"
+          },
+          {
+            "title": "Защита Филидора",
+            "file": "37-philidor.chessgame"
+          },
+          {
+            "title": "Королевский гамбит",
+            "file": "38-kings-gambit.chessgame"
+          },
+          {
+            "title": "Венская партия",
+            "file": "39-vienna.chessgame"
+          }
+        ]
+      },
+      {
+        "title": "Полуоткрытые дебюты (1.e4, чёрные отвечают не 1...e5)",
+        "children": [
+          {
+            "title": "Сицилианская защита",
+            "file": "40-sicilian.chessgame"
+          },
+          {
+            "title": "Французская защита",
+            "file": "41-french.chessgame"
+          },
+          {
+            "title": "Защита Каро-Канн",
+            "file": "42-caro-kann.chessgame"
+          },
+          {
+            "title": "Скандинавская защита",
+            "file": "43-scandinavian.chessgame"
+          },
+          {
+            "title": "Защита Алехина",
+            "file": "44-alekhine.chessgame"
+          },
+          {
+            "title": "Защита Пирца-Уфимцева",
+            "file": "45-pirc.chessgame"
+          },
+          {
+            "title": "Современная защита",
+            "file": "46-modern.chessgame"
+          }
+        ]
+      },
+      {
+        "title": "Закрытые дебюты (1.d4 d5)",
+        "children": [
+          {
+            "title": "Ферзевый гамбит принятый",
+            "file": "47-queens-gambit-accepted.chessgame"
+          },
+          {
+            "title": "Ферзевый гамбит отказанный",
+            "file": "48-queens-gambit-declined.chessgame"
+          },
+          {
+            "title": "Славянская защита",
+            "file": "49-slav.chessgame"
+          },
+          {
+            "title": "Защита Тарраша",
+            "file": "50-tarrasch.chessgame"
+          },
+          {
+            "title": "Лондонская система",
+            "file": "51-london.chessgame"
+          },
+          {
+            "title": "Система Колле",
+            "file": "52-colle.chessgame"
+          },
+          {
+            "title": "Гамбит Блэкмара-Димера",
+            "file": "53-blackmar-diemer.chessgame"
+          }
+        ]
+      },
+      {
+        "title": "Индийские защиты (1.d4 Кf6)",
+        "children": [
+          {
+            "title": "Староиндийская защита",
+            "file": "54-kings-indian.chessgame"
+          },
+          {
+            "title": "Новоиндийская защита",
+            "file": "55-queens-indian.chessgame"
+          },
+          {
+            "title": "Защита Нимцовича",
+            "file": "56-nimzo-indian.chessgame"
+          },
+          {
+            "title": "Защита Грюнфельда",
+            "file": "57-grunfeld.chessgame"
+          },
+          {
+            "title": "Каталонское начало",
+            "file": "58-catalan.chessgame"
+          },
+          {
+            "title": "Защита Бенони",
+            "file": "59-benoni.chessgame"
+          },
+          {
+            "title": "Волжский гамбит (гамбит Бенко)",
+            "file": "60-benko-gambit.chessgame"
+          },
+          {
+            "title": "Будапештский гамбит",
+            "file": "61-budapest-gambit.chessgame"
+          }
+        ]
+      },
+      {
+        "title": "Другие ответы на 1.d4",
+        "children": [
+          {
+            "title": "Голландская защита",
+            "file": "62-dutch.chessgame"
+          }
+        ]
+      },
+      {
+        "title": "Фланговые дебюты",
+        "children": [
+          {
+            "title": "Английское начало",
+            "file": "63-english.chessgame"
+          },
+          {
+            "title": "Дебют Рети",
+            "file": "64-reti.chessgame"
+          },
+          {
+            "title": "Дебют Берда",
+            "file": "65-bird.chessgame"
+          },
+          {
+            "title": "Дебют Ларсена",
+            "file": "66-larsen.chessgame"
+          }
+        ]
+      }
+    ]
   }
 ]

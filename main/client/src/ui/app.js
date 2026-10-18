@@ -283,9 +283,11 @@ export class App {
       hint.setAttribute('aria-pressed', String(on));
       const back = button('btn-outline-secondary', 'arrow-counterclockwise', 'Назад', () => this.playBack(), 'Вернуть ход');
       back.disabled = this.cursor === 0;
+      const auto = button('btn-outline-success', 'magic', 'Сделать ход', () => this.playForUser(), 'Сделать правильный ход за вас');
+      auto.disabled = !this.isUserTurn();
       setChildren(this.toolbar, [
         button('btn-outline-secondary', 'skip-start', 'Сначала', () => this.restart(), 'Начать сначала'),
-        back, flip, hint,
+        back, flip, hint, auto,
       ]);
     }
   }
@@ -483,6 +485,15 @@ export class App {
         this.advance();
       }, AUTO_DELAY);
     }
+  }
+
+  // Программа делает за пользователя ход из партии.
+  playForUser() {
+    if (this.mode !== 'play' || !this.isUserTurn()) return;
+    const expected = this.game.moves[this.cursor];
+    notify(`Сделан ход ${moveNumber(this.position)} ${expected.san}`, 'info', 2000);
+    this.selected = -1;
+    this.advance();
   }
 
   toggleHint() {
